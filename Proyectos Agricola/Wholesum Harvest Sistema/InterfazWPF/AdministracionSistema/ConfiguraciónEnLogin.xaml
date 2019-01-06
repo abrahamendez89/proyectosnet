@@ -1,0 +1,36 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" x:Class="InterfazWPF.AdministracionSistema.ConfiguraciónEnLogin"
+        Title="Configuración básica" Height="89.1" Width="253.758" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFF3F3F3">
+        <PasswordBox x:Name="txt_contrasena" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Width="126" KeyDown="txt_contrasena_KeyDown_1"/>
+
+        <InterfazWPF:Boton x:Name="btn_accesar" Text="Accesar" HorizontalAlignment="Left" Margin="155,19,0,0" VerticalAlignment="Top" Width="79" MouseDown="Boton_MouseDown"/>
+        <TabControl x:Name="tc_tabControl" HorizontalAlignment="Left" Height="242" Margin="10,6,0,0" VerticalAlignment="Top" Width="374" Visibility="Hidden">
+            <TabItem Header="Conexión a base de datos 'conn.conf'">
+                <Grid Background="#FFF7F7F7">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Servidor\Instancia:" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" VerticalAlignment="Top" Width="111"/>
+                    <TextBox x:Name="txt_servidorInstancia" HorizontalAlignment="Left" Height="23" Margin="126,10,0,0" Text="" VerticalAlignment="Top" Width="197" MaxLines="1"/>
+                    <Label Content="Base de datos:" HorizontalAlignment="Left" Height="23" Margin="10,47,0,0" VerticalAlignment="Top" Width="111"/>
+                    <TextBox x:Name="txt_baseDatos" HorizontalAlignment="Left" Height="23" Margin="126,47,0,0" Text="" VerticalAlignment="Top" Width="197"/>
+                    <Label Content="Usuario:" HorizontalAlignment="Left" Height="23" Margin="10,84,0,0" VerticalAlignment="Top" Width="111"/>
+                    <TextBox x:Name="txt_usuario" HorizontalAlignment="Left" Height="23" Margin="126,84,0,0" Text="" VerticalAlignment="Top" Width="197"/>
+                    <Label Content="Contraseña:" HorizontalAlignment="Left" Height="23" Margin="10,119,0,0" VerticalAlignment="Top" Width="111"/>
+                    <PasswordBox x:Name="txt_Contraseña" HorizontalAlignment="Left" Margin="126,122,0,0" VerticalAlignment="Top" Width="197"/>
+                    <InterfazWPF:Boton x:Name="btn_guardarDatosServidor" Text="Guardar" HorizontalAlignment="Left" Margin="244,152,0,0" VerticalAlignment="Top" Width="79" MouseDown="btn_guardarDatosServidor_MouseDown"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Modificación a 'data.conf'">
+                <Grid Background="#FFF7F7F7">
+                    <DataGrid x:Name="dgr_variables" ColumnHeaderHeight="25" AutoGenerateColumns="True" AlternatingRowBackground="LightGray" HorizontalAlignment="Left" Height="164" Margin="10,10,0,0" VerticalAlignment="Top" Width="344"/>
+                    <InterfazWPF:Boton x:Name="btn_guardarData" Text="Guardar" HorizontalAlignment="Left" Margin="262,179,0,0" VerticalAlignment="Top" Width="92" MouseDown="btn_guardarData_MouseDown"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

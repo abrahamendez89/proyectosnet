@@ -1,0 +1,12 @@
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\EjecutaBIConsola.exe.config
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\EjecutaBIConsola.exe
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\EjecutaBIConsola.pdb
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\obj\Debug\EjecutaBIConsola.exe
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\obj\Debug\EjecutaBIConsola.pdb
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\obj\Debug\EjecutaBIConsola.csprojResolveAssemblyReference.cache
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\Herramientas.dll
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\itextsharp.dll
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\NCalc.dll
+D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\Herramientas.pdb

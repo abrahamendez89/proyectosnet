@@ -1,0 +1,1 @@
+<RepAux:ComprExt NumFactExt="@NumFactExt" TaxID="@TaxID" MontoTotal="@MontoTotal" MetPagoAux="@MetPagoAux" Moneda="@Moneda" TipCamb="@TipCamb"/>

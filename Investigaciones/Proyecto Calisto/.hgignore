@@ -1,0 +1,6 @@
+syntax: glob
+Calisto/Calisto/bin/Debug/
+Calisto/Calisto/obj/
+Calisto/Herramientas/obj/
+Calisto/Dominio/obj/
+Calisto/DominioLicencias/obj/

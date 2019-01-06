@@ -1,0 +1,39 @@
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.exe
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.CodigoGenerado.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Generador.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.NombreBD.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Properties.Resources.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.VisorImagenes.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.exe
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.exe
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.pdb
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\bin\Debug\Herramientas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.CodigoGenerado.resources
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Generador.resources
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.NombreBD.resources
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Properties.Resources.resources
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.VisorImagenes.resources
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csproj.GenerateResource.Cache
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.exe
+D:\Proyectos\Wholesum Harvest Sistema\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.pdb

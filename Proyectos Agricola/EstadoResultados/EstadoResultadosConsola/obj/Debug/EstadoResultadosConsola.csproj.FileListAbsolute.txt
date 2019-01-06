@@ -1,0 +1,13 @@
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\EstadoResultadosConsola.exe.config
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\EstadoResultadosConsola.exe
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\EstadoResultadosConsola.pdb
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\EstadoResultados.exe
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\Herramientas.dll
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\itextsharp.dll
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\EstadoResultados.pdb
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\bin\Debug\Herramientas.pdb
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\obj\Debug\EstadoResultadosConsola.csprojResolveAssemblyReference.cache
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\obj\Debug\EstadoResultadosConsola.exe
+D:\Proyectos\EstadoResultados\EstadoResultadosConsola\obj\Debug\EstadoResultadosConsola.pdb

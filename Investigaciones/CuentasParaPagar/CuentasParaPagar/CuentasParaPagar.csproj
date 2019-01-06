@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25485414-9442-490E-8030-8E8FDCDE84A9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CuentasParaPagar</RootNamespace>
+    <AssemblyName>CIC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1440196835_openofficeorg-calc.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe\DesarrolladoPor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe\DesarrolladoPor.Designer.cs">
+      <DependentUpon>DesarrolladoPor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcercaDe\EnviarCorreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe\EnviarCorreo.Designer.cs">
+      <DependentUpon>EnviarCorreo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\CatalogoCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalogos\CatalogoCuentas.Designer.cs">
+      <DependentUpon>CatalogoCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\CatalogoTipoMovimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalogos\CatalogoTipoMovimiento.Designer.cs">
+      <DependentUpon>CatalogoTipoMovimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Catalogos\EnvioRespaldo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catalogos\EnvioRespaldo.Designer.cs">
+      <DependentUpon>EnvioRespaldo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\ProyeccionFutura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\ProyeccionFutura.Designer.cs">
+      <DependentUpon>ProyeccionFutura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ContenedorCuentasMovimientosFuturos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ContenedorCuentasMovimientosFuturos.Designer.cs">
+      <DependentUpon>ContenedorCuentasMovimientosFuturos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ContenedorSaldosAlDiaCuentas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ContenedorSaldosAlDiaCuentas.Designer.cs">
+      <DependentUpon>ContenedorSaldosAlDiaCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\MovimientosEnUnDia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\MovimientosEnUnDia.Designer.cs">
+      <DependentUpon>MovimientosEnUnDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\MovimientosFuturosDeCuenta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\MovimientosFuturosDeCuenta.Designer.cs">
+      <DependentUpon>MovimientosFuturosDeCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\SaldoAlDiaCuenta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\SaldoAlDiaCuenta.Designer.cs">
+      <DependentUpon>SaldoAlDiaCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Operaciones\RegistrarMovimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operaciones\RegistrarMovimiento.Designer.cs">
+      <DependentUpon>RegistrarMovimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\HistorialDeMovimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\HistorialDeMovimientos.Designer.cs">
+      <DependentUpon>HistorialDeMovimientos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AcercaDe\DesarrolladoPor.resx">
+      <DependentUpon>DesarrolladoPor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AcercaDe\EnviarCorreo.resx">
+      <DependentUpon>EnviarCorreo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\CatalogoCuentas.resx">
+      <DependentUpon>CatalogoCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\CatalogoTipoMovimiento.resx">
+      <DependentUpon>CatalogoTipoMovimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Catalogos\EnvioRespaldo.resx">
+      <DependentUpon>EnvioRespaldo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\ProyeccionFutura.resx">
+      <DependentUpon>ProyeccionFutura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\ContenedorCuentasMovimientosFuturos.resx">
+      <DependentUpon>ContenedorCuentasMovimientosFuturos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\ContenedorSaldosAlDiaCuentas.resx">
+      <DependentUpon>ContenedorSaldosAlDiaCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\MovimientosEnUnDia.resx">
+      <DependentUpon>MovimientosEnUnDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\MovimientosFuturosDeCuenta.resx">
+      <DependentUpon>MovimientosFuturosDeCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\SaldoAlDiaCuenta.resx">
+      <DependentUpon>SaldoAlDiaCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Operaciones\RegistrarMovimiento.resx">
+      <DependentUpon>RegistrarMovimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\HistorialDeMovimientos.resx">
+      <DependentUpon>HistorialDeMovimientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Proyectos\Herramientas\Herramientas.csproj">
+      <Project>{5d7b5d2f-1e0f-470e-a0a0-a683daef7ffa}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{e2b74527-84d9-44ed-8d68-808305840440}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1440196835_openofficeorg-calc.ico" />
+    <None Include="Resources\1440323935_icon-6-mail-envelope-closed.png" />
+    <None Include="Resources\1441085724_sign_free_red.png" />
+    <None Include="Resources\1441168942_programmer_3D.png" />
+    <None Include="Resources\1446507100_mail.png" />
+    <None Include="Resources\1446507199_dropbox_256.png" />
+    <None Include="Resources\1446507214_onedrive_256.png" />
+    <Content Include="SQLite.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQLite3.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

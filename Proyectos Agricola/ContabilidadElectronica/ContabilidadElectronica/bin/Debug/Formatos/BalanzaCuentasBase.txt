@@ -1,0 +1,1 @@
+<BCE:Ctas NumCta="@NumCta" SaldoIni="@SaldoIni" Debe="@Debe" Haber="@Haber" SaldoFin="@SaldoFin"/>

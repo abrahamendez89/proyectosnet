@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{053276F9-43D2-4B75-A05D-1DC47D9A415C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EstadoResultados</RootNamespace>
+    <AssemblyName>EstadoResultados</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1419914113_34038.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CatalogoBeneficios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoBeneficios.Designer.cs">
+      <DependentUpon>CatalogoBeneficios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogoEstadoResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatalogoEstadoResultados.Designer.cs">
+      <DependentUpon>CatalogoEstadoResultados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CatálogoLigadoConceptos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CatálogoLigadoConceptos.Designer.cs">
+      <DependentUpon>CatálogoLigadoConceptos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConceptoEstadoFinanciero.cs" />
+    <Compile Include="AgendadoServicioEstadoResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgendadoServicioEstadoResultados.Designer.cs">
+      <DependentUpon>AgendadoServicioEstadoResultados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EjecutarServicioEstadoResultados.cs" />
+    <Compile Include="EmailsNotificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailsNotificacion.Designer.cs">
+      <DependentUpon>EmailsNotificacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServicioEstadoResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServicioEstadoResultados.Designer.cs">
+      <DependentUpon>ServicioEstadoResultados.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CatalogoBeneficios.resx">
+      <DependentUpon>CatalogoBeneficios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CatalogoEstadoResultados.resx">
+      <DependentUpon>CatalogoEstadoResultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CatálogoLigadoConceptos.resx">
+      <DependentUpon>CatálogoLigadoConceptos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgendadoServicioEstadoResultados.resx">
+      <DependentUpon>AgendadoServicioEstadoResultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailsNotificacion.resx">
+      <DependentUpon>EmailsNotificacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ServicioEstadoResultados.resx">
+      <DependentUpon>ServicioEstadoResultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1419914113_34038.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Herramientas\Herramientas.csproj">
+      <Project>{5d7b5d2f-1e0f-470e-a0a0-a683daef7ffa}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

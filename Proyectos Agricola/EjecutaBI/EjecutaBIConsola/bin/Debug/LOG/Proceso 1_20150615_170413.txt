@@ -1,0 +1,368 @@
+2015-06-15 17:04:05: Iniciado el proceso 'Proceso 1' con fecha: 15/06/2015 05:04:05 p. m.
+2015-06-15 17:04:05: Limpiando código de comentarios
+2015-06-15 17:04:05: Ejecutando: 
+2015-06-15 17:04:05: CMD ping www.google.com...
+2015-06-15 17:04:05: Inicio: 15/06/2015 05:04:05 p. m.
+2015-06-15 17:04:08: Resultado: Realizado correctamente.
+2015-06-15 17:04:08: Fin: 2015-06-15 17:04:08
+2015-06-15 17:04:08: Duración(Minutos): 0.0594
+2015-06-15 17:04:08: ------------------------------------------------------
+2015-06-15 17:04:08: Ejecutando: 
+2015-06-15 17:04:08: IMPORT_EXCEL D:\Proyectos\EjecutaBI\EjecutaBIConso...
+2015-06-15 17:04:08: Inicio: 15/06/2015 05:04:08 p. m.
+2015-06-15 17:04:12: Resultado: Lo sentimos, no hemos encontrado  D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\ARCHIVOS\Layaout_Bonos_Warehouse.xlsx. ¿Puede ser que lo haya movido, eliminado o le hayas cambiado el nombre?
+2015-06-15 17:04:12: Fin: 2015-06-15 17:04:12
+2015-06-15 17:04:12: Duración(Minutos): 0.071
+2015-06-15 17:04:12: ------------------------------------------------------
+2015-06-15 17:04:12: Ejecutando: 
+2015-06-15 17:04:12: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_Normal...
+2015-06-15 17:04:12: Inicio: 2015-06-15 17:04:12
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_normal...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Fuente_Inventa...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_ARTICULOS...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_PERIODOS_I...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('tb_bi_mala_rotacion'...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('tb_bi_inventario')...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('tb_bi_billoflading')...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Sp_bi_origen_referen...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Inventarios_He...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_MESES')...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIADELASE...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_TRANSCURR...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('VW_BI_TEMPORADA_ACTU...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_TipoAnalis...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_PROVEEDOR...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_PROVEEDOR...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Almacenes'...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('vw_bi_ctl_periodos_d...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('vw_bi_ctl_analisis_I...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_billofladi...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Curren_Day...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('SP_REP_COMPRA_DEV_BI...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_drop('sp_bi_semanas_normal...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_MESES(     CVE_MES,     DES_...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_DIADELASEMANA(     CVE_DIADE...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_TRANSCURRIDOS(     CVE_TRANS...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_TEMPORADA_ACTUAL(     CVE_TEMPOR...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_TIPOANALISIS(     CVE_TIPOAN...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_PROVEEDORES(     CVE_PROVEED...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_PROVEEDORESMARCAS(     CVE_P...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_ALMACENES(     CVE_ALMACEN, ...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_PERIODOS_DIASINV(     CVE_DI...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_ANALISIS_INVENTARIO(     CVE...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_CURREN_DAY(     CVE_CURRENT_...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table tb_bi_semanas_normales( cve_Temporada...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create Procedure sp_bi_semanas_normales (fechaIni ...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: execute procedure sp_bi_semanas_normales('01-01-20...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_ARTICULOS(     CVE_ARTICULO,...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table Tb_Bi_Fuente_Inventario( ID integer, ...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: insert into tb_bi_fuente_inventario select     a.I...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: Create procedure Sp_bi_origen_referencia(     comp...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create procedure Sp_bi_Fecha_Manifiesto(     compr...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create GENERATOR gen_t1_id3...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: SET GENERATOR gen_t1_id3 TO 0...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table tb_bi_billoflading( CVE_ID INTEGER, C...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create TRIGGER T1_BI3 FOR tb_bi_billoflading ACTIV...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: INSERT INTO tb_bi_billoflading select NULL, ENTREG...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE VIEW VW_BI_CTL_BILLOFLADING(     CVE_BILLOF...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table tb_bi_inventario( CVE_COMPRA_REC_DET ...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: INSERT INTO tb_bi_inventario Select ompra_rec_det_...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table tb_bi_mala_rotacion( CVE_COMPRA_REC_D...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table tb_mala_rotacion_billoflading( CVE_BI...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create Procedure sp_bi_verifica_rotacion as declar...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: execute procedure sp_bi_verifica_rotacion...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create table Tb_Bi_Inventarios_Hechos( FEC_FECHA d...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create view VW_BI_CTL_PERIODOS_INVENTARIOS(     CV...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: insert into Tb_Bi_Inventarios_Hechos select cast(D...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: CREATE PROCEDURE SP_REP_COMPRA_DEV_BI (     fecha_...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: alter table tb_bi_inventarios_hechos add NUM_SENT ...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: alter table tb_bi_inventarios_hechos add NUM_RECEI...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: alter table tb_bi_inventarios_hechos add cve_TipoR...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: update tb_bi_inventarios_hechos set NUM_SENT=0.00,...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: insert into tb_bi_inventarios_hechos select cast(D...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: Create table  tb_bi_semanas_Normal( cve_Temporada ...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: insert into  tb_bi_semanas_Normal select '04-05' a...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: create procedure  sp_bi_semanas_Normal( fecha date...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: EXECUTE PROCEDURE sp_bi_semanas_Normal ('12-31-202...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: alter table Tb_Bi_Inventarios_Hechos ADD CVE_SEMAN...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Ejecutando: 
+2015-06-15 17:04:13: update Tb_Bi_Inventarios_Hechos set CVE_SEMANA_INV...
+2015-06-15 17:04:13: Inicio: 2015-06-15 17:04:13
+2015-06-15 17:04:13: Resultado: Referencia a objeto no establecida como instancia de un objeto.
+2015-06-15 17:04:13: ------------------------------------------------------
+2015-06-15 17:04:13: Proceso terminado con 70 errores.
+2015-06-15 17:04:13: Referencia a objeto no establecida como instancia de un objeto.

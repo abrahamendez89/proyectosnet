@@ -1,0 +1,17 @@
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\EstructuraContable.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\EstructuraContable.pdb
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\obj\Debug\EstructuraContable.csprojResolveAssemblyReference.cache
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\obj\Debug\EstructuraContable.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\obj\Debug\EstructuraContable.pdb
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\Herramientas.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\Herramientas.pdb
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\itextsharp.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\NCalc.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\SQLite.NET.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\InputSimulator.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\MySql.Data.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\AForge.Video.dll
+D:\Proyectos\ContabilidadElectronica\EstructuraContable\bin\Debug\AForge.Video.DirectShow.dll

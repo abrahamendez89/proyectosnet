@@ -1,0 +1,16 @@
+D:\Proyectos\SendSMS\SendSMS\bin\Debug\SendSMS.exe.config
+D:\Proyectos\SendSMS\SendSMS\bin\Debug\SendSMS.exe
+D:\Proyectos\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+D:\Proyectos\SendSMS\SendSMS\obj\Debug\SendSMS.csprojResolveAssemblyReference.cache
+D:\Proyectos\SendSMS\SendSMS\obj\Debug\SendSMS.exe
+D:\Proyectos\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
+D:\Proyectos\SendSMS\SendSMS\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\SendSMS\SendSMS\bin\Debug\Newtonsoft.Json.xml
+D:\Proyecto corcega\SendSMS\SendSMS\bin\Debug\SendSMS.exe.config
+D:\Proyecto corcega\SendSMS\SendSMS\obj\Debug\SendSMS.exe
+D:\Proyecto corcega\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
+D:\Proyecto corcega\SendSMS\SendSMS\bin\Debug\SendSMS.exe
+D:\Proyecto corcega\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+D:\Proyecto corcega\SendSMS\SendSMS\bin\Debug\Newtonsoft.Json.dll
+D:\Proyecto corcega\SendSMS\SendSMS\bin\Debug\Newtonsoft.Json.xml
+D:\Proyecto corcega\SendSMS\SendSMS\obj\Debug\SendSMS.csprojResolveAssemblyReference.cache

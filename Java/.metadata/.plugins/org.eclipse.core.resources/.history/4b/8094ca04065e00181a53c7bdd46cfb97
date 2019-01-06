@@ -1,0 +1,37 @@
+package com.zucarmex.cuentasxcobrar.rest;
+
+import java.util.HashSet;
+import java.util.Set;
+
+import javax.ws.rs.ApplicationPath;
+import javax.ws.rs.core.Application;
+
+
+
+@ApplicationPath("/rest")
+public class RestApplicationActivator extends Application {
+	
+	private Set<Object> singletons = new HashSet<Object>();
+
+	public RestApplicationActivator() {
+		singletons.add(new CoCuentasContablesResource());
+		singletons.add(new FaConsignatariosResource());
+		singletons.add(new CcClientesResource());
+		singletons.add(new MgSeriesResource());
+		singletons.add(new MgDocumentosResource());
+		singletons.add(new CcConceptosFacturablesResource());
+		singletons.add(new MgTiposImpuestosResource());
+		singletons.add(new MgEjerciciosPeriodosResource());
+		singletons.add(new InUnidadesResource());
+		singletons.add(new CcHistoricoMovimientosResource());
+		singletons.add(new FaFacturaOtrosConceptosResource());
+		singletons.add(new CcNotasDebitoResource());
+		singletons.add(new ModeloGeneralResource());
+	}
+	
+	@Override
+	public Set<Object> getSingletons() {
+		return singletons;
+	}
+
+}

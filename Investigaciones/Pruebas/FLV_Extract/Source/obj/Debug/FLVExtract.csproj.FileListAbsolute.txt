@@ -1,0 +1,10 @@
+D:\Proyectos personales\FLV_Extract\Source\bin\Debug\FLVExtract.exe.config
+D:\Proyectos personales\FLV_Extract\Source\bin\Debug\FLVExtract.exe
+D:\Proyectos personales\FLV_Extract\Source\bin\Debug\FLVExtract.pdb
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\JDP.frmMain.resources
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\JDP.frmOverwrite.resources
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\JDP.frmStatus.resources
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\JDP.Properties.Resources.resources
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\FLVExtract.csproj.GenerateResource.Cache
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\FLVExtract.exe
+D:\Proyectos personales\FLV_Extract\Source\obj\Debug\FLVExtract.pdb

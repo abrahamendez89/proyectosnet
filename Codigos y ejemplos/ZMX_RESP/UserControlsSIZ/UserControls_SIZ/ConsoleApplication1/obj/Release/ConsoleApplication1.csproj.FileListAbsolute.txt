@@ -1,0 +1,6 @@
+D:\ERPZMX\USER_CONTROLS\UserControlsSIZ\UserControls_SIZ\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\ERPZMX\USER_CONTROLS\UserControlsSIZ\UserControls_SIZ\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\ERPZMX\USER_CONTROLS\UserControlsSIZ\UserControls_SIZ\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\ERPZMX\USER_CONTROLS\UserControlsSIZ\UserControls_SIZ\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ERPZMX\USER_CONTROLS\UserControlsSIZ\UserControls_SIZ\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\ERPZMX\USER_CONTROLS\UserControlsSIZ\UserControls_SIZ\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

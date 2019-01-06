@@ -1,0 +1,45 @@
+--------- PASO 1:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --eliminando procedimiento sp_bi_drop  DROP PROCEDURE "SP_BI_DROP"...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.193 - *HORA INICIO: 10:25:09 - *HORA FIN: 10:25:09
+
+--------- PASO 2:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --un comentario de shell ## ping www.google.com...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:09:09.420 - *HORA INICIO: 10:24:06 - *HORA FIN: 10:33:16
+
+--------- PASO 3:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --Creacion de procedimiento sp_bi_drop CREATE PROCEDURE SP_BI_DROP (     prttable_name varchar(80)) as declare variable s varchar(100); declare variab...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.044 - *HORA INICIO: 10:33:16 - *HORA FIN: 10:33:16
+
+--------- PASO 4:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --Inicia eliminado de fuentes BI EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_ARTICULOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:08.798 - *HORA INICIO: 10:33:16 - *HORA FIN: 10:33:25
+
+--------- PASO 5:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_CLIENTES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.007 - *HORA INICIO: 10:33:25 - *HORA FIN: 10:33:25
+
+--------- PASO 6:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('Vw_Bi_Ctl_Current_Month')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.046 - *HORA INICIO: 10:33:25 - *HORA FIN: 10:33:25
+
+--------- PASO 7:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIADELASEMANA')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:13.461 - *HORA INICIO: 10:33:25 - *HORA FIN: 10:33:38
+
+--------- PASO 8:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIRECCIONES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.028 - *HORA INICIO: 10:33:38 - *HORA FIN: 10:33:38
+
+--------- PASO 9:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIVISIONES')...
+Proceso cancelado por el usuario a las 10:35:24 con una duración total de 00:10:17...
+Proceso cancelado por el usuario a las 10:35:31 con una duración total de 00:10:24...
+

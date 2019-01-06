@@ -1,0 +1,155 @@
+<html>
+    <head>
+	
+	 <link rel="stylesheet" type="text/css" href="index.css">
+	
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.0/socket.io.js"></script>
+   <script type="text/javascript" src="http://www.json.org/json2.js"></script>
+        <script language="JavaScript">
+			var socket = io('http://192.168.2.104:8080');
+			var width = 0;
+			var heigth = 0;
+			socket.on('connect', () => {
+			  console.log(socket.id);
+			});
+
+			socket.on('reenviafoto', (message) => {
+			
+			 var foto = message.split('|')[1];
+			 width = message.split('|')[0].split(',')[0];
+			 heigth = message.split('|')[0].split(',')[1];
+			
+			  $('#visor').attr('src',"data:image/png;base64, "+foto);
+			});		
+			//var fueContextMenu = false;
+			$(document).ready(function() {
+				$("#visor").on('contextmenu', function (event) {
+					//socket.emit("enviamousecontextmenu","");
+					//fueContextMenu = true;
+				});
+				$('#visor').bind('dragstart', function(event) { event.preventDefault(); });
+				//mouse
+				$('#visor').on("mousedown", function () {
+					switch (event.which) {
+							case 1:
+									console.log("enviamousedownleft");
+									socket.emit("enviamousedownleft","");
+									break;
+							case 2:
+									console.log("enviamousedownmid");
+									socket.emit("enviamousedownmid","");
+									break;
+							case 3:
+									console.log("enviamousedownright");
+									socket.emit("enviamousedownright","");
+									break;
+					}
+
+				}).on("mouseup mouseout", function () {
+					switch (event.which) {
+							case 1:
+									console.log("enviamouseupleft");
+									socket.emit("enviamouseupleft","");
+									break;
+							case 2:
+									console.log("enviamouseupmid");
+									socket.emit("enviamouseupmid","");
+									break;
+							case 3:
+									console.log("enviamouseupright");
+									socket.emit("enviamouseupright","");
+									break;
+					}
+				});
+				
+				$("#visor").on("mousemove", function(e) {
+					var offset = $(this).offset();
+					var x = (e.pageX - offset.left);
+					var y = (e.pageY - offset.top);
+					//console.log("Mouse Move, X Coordinate: " + x + " Y Coordinate: " + y);
+					
+					var img = document.getElementById('visor'); 
+					//or however you get a handle to the IMG
+					var widthImg = img.clientWidth;
+					var heightImg = img.clientHeight;
+					
+					
+					//calculando porcentaje de movimiento
+					var tx = (x * 100) / widthImg;
+					var ty = (y * 100) / heightImg;
+					//calculando la coordenada para la transformacion
+					var x2 = Math.trunc((tx/100) * width);
+					var y2 = Math.trunc((ty/100) * heigth);
+									
+					
+					//console.log("Mouse Move (calculado), X Coordinate: " + x2 + " Y Coordinate: " + y2);
+					socket.emit("enviaMouse",x2+","+y2);
+				});
+				$("#visor").on("click", function(event) {
+					var x = event.pageX - this.offsetLeft;
+					var y = event.pageY - this.offsetTop;
+					//console.log("Left click, X Coordinate: " + x + " Y Coordinate: " + y);
+				});
+				
+				$("#visor").contextmenu(function() {
+					return false;
+				});
+				
+				//teclado
+				/*
+				var escomb = false;
+				$(document).keypress(function(e) {
+				  if(e.keyCode == 13) {
+					// enter pressed
+					console.log("presionaste enter");
+				  }
+				  if(e.keyCode == 116) {
+					// enter pressed
+					console.log("presionaste f5");
+				  }
+				  if(e.which == 99) { // c
+					// enter pressed
+						if(e.ctrlKey){
+						escomb = true;
+							console.log("Ctrl+C was pressed!!");
+							}
+						
+				  }
+				  if(e.which == 118) { // v
+					// enter pressed
+						if(e.ctrlKey){
+						escomb = true;
+							console.log("Ctrl+v was pressed!!");
+							}
+						
+					}
+					console.log(e.key);
+					//	socket.emit("enviaEscribe", e.keyCode);
+				  if(!escomb)
+					e.preventDefault();
+				});
+				*/
+				$(document).keydown (function (e) {
+					  var ascii = e.key.charCodeAt(0);
+						console.log ("Tecla down: "+e.key + " = " + e.keyCode + " - "+ascii);
+						socket.emit("enviakeydown", ascii+","+e.key);
+						e.preventDefault();
+					 //console.log ("Tecla: "+String.fromCharCode(e.which));
+				});
+				$(document).keyup (function (e) {
+					var ascii = e.key.charCodeAt(0);
+						console.log ("Tecla up: "+e.key + " = " + e.keyCode + " - "+ascii);
+						socket.emit("enviakeyup", ascii+","+e.key);
+						e.preventDefault();
+					 //console.log ("Tecla: "+String.fromCharCode(e.which));
+				});
+
+			});
+        </script>
+    </head>
+    <body>
+        <img id="visor" draggable="false"  src="" height="200" width="350">
+		
+    </body>
+</html>

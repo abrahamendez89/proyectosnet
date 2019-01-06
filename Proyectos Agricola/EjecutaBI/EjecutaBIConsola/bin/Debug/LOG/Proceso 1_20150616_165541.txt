@@ -1,0 +1,22 @@
+Iniciado el proceso 'Proceso 1' con fecha: 16/06/2015 04:55:38 p. m.
+2015-06-16 16:55:38: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 16:55:38: Limpiando código de comentarios...
+2015-06-16 16:55:38: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 16:55:38: Ejecutando: 
+2015-06-16 16:55:38: BAT D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\De...
+2015-06-16 16:55:41: Duración(Minutos): 0.0529
+2015-06-16 16:55:41: Resultado: Realizado correctamente.
+----------------------------------------------------------------------------
+2015-06-16 16:55:41: Ejecutando: 
+2015-06-16 16:55:41: SCRIPT Proceso 2...
+2015-06-16 16:55:41: Duración(Minutos): 0
+2015-06-16 16:55:41: Error: Script no encontrado. Verificar configuraciones.
+----------------------------------------------------------------------------
+
+Proceso terminado con 1 errores.
+Inicio: 2015-06-16 16:55:38
+Fin:    2015-06-16 16:55:41
+Duración(Minutos): 0.053

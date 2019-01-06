@@ -1,0 +1,14 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="Karaoke.textBoxRedondeado"
+	x:Name="UserControl" Height="35.5" Width="223.5">
+
+	<Grid x:Name="LayoutRoot" Background="#FFDC6F00">
+		<Rectangle Fill="#FFF1F1F1" RadiusY="8.5" RadiusX="8.5" Stroke="Black" Margin="8,4"/>
+		<TextBox x:Name="txt_busqueda" Margin="16.5,4" Background="#00DA8B8B" BorderBrush="#00000000" FontSize="16" BorderThickness="0"/>
+	</Grid>
+</UserControl>

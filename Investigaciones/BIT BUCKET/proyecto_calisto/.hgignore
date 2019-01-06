@@ -1,0 +1,22 @@
+syntax: glob
+Calisto/Calisto/bin/
+Calisto/Calisto/obj/
+Calisto/Herramientas/obj/
+Calisto/Herramientas/bin/
+Calisto/Dominio/obj/
+Calisto/Dominio/bin/
+Calisto/DominioLicencias/obj/
+Calisto/DominioLicencias/bin/
+Calisto/Controladores/obj/
+Calisto/Controladores/bin/
+Calisto/ValidadorLicencia/obj/
+Calisto/ValidadorLicencia/bin/
+Calisto/ServerControladores/obj/
+Calisto/ServerControladores/bin/
+Calisto/Controladores/ClienteControladores.csproj.user
+Calisto/ServerControladores/ServerControladores.csproj.user
+Calisto/Calisto.v11.suo
+Calisto/Calisto/Calisto.csproj.user
+Calisto/Calisto.suo
+Calisto/CreadorLicencias/obj/
+Calisto/CreadorLicencias/bin/

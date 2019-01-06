@@ -1,0 +1,1 @@
+<PLZ:Transferencia CtaOri="@CtaOri" BancoOriNal="@BancoOriNal" BancoOriExt="@BancoOriExt" CtaDest="@CtaDestino" BancoDestNal="@BancoDestinoNal" BancoDestExt="@BancoDestinoExt" Fecha="@Fecha" Benef="@Beneficiario" RFC="@RFC" Monto="@Monto" TipCamb="@TipCamb"/>

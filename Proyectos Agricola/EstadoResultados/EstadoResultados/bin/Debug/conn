@@ -1,0 +1,6 @@
+﻿servidorCrop = 192.168.1.126\crop
+usuarioCrop = sa
+baseDatos = EstadoFinanciero
+ContraseñaCrop = 1@TCE123
+baseDatosFirebird = D:\INSTALADORES\BI\DEMO.FDB
+dataSourceFirebird = 127.0.0.1 

@@ -1,0 +1,79 @@
+﻿@import url("../icons/icomoon/style.css");
+@import url("../icons/font-awesome/css/font-awesome.css");
+@import url("../css/Support/animate.css");
+@import url("../css/Support/animations.css");
+@import url("../css/Support/hover.css");
+
+body,html {
+    font-family: 'Open Sans', sans-serif;
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+.txt {
+    /*height: 40px;
+    border-radius: 5px;
+    border: 1px solid #bdc3c7;
+    outline: none;
+    font-size: 18px;
+    padding-left: 5px;
+    padding-right: 5px;*/
+
+    background-color: #FFFFFF;
+    background-image: none;
+    border: 1px solid #e5e6e7;
+    border-radius: 1px;
+    color: inherit;
+    display: block;
+    padding: 6px 12px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    width: 100%;
+    font-size: 14px;
+}
+
+    .txt:focus {
+        border: 1px solid #f1c40f;
+    }
+    .txt:hover {
+        background-color:#f0fcfc;
+    }
+
+.btn {
+    height: 40px;
+    font-size: 15px;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    min-width: 100px;
+    cursor: pointer;
+    
+}
+
+    .btn.btn-azul {
+        background-color: #3498db;
+    }
+
+        .btn.btn-azul:hover {
+            background-color: #2980b9 !important;
+        }
+
+    .btn.btn-rojo {
+        background-color: #e74c3c;
+    }
+
+        .btn.btn-rojo:hover {
+            background-color: #2980b9 !important;
+        }
+
+#ventana {
+    height: 100%;
+    background:white;
+}
+.fondoNegro {
+    height: 100%;
+    background:black;
+}

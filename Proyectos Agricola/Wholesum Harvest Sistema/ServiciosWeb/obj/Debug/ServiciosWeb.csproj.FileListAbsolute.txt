@@ -1,0 +1,35 @@
+D:\WHOLESUM_TF\ServiciosWeb\bin\ServiciosWeb.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\ServiciosWeb.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\Dominio.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\Herramientas.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\LogicaNegocios.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\AccesoDatos.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\Dominio.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\Herramientas.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\LogicaNegocios.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\AccesoDatos.pdb
+D:\WHOLESUM_TF\ServiciosWeb\obj\Debug\ServiciosWeb.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\ServiciosWeb\obj\Debug\ServiciosWeb.dll
+D:\WHOLESUM_TF\ServiciosWeb\obj\Debug\ServiciosWeb.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\itextsharp.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\Ionic.Zip.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\ServiciosWeb.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\ServiciosWeb.pdb
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\Dominio.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\LogicaNegocios.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\Herramientas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\Dominio.pdb
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\LogicaNegocios.pdb
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\obj\Debug\ServiciosWeb.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\obj\Debug\ServiciosWeb.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\obj\Debug\ServiciosWeb.pdb
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\Newtonsoft.Json.dll
+D:\Proyectos\Wholesum Harvest Sistema\ServiciosWeb\bin\InputSimulator.dll

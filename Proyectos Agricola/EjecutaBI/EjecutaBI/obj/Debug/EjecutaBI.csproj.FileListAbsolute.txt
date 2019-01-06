@@ -1,0 +1,10 @@
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.csprojResolveAssemblyReference.cache
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.Principal.resources
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.Properties.Resources.resources
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.csproj.GenerateResource.Cache
+D:\Proyectos\EjecutaBI\EjecutaBI\bin\Debug\EjecutaBI.exe
+D:\Proyectos\EjecutaBI\EjecutaBI\bin\Debug\EjecutaBI.pdb
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.exe
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.pdb
+D:\Proyectos\EjecutaBI\EjecutaBI\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\EjecutaBI\EjecutaBI\obj\Debug\EjecutaBI.CodigoEjecutado.resources

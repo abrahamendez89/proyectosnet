@@ -1,0 +1,24 @@
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\MediaPlayer.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\MediaPlayer.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\AxInterop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\AxInterop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.csproj.ResolveComReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.WindowsMediaPlayer.resources
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.csproj.GenerateResource.Cache
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\MediaPlayer.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\MediaPlayer.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\Interop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Release\AxInterop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\Interop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\AxInterop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.csproj.ResolveComReference.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.WindowsMediaPlayer.resources
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.csproj.GenerateResource.Cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Release\MediaPlayer.pdb

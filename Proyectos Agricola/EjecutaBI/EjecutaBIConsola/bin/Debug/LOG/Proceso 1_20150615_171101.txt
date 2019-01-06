@@ -1,0 +1,11 @@
+2015-06-15 17:11:00: Iniciado el proceso 'Proceso 1' con fecha: 15/06/2015 05:11:00 p. m.
+2015-06-15 17:11:00: Limpiando código de comentarios
+2015-06-15 17:11:00: Ejecutando: 
+2015-06-15 17:11:00: IMPORT_EXCEL D:\Proyectos\EjecutaBI\EjecutaBIConso...
+2015-06-15 17:11:00: Inicio: 15/06/2015 05:11:00 p. m.
+2015-06-15 17:11:01: Resultado: No se puede encontrar una parte de la ruta de acceso 'D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\ARCHIVOSgo'.
+2015-06-15 17:11:01: Fin: 2015-06-15 17:11:01
+2015-06-15 17:11:01: Duración(Minutos): 0.0008
+2015-06-15 17:11:01: ------------------------------------------------------
+2015-06-15 17:11:01: Proceso terminado con éxito.
+2015-06-15 17:11:01: Referencia a objeto no establecida como instancia de un objeto.

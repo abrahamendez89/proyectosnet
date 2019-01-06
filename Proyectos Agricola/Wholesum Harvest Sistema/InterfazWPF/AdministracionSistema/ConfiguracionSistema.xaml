@@ -1,0 +1,152 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="InterfazWPF.AdministracionSistema.ConfiguracionSistema"
+        Title="ConfiguracionSistema" Height="539.8" Width="1143.4">
+    <Grid>
+        <TabControl x:Name="tc_opciones" HorizontalAlignment="Left" Height="499" Margin="10,10,0,0" VerticalAlignment="Top" Width="1115">
+            <TabItem Header="Registro de usuarios">
+                <Grid Background="#FFF1F1F1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <ListBox x:Name="lb_usuariosListaUsuarios" HorizontalAlignment="Left" Height="373" Margin="10,26,0,0" VerticalAlignment="Top" Width="205"/>
+                    <InterfazWPF:Boton x:Name="btn_seleccionarUsuario" Text="Seleccionar" HorizontalAlignment="Left" Margin="10,404,0,0" VerticalAlignment="Top" Width="98" MouseDown="btn_seleccionarUsuario_MouseDown"/>
+                    <Label Content="Usuarios registrados:" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+                    <GroupBox Header="Datos personales" HorizontalAlignment="Left" Margin="232,26,0,33" Width="346">
+                        <Grid>
+                            <Rectangle Fill="White" HorizontalAlignment="Left" Height="80" Margin="193,24,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" RadiusY="9.5" RadiusX="9.5" />
+                            <Image x:Name="img_usuarioImagenUsuario" HorizontalAlignment="Left" Height="58" Margin="204,35,0,0" VerticalAlignment="Top" Width="59" ToolTip="Click para cambiar"/>
+                            <Label Content="Foto de usuario:" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top"/>
+                            <Label Content="Nombre completo:" HorizontalAlignment="Left" Margin="0,131,0,0" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txt_usuarioNombreUsuario" Margin="110,136,0,0" Height="19" VerticalAlignment="Top"/>
+                            <Label Content="Email:" HorizontalAlignment="Left" Margin="0,157,0,0" VerticalAlignment="Top"/>
+                            <TextBox x:Name="txt_usuarioEmailUsuario" Margin="110,162,0,0" Height="19" VerticalAlignment="Top"/>
+
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Datos de la cuenta de usuario" HorizontalAlignment="Left" Margin="583,26,0,0" Width="492">
+                        <Grid>
+                            <InterfazWPF:Boton x:Name="btn_QuitarRol" Text="Quitar" HorizontalAlignment="Left" Margin="328,150,0,0" VerticalAlignment="Top" Width="69" MouseDown="btn_QuitarRol_MouseDown" />
+
+                            <TextBox x:Name="txt_usuarioCuentaUsuario" Margin="161,9,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="178"/>
+                            <Label Content="Cuenta:" HorizontalAlignment="Left" Margin="11,5,0,0" VerticalAlignment="Top"/>
+                            <PasswordBox x:Name="txt_usuarioContraseñaUsuario" Margin="161,32,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="178"/>
+                            <Label Content="Contraseña:" HorizontalAlignment="Left" Margin="11,28,0,0" VerticalAlignment="Top"/>
+                            <Label Content="Rol en el sistema:" Margin="11,148,0,0" HorizontalAlignment="Left" Width="106" Height="24" VerticalAlignment="Top" />
+                            <PasswordBox x:Name="txt_usuarioContraseñaConfirmacionUsuario" Margin="161,54,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="178"/>
+                            <Label Content="Confirmación contraseña:" HorizontalAlignment="Left" Margin="11,50,0,0" VerticalAlignment="Top"/>
+                            <CheckBox x:Name="chb_usuariosEsAdministrador" Content="Es administrador de sistema" Margin="236,119,0,0" HorizontalAlignment="Left" Width="179" Height="20" VerticalAlignment="Top" />
+                            <CheckBox x:Name="chb_usuariosEstaDesactivada" Content="Desactivar cuenta" Margin="32,96,0,0" HorizontalAlignment="Left" Width="124" Height="20" VerticalAlignment="Top" />
+                            <ComboBox x:Name="cmb_usuariosRolesEnSistema" Margin="118,148,0,0" HorizontalAlignment="Left" Width="198" Height="24" VerticalAlignment="Top" />
+                            <Label Content="Formularios de acceso especial:" HorizontalAlignment="Left" Height="29" Margin="10,182,0,0" VerticalAlignment="Top" Width="215" FontWeight="Bold"/>
+                            <ListBox x:Name="lb_usuariosFormulariosEspeciales" HorizontalAlignment="Left" Height="173" Margin="11,211,0,0" VerticalAlignment="Top" Width="201"/>
+                            <InterfazWPF:Boton x:Name="btn_QuitarFormularioEspecial" Text="Quitar" HorizontalAlignment="Left" Margin="10,389,0,0" VerticalAlignment="Top" Width="69" MouseDown="btn_QuitarFormularioEspecial_MouseDown" />
+                            <InterfazWPF:Boton x:Name="btn_EditarPermisosFormularioEspecial" Text="Editar permisos" HorizontalAlignment="Left" Margin="100,389,0,0" VerticalAlignment="Top" Width="111" MouseDown="btn_EditarPermisosFormularioEspecial_MouseDown"/>
+                            <ListBox x:Name="lb_usuariosFormulariosRegistrados" HorizontalAlignment="Left" Height="173" Margin="217,211,0,0" VerticalAlignment="Top" Width="253"/>
+                            <InterfazWPF:Boton x:Name="btn_AgregarFormularioUsuarios" Text="Agregar" HorizontalAlignment="Left" Margin="368,389,0,0" VerticalAlignment="Top" Width="102" MouseDown="btn_AgregarFormularioUsuarios_MouseDown"/>
+                            <CheckBox x:Name="chb_UsuarioPuedeAccederACatalogoRapido" Content="Puede acceder a catálogo rápido" Margin="32,119,0,0" HorizontalAlignment="Left" Width="199" Height="20" VerticalAlignment="Top" />
+                            <CheckBox x:Name="chb_usuariosEsSoporte" Content="Es de soporte" Margin="161,96,0,0" HorizontalAlignment="Left" Width="102" Height="20" VerticalAlignment="Top" />
+                            <CheckBox x:Name="chb_UsuarioRecibeVersionesPrueba" Content="Recibe versiones de prueba" HorizontalAlignment="Left" Margin="268,96,0,0" VerticalAlignment="Top"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Creación y configuración de roles" >
+                <Grid Background="#FFF1F1F1">
+                    <ListBox x:Name="lb_rolesRolesEnSistema" HorizontalAlignment="Left" Height="367" Margin="10,32,0,0" VerticalAlignment="Top" Width="208"/>
+                    <Label Content="Roles en el sistema" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top"/>
+                    <InterfazWPF:Boton x:Name="btn_rolSeleccionar" Text="Seleccionar" HorizontalAlignment="Left" Margin="9,404,0,0" VerticalAlignment="Top" Width="98" MouseDown="btn_rolSeleccionar_MouseDown" />
+
+                    <GroupBox Header="Datos del rol" HorizontalAlignment="Left" Height="309" Margin="241,10,0,0" VerticalAlignment="Top" Width="268">
+                        <Grid>
+                            <Rectangle Fill="White" HorizontalAlignment="Left" Height="80" Margin="104,35,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" RadiusY="9.5" RadiusX="9.5" />
+                            <Image x:Name="img_rolImagenRol" HorizontalAlignment="Left" Height="58" Margin="115,46,0,0" VerticalAlignment="Top" Width="59" ToolTip="Click para cambiar"/>
+                            <Label Content="Imagen Rol:" HorizontalAlignment="Left" Height="25" Margin="10,61,0,0" VerticalAlignment="Top" Width="74"/>
+                            <TextBlock Text="Nombre Rol:" Margin="10,138,172,130"/>
+                            <TextBox x:Name="txt_rolNombreRol" Margin="89,138,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="157"/>
+                            <TextBlock Text="Descripción:" Margin="10,162,172,106"/>
+                            <TextBox x:Name="txtr_rolDescripcion" Margin="89,162,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="157"/>
+                            <CheckBox x:Name="chb_rolEsAdministrador" Content="Es administrador de sistema" Margin="57,197,0,0" HorizontalAlignment="Left" Width="179" Height="20" VerticalAlignment="Top" />
+                            <CheckBox x:Name="chb_RolPuedeAccederACatalogoRapido" Content="Puede acceder a catálogo rápido" Margin="57,215,0,0" HorizontalAlignment="Left" Width="199" Height="20" VerticalAlignment="Top" />
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Configuración de carpetas y formularios" HorizontalAlignment="Left" Height="416" Margin="514,10,0,0" VerticalAlignment="Top" Width="585">
+                        <Grid>
+                            <ListBox x:Name="lb_rolCarpetasEnRol" HorizontalAlignment="Left" Height="124" Margin="10,7,0,0" VerticalAlignment="Top" Width="153" MouseDoubleClick="lb_rolCarpetasEnRol_MouseDoubleClick" SelectionChanged="lb_rolCarpetasEnRol_SelectionChanged"/>
+                            <Label Content="Nombre Carpeta:" HorizontalAlignment="Left" Height="29" Margin="174,19,0,0" VerticalAlignment="Top" Width="120"/>
+                            <TextBox x:Name="txt_rolNombreCarpeta" HorizontalAlignment="Left" Height="19" Margin="280,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166" RenderTransformOrigin="0.488,0.526"/>
+                            <Rectangle Fill="White" HorizontalAlignment="Left" Height="51" Margin="280,53,0,0" Stroke="Black" VerticalAlignment="Top" Width="51" RadiusY="9.5" RadiusX="9.5" />
+                            <Image x:Name="img_rolImagenCarpeta" HorizontalAlignment="Left" Height="40" Margin="286,58,0,0" VerticalAlignment="Top" Width="40" ToolTip="Click para cambiar" />
+                            <Label Content="Imagen Carpeta:" HorizontalAlignment="Left" Height="29" Margin="171,64,0,0" VerticalAlignment="Top" Width="120"/>
+                            <Label Content="Formularios en carpeta seleccionada:" HorizontalAlignment="Left" Height="29" Margin="10,159,0,0" VerticalAlignment="Top" Width="215"/>
+                            <ListBox x:Name="lb_rolFormulariosEnCarpeta" HorizontalAlignment="Left" Height="173" Margin="10,184,0,0" VerticalAlignment="Top" Width="201"/>
+                            <Label Content="Formularios Registrados:" HorizontalAlignment="Left" Height="29" Margin="259,159,0,0" VerticalAlignment="Top" Width="160"/>
+                            <ListBox x:Name="lb_rolFormulariosRegistrados" HorizontalAlignment="Left" Height="173" Margin="259,184,0,0" VerticalAlignment="Top" Width="304"/>
+                            <InterfazWPF:Boton x:Name="btn_QuitarCarpeta" Text="Eliminar carpeta" HorizontalAlignment="Left" Margin="29,136,0,0" VerticalAlignment="Top" Width="116" MouseDown="btn_QuitarCarpeta_MouseDown" />
+                            <InterfazWPF:Boton x:Name="btn_GuardarCarpeta" Text="Guardar" HorizontalAlignment="Left" Margin="280,118,0,0" VerticalAlignment="Top" Width="79" MouseDown="btn_GuardarCarpeta_MouseDown" />
+                            <InterfazWPF:Boton x:Name="btn_gregarCarpeta" Text="Agregar" HorizontalAlignment="Left" Margin="365,118,0,0" VerticalAlignment="Top" Width="78" MouseDown="btn_gregarCarpeta_MouseDown"/>
+                            <InterfazWPF:Boton x:Name="btn_QuitarFormulario" Text="Quitar" HorizontalAlignment="Left" Margin="10,362,0,0" VerticalAlignment="Top" Width="69" MouseDown="btn_QuitarFormulario_MouseDown" />
+                            <InterfazWPF:Boton x:Name="btn_EditarPermisosFormulario" Text="Editar permisos" HorizontalAlignment="Left" Margin="100,362,0,0" VerticalAlignment="Top" Width="111" MouseDown="btn_EditarPermisosFormulario_MouseDown" />
+                            <InterfazWPF:Boton x:Name="btn_AgregarFormulario" Text="Agregar" HorizontalAlignment="Left" Margin="461,362,0,0" VerticalAlignment="Top" Width="102" MouseDown="btn_AgregarFormulario_MouseDown" />
+                        </Grid>
+                    </GroupBox>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Registro de formularios">
+                <Grid Background="#FFF1F1F1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <ListBox x:Name="lb_formulariosListaFormularios" HorizontalAlignment="Left" Height="362" Margin="10,37,0,0" VerticalAlignment="Top" Width="390"/>
+                    <ComboBox x:Name="cmb_filtroFormularios" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="204" SelectionChanged="ComboBox_SelectionChanged_1">
+                        <TextBlock Text="Registrados"/>
+                        <TextBlock Text="Sin registrar"/>
+                    </ComboBox>
+                    <InterfazWPF:Boton x:Name="btn_formulariosSeleccionar" Text="Seleccionar" HorizontalAlignment="Left" Margin="9,404,0,0" VerticalAlignment="Top" Width="98" MouseDown="btn_formulariosSeleccionar_MouseDown" />
+                    <GroupBox Header="Datos del formulario" HorizontalAlignment="Left" Margin="405,39,0,0" VerticalAlignment="Top" Height="360" Width="663">
+                        <Grid HorizontalAlignment="Left" Width="653" Margin="0,0,-2,0">
+
+                            <Rectangle Fill="White" HorizontalAlignment="Left" Height="80" Margin="151,6,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" RadiusY="9.5" RadiusX="9.5" />
+
+                            <Image x:Name="img_imagenFormulario" HorizontalAlignment="Left" Height="58" Margin="161,17,0,0" VerticalAlignment="Top" Width="61" ToolTip="Click para cambiar" />
+                            <Label Content="Imagen Formulario:" HorizontalAlignment="Left" Height="25" Margin="11,32,0,0" VerticalAlignment="Top" Width="136"/>
+                            <Label Content="Referencia Formulario:" HorizontalAlignment="Left" Height="25" Margin="10,125,0,0" VerticalAlignment="Top" Width="136"/>
+                            <TextBox x:Name="txt_formulariosReferenciaFormulario" Margin="151,126,10,0" IsReadOnly="True" Height="24" VerticalAlignment="Top"/>
+                            <Label Content="Nombre en el sistema:" HorizontalAlignment="Left" Height="25" Margin="10,155,0,0" VerticalAlignment="Top" Width="136"/>
+                            <TextBox x:Name="txt_formulariosNombreEnSistema" Margin="151,155,140,0" Height="25" VerticalAlignment="Top"/>
+                            <CheckBox x:Name="chb_formulariosPermiteDuplicados" Content="Permitir abrir el formulario más de una vez" Height="17" VerticalAlignment="Top" HorizontalAlignment="Left" Width="265" Margin="151,189,0,0" />
+                            <Label Content="Descripción:" HorizontalAlignment="Left" Height="25" Margin="11,234,0,-36" VerticalAlignment="Top" Width="136"/>
+                            <TextBox x:Name="txt_formulariosDescripcionEnSistema" Margin="151,235,140,0" Height="70" VerticalAlignment="Top"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Configuración de sistema">
+                <Grid Background="#FFF1F1F1">
+                    <Label Content="Fondo principal del sistema: " Margin="10,10,836,395"/>
+                    <Rectangle Fill="White" HorizontalAlignment="Left" Height="136" Margin="10,37,0,0" Stroke="Black" VerticalAlignment="Top" Width="250" RadiusY="9.5" RadiusX="9.5"/>
+                    <Image x:Name="img_imagenFondoSistema" HorizontalAlignment="Left" Height="114" Margin="20,48,0,0" VerticalAlignment="Top" Width="230" ToolTip="Click para cambiar" Stretch="Fill"/>
+                    <Label Content="Fondo para login: " Margin="10,179,836,226"/>
+                    <Rectangle Fill="White" HorizontalAlignment="Left" Height="136" Margin="10,206,0,0" Stroke="Black" VerticalAlignment="Top" Width="250" RadiusY="9.5" RadiusX="9.5" />
+                    <Image x:Name="img_imagenFondoLogin" HorizontalAlignment="Left" Height="114" Margin="20,217,0,0" VerticalAlignment="Top" Width="230" ToolTip="Click para cambiar" Stretch="Fill"/>
+                    <Label Content="Icono del sistema: " Margin="293,10,612,395"/>
+                    <Rectangle Fill="White" HorizontalAlignment="Left" Height="81" Margin="301,37,0,0" Stroke="Black" VerticalAlignment="Top" Width="80" RadiusY="9.5" RadiusX="9.5" />
+                    <Image x:Name="img_imagenIcono" HorizontalAlignment="Left" Height="67" Margin="308,44,0,0" VerticalAlignment="Top" Width="67" ToolTip="Click para cambiar" Stretch="Fill"/>
+                    <Label Content="Nombre Sistema: " Margin="10,356,899,88"/>
+                    <TextBox x:Name="txt_nombreSistema" Margin="118,359,756,88"/>
+                    <Label Content="Tiempo para autobloqueo(seg): " Margin="10,388,819,44"/>
+                    <TextBox x:Name="txt_sistemaTiempoAutobloqueo" Margin="193,391,756,59" Text="100" TextAlignment="Right"/>
+                    <Label Content="Tiempo para almacenar objetos en memoria(seg): " Margin="10,423,729,9"/>
+                    <TextBox x:Name="txt_sistemaTiempoAlmacenObjetos" Margin="293,427,656,23" Text="300" TextAlignment="Right"/>
+                    <CheckBox x:Name="chb_proteccionSistemaLogin" Content="Usar protección de login de usuarios" HorizontalAlignment="Left" Margin="467,37,0,0" VerticalAlignment="Top"/>
+                </Grid>
+            </TabItem>
+            <!--<TabItem Header="Configuración de servidores">
+                <Grid Background="#FFF1F1F1">
+                </Grid>
+            </TabItem>-->
+        </TabControl>
+    </Grid>
+</Window>

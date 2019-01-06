@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Herramientas="clr-namespace:Herramientas" x:Class="Herramientas.WPF.VisorImagenes"
+        Title="Visor de imagenes" Height="400" Width="400" WindowStartupLocation="CenterScreen" Background="#FFF3F3F3">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="img_imagenVisor" Margin="10,10,10,37" Stretch="Fill"/>
+
+    </Grid>
+</Window>

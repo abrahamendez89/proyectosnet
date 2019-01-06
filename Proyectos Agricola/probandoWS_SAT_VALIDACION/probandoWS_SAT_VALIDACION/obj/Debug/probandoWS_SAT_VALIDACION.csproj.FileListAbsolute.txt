@@ -1,0 +1,9 @@
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\bin\Debug\probandoWS_SAT_VALIDACION.exe.config
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\bin\Debug\probandoWS_SAT_VALIDACION.exe
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\bin\Debug\probandoWS_SAT_VALIDACION.pdb
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\obj\Debug\probandoWS_SAT_VALIDACION.csprojResolveAssemblyReference.cache
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\obj\Debug\probandoWS_SAT_VALIDACION.Properties.Resources.resources
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\obj\Debug\probandoWS_SAT_VALIDACION.csproj.GenerateResource.Cache
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\obj\Debug\probandoWS_SAT_VALIDACION.exe
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\obj\Debug\probandoWS_SAT_VALIDACION.pdb
+D:\Proyectos\probandoWS_SAT_VALIDACION\probandoWS_SAT_VALIDACION\obj\Debug\probandoWS_SAT_VALIDACION.Form1.resources

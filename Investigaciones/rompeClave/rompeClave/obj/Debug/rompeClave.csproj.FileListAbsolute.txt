@@ -1,0 +1,5 @@
+D:\Proyectos\rompeClave\rompeClave\obj\Debug\rompeClave.csprojResolveAssemblyReference.cache
+D:\Proyectos\rompeClave\rompeClave\bin\Debug\rompeClave.exe
+D:\Proyectos\rompeClave\rompeClave\bin\Debug\rompeClave.pdb
+D:\Proyectos\rompeClave\rompeClave\obj\Debug\rompeClave.exe
+D:\Proyectos\rompeClave\rompeClave\obj\Debug\rompeClave.pdb

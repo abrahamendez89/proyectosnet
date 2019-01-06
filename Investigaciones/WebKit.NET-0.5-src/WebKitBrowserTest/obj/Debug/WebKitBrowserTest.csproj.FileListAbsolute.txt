@@ -1,0 +1,15 @@
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowserTest.exe.config
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.csprojResolveAssemblyReference.cache
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.DownloadForm.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.MainForm.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.NavigationBar.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.Properties.Resources.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.SourceViewForm.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.WebBrowserTabPage.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.csproj.GenerateResource.Cache
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowserTest.exe
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowserTest.pdb
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.exe
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.pdb
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll.manifest
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowserTest\obj\Debug\WebKitBrowserTest.Monitoreo.resources

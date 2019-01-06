@@ -1,0 +1,167 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:windowsForms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:activeXControl="clr-namespace:AxWMPLib;assembly=AxInterop.WMPLib"
+        xmlns:Controles="clr-namespace:Karaoke.Controles" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:Karaoke" mc:Ignorable="d" x:Class="Karaoke.Principal"
+        Title="KaraTube" Height="589.684" Width="1081.578" WindowState="Maximized" Background="#FF141414" Icon="icon.ico">
+    <Window.Resources>
+        <Storyboard x:Key="rtg_izquierdoMEnter">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_izquierdo">
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFDC6F00"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_derechoMEnter">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_derecho">
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFDC6F00"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_derechoMSalir">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_derecho">
+                <EasingColorKeyFrame KeyTime="0" Value="#FFDC6F00"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF353535"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_izquierdoMSalir">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_izquierdo">
+                <EasingColorKeyFrame KeyTime="0" Value="#FFDC6F00"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF353535"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_arribaMEnter">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_rectanguloArriba">
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFDC6F00"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_arribaMLeave">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_rectanguloArriba">
+                <EasingColorKeyFrame KeyTime="0" Value="#FFDC6F00"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF353535"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_abajoMEnter">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_rectanguloAbajo">
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFDC6F00"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="rtg_abajoMLeave">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_rectanguloAbajo">
+                <EasingColorKeyFrame KeyTime="0" Value="#FFDC6F00"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF353535"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="creditosNuevoCredito">
+        	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="txt_creditos">
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1.227"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1.007"/>
+        	</DoubleAnimationUsingKeyFrames>
+        	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="txt_creditos">
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-2.833"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-0.083"/>
+        	</DoubleAnimationUsingKeyFrames>
+        	<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(TextElement.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="txt_creditos">
+        		<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FFFFF500"/>
+        		<EasingColorKeyFrame KeyTime="0:0:0.5" Value="White"/>
+        	</ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="animacionPromocion">
+        	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="txt_mensajeNegocio">
+        		<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1.055"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="1.22"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="1.293"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1.22"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="1"/>
+        	</DoubleAnimationUsingKeyFrames>
+        	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="txt_mensajeNegocio">
+        		<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="15.125"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="60.5"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="80.5"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="60.5"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="-0.25"/>
+        	</DoubleAnimationUsingKeyFrames>
+        	<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(TextElement.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="txt_mensajeNegocio">
+        		<EasingColorKeyFrame KeyTime="0" Value="White"/>
+        		<EasingColorKeyFrame KeyTime="0:0:0.3" Value="sc#1, 1, 0.913098633, 0"/>
+        		<EasingColorKeyFrame KeyTime="0:0:0.6" Value="#FF76F7CB"/>
+        		<EasingColorKeyFrame KeyTime="0:0:0.9" Value="#FFCE00FF"/>
+        		<EasingColorKeyFrame KeyTime="0:0:1.2" Value="#FF004AFF"/>
+        		<EasingColorKeyFrame KeyTime="0:0:1.5" Value="White"/>
+        	</ColorAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="rtg_izquierdo">
+            <BeginStoryboard x:Name="rtg_izquierdoMEnter_BeginStoryboard" Storyboard="{StaticResource rtg_izquierdoMEnter}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="rtg_izquierdo">
+            <BeginStoryboard x:Name="rtg_izquierdoMSalir_BeginStoryboard" Storyboard="{StaticResource rtg_izquierdoMSalir}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="rtg_derecho">
+            <BeginStoryboard x:Name="rtg_derechoMEnter_BeginStoryboard" Storyboard="{StaticResource rtg_derechoMEnter}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="rtg_derecho">
+            <BeginStoryboard x:Name="rtg_derechoMSalir_BeginStoryboard" Storyboard="{StaticResource rtg_derechoMSalir}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="rtg_rectanguloArriba">
+            <BeginStoryboard x:Name="rtg_arribaMEnter_BeginStoryboard" Storyboard="{StaticResource rtg_arribaMEnter}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="rtg_rectanguloArriba">
+            <BeginStoryboard x:Name="rtg_arribaMLeave_BeginStoryboard" Storyboard="{StaticResource rtg_arribaMLeave}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="rtg_rectanguloAbajo">
+            <BeginStoryboard x:Name="rtg_abajoMEnter_BeginStoryboard" Storyboard="{StaticResource rtg_abajoMEnter}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="rtg_rectanguloAbajo">
+            <BeginStoryboard x:Name="rtg_abajoMLeave_BeginStoryboard" Storyboard="{StaticResource rtg_abajoMLeave}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle x:Name="rtg_derecho" Fill="#FF353535" HorizontalAlignment="Right" Margin="0,37,8,238" RadiusY="8.5" RadiusX="8.5" Stroke="Black" Width="47"/>
+        <Rectangle x:Name="rtg_izquierdo" Fill="#FF353535" HorizontalAlignment="Left" Margin="8,37,0,238" RadiusY="8.5" RadiusX="8.5" Stroke="Black" Width="47"/>
+
+        <Rectangle Fill="#FF060606" Margin="42,37,43,238" Stroke="Black" RadiusY="8.5" RadiusX="8.5"/>
+        <UniformGrid x:Name="discos" Margin="33,37,33,238" Columns="5" Rows="2"/>
+        <Grid Height="234" Margin="10,0,1.578,0" VerticalAlignment="Bottom">
+            <Grid x:Name="grd_parteBaja" HorizontalAlignment="Center" Height="233" VerticalAlignment="Top" Width="895" Margin="0,-2.001,0,0">
+                <Controles:Reproductor x:Name="reproductor" HorizontalAlignment="Left" Margin="0,15,0,7" Height="Auto" Width="316"/>
+                <Controles:ControladoresTouch x:Name="controladoresTouch" HorizontalAlignment="Left" Margin="320,0,0,0" Height="226" VerticalAlignment="Top" Width="251"/>
+                <Label x:Name="txt_Opcion" HorizontalAlignment="Left" Margin="576,0,0,0" VerticalAlignment="Top" Height="29" Width="315" FontSize="16" Foreground="#FFC9CEFF"/>
+                <Rectangle x:Name="rtg_rectanguloArriba" Fill="#FF353535" HorizontalAlignment="Right" Height="35.333" Margin="0,29,8,0" Stroke="Black" VerticalAlignment="Top" Width="311" RadiusY="7.333" RadiusX="7.333"/>
+                <Rectangle x:Name="rtg_rectanguloAbajo" Fill="#FF353535" HorizontalAlignment="Right" Height="41" Margin="0,0,8,0" Stroke="Black" VerticalAlignment="Bottom" Width="311" RadiusY="8.667" RadiusX="8.667"/>
+                <Grid HorizontalAlignment="Right" Margin="0,51,8,19" Width="311">
+                    <Rectangle Fill="#FF060606" RadiusY="9.5" RadiusX="9.5" Stroke="Black"/>
+                    <UniformGrid x:Name="grd_PlayList" Columns="1" Rows="4"/>
+                </Grid>
+            </Grid>
+            <Image x:Name="img_opciones" HorizontalAlignment="Left" Height="26" Margin="31,0,0,8" VerticalAlignment="Bottom" Width="27" Stretch="Fill" Cursor="Hand"/>
+            <Image x:Name="img_cerrar" HorizontalAlignment="Left" Height="26" Margin="0,0,0,8" VerticalAlignment="Bottom" Width="27" Stretch="Fill" Cursor="Hand"/>
+        </Grid>
+        <Grid x:Name="grd_reproductor" Visibility="Visible">
+        	<TextBlock x:Name="txt_mensajeNegocio" Height="25" Margin="46,8,468.5,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="21.333" Text="CONTRATACIONES AL 123456789" RenderTransformOrigin="0.5,0.5">
+        		<TextBlock.RenderTransform>
+        			<TransformGroup>
+        				<ScaleTransform/>
+        				<SkewTransform/>
+        				<RotateTransform/>
+        				<TranslateTransform/>
+        			</TransformGroup>
+        		</TextBlock.RenderTransform>
+        	</TextBlock>
+        	<TextBlock x:Name="txt_creditos" Height="25" Margin="0,8,48.578,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontSize="21.333" HorizontalAlignment="Right" Width="415.922" Text="CREDITOS = 0" TextAlignment="Right" RenderTransformOrigin="0.5,0.5">
+        		<TextBlock.RenderTransform>
+        			<TransformGroup>
+        				<ScaleTransform/>
+        				<SkewTransform/>
+        				<RotateTransform/>
+        				<TranslateTransform/>
+        			</TransformGroup>
+        		</TextBlock.RenderTransform>
+        	</TextBlock>
+        </Grid>
+    </Grid>
+</Window>

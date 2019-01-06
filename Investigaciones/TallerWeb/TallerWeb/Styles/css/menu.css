@@ -1,0 +1,252 @@
+﻿#top_bar {
+    background: #666;
+    width: 100%;
+    height: 40px;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+    z-index: 1;
+}
+
+#btn_menu {
+    float: left;
+    color: #fff;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+
+.toolbar ul li {
+    display: inline-block;
+}
+
+.btn.btn-toolbar {
+    background-color: rgb(102, 102, 102);
+    margin-top: 0px !important;
+    float: right;
+    height: 100%;
+    width: 10%;
+    margin-right: 10px;
+}
+
+.btn-toolbar:after {
+    content: "\e900";
+    font-family: 'icomoon';
+    float: left;
+    margin-left: 10px;
+}
+
+#lbl_usuarioLogueado {
+    float: right;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#menu ul li {
+    list-style: none;
+    background: #666666;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    width: 93%;
+    margin-top: 1px;
+    box-shadow: none;
+}
+
+#menu ul {
+    padding-left: 0px;
+    border-top: 1px solid #EDEDED;
+    padding-top: 10px;
+}
+
+#menu {
+    display:none;
+    background: #FFF;
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    border-right: 1px solid #EDEDED;
+    z-index: 1;
+}
+
+#logotipoEmpresa {
+    
+    background-image: url('/Styles/img/logo.jpeg');
+    height: 135px;
+    background-size: cover;
+    width: 135px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #EDEDED;
+}
+
+#menu ul li:hover {
+    background: #542227;
+}
+
+.icono-menu {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+button.btn.btn-toolbar:before {
+    background: #542227;
+}
+
+.menu_rojo {
+    background: red !important;
+}
+
+.mostrarMenu {
+    display: block !important;
+}
+.ocultarMenu {
+    display: none !important;
+}
+
+.moverTopBar {
+    position: absolute;
+    left: 290px;
+}
+
+
+.toolbar {
+    height: 100%;
+}
+
+.toolbar ul {
+    position: absolute;
+    top: -15px;
+    right: 185px;
+}
+
+#contenedor_notificacion {
+    /* background: red; */
+    width: 300px;
+    position: fixed;
+    right: 0;
+    top: 40px;
+}
+
+.Notificacion {
+    border: 1px solid #ededed;
+    padding: 5px;
+    background: rgb(247, 247, 247);
+    color: #34495E;
+    -webkit-box-shadow: 0.5px 0.5px 1px 1px #000000;
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
+    margin-right: 10px;
+    margin-top: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Notificacion .header {
+    border-bottom: 2px solid #E0E0E0;
+}
+
+.Notificacion .header .icon-cross {
+    float: right;
+    font-size: 10px;
+    line-height: 2.7;
+    padding-right: 8px;
+}
+
+.Notificacion .header .icon-cross:hover {
+    color: #FF5722;
+    cursor: pointer;
+}
+#contenedorView {
+     max-width: 1200px;
+     width: 60%;
+     margin: 0 auto;
+     top: 40px;
+     position: relative;
+     /* padding: 15px; */
+     -webkit-transition: all .5s ease;
+     -moz-transition: all .5s ease;
+     transition: all .5s ease;
+     /* background: orange; */
+     -webkit-box-shadow: 0 0 5px 2px #666;
+     box-shadow: 0 0 5px 2px #666;
+}
+
+.divMarco {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 50px;
+    margin-bottom: auto;
+    height: 70%;
+}
+
+#divMarco {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 50px;
+    margin-bottom: auto;
+    height: 70%;
+    border: 2px solid #666;
+}
+
+#divTitulo {
+    border-bottom: 2px solid #666;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.cabecera {
+    border-bottom: 1px solid #E0E0E0;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #666666;
+    color: white;
+}
+
+.cuerpo {
+    padding: 10px;
+    background: #F7F7F7;
+}
+
+.columna {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+#iconoCerrarVentana {
+    float: right;
+    margin-right: 10px;
+    margin-top: 3px;
+    color: #F7F7F7;
+    cursor: pointer;
+}
+
+#iconoCerrarVentana:hover {
+    color: #ea5e4f;
+}
+
+#iconoOcultarVentana {
+    float: right;
+    margin-right: 10px;
+    margin-top: 3px;
+    color: #F7F7F7;
+    cursor: pointer;
+}
+#iconoOcultarVentana:hover {
+    color: #7283FF;
+}
+
+
+.titulo {color: #2C3E50;line-height: 1.8;}

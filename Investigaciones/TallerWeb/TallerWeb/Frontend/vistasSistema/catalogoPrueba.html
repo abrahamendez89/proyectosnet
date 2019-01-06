@@ -1,0 +1,20 @@
+﻿<div class="vista">
+    <div class="cabecera">
+        <span>TITULO</span>
+        
+        <span id="iconoCerrarVentana" class="icon-cross" ng-click="menu.cerrarVentana();"></span>
+        <span id="iconoOcultarVentana" class="icon-arrow-down-right" ng-click="menu.cerrarVentana();"></span>
+    </div>
+    <div class="cuerpo" ng-controller="catalogoPruebaCtrl as ctrl">
+        <!--<px-grid url="/CataologoPrueba/Todos" columns="Nombre,Edad" display="Nombre,Edad">
+        </px-grid>-->
+
+        <table>
+            <tr ng-repeat="prueba in catalogoPruebasTodos.todos">
+                <td>{{prueba.Nombre}}</td>
+                <td>{{prueba.Edad}} </td>
+            </tr>
+        </table>
+
+    </div>
+</div>

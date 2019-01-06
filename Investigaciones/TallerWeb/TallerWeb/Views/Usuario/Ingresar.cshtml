@@ -1,0 +1,64 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" ng-app="app_login">
+<head>
+    <title>Mi aplicación web</title>
+    @*<link href="~/Styles/css/base.css" rel="stylesheet" />*@
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    @*<link href="~/Styles/css/ingresar.css" rel="stylesheet" />
+    <script src="~/LibreriasJS/angular.min.js"></script>*@
+
+    
+    @System.Web.Optimization.Styles.Render("~/bundles/css")
+    @System.Web.Optimization.Scripts.Render("~/bundles/librerias")
+
+    <style>
+        .oferta {
+            color: red;
+        }
+    </style>
+
+</head>
+<body ng-controller="loginController as login">
+    <div class="caja_padre">
+        {{variableGloval}}
+
+        {{login.variableLocal}}
+
+        {{variableRoot}}
+
+        
+        <form class="caja_hija animated BounceIn" ng-submit="entrar();">
+            <div class="caja_bienvenida">
+                <span class="icon-user" id="ico_user"></span>
+                <span class="fa fa-chrome"></span>
+                <h1 id="lbl_bienvenido">Bienvenido</h1>
+            </div>
+            <div class="caja_inputs">
+                <input class="txt" type="text" placeholder="Nombre de usuario" required ng-model="usuario.St_Usuario" />
+                <input class="txt" type="password" placeholder="Contraseña" required ng-model="usuario.St_Password"/>
+                <input class="btn btn-azul" type="submit" value="Entrar" @*ng-click="entrar();"*@/>
+            </div>
+
+        </form>
+
+            
+        <div ng-include="'/Frontend/templates/hola_usuario.html'" ng-controller="usuarioBienvenidaController as bien">   
+
+
+        </div>
+
+
+        <p>  Usuario: {{usuario.NombreUsuario}} </p>
+
+        <ul>
+            <li ng-class="{'oferta':producto.precio<=20}" @*ng-show="producto.existeEnStock"*@ ng-hide="!producto.existeEnStock" ng-repeat="producto in productosEnStock">
+                {{producto.NombreProducto}}
+                {{producto.precio}}
+            </li>
+        </ul>
+
+
+
+    </div>
+</body>
+@System.Web.Optimization.Scripts.Render("~/bundles/frontend")
+</html>

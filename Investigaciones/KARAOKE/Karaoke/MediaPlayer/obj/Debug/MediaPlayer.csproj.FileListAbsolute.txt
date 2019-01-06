@@ -1,0 +1,60 @@
+D:\PROYETOS .NET\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.dll
+D:\PROYETOS .NET\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\PROYETOS .NET\Karaoke\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.dll
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\PROYETOS .NET\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.WindowsMediaPlayer.resources
+I:\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.dll
+I:\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.pdb
+I:\KARAOKE\Karaoke\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+I:\KARAOKE\Karaoke\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.WindowsMediaPlayer.resources
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.dll
+I:\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.WindowsMediaPlayer.resources
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.dll
+D:\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.WindowsMediaPlayer.resources
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.WindowsMediaPlayer.resources
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\MediaPlayer\obj\Debug\MediaPlayer.pdb

@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="UserControlsSIZ.Toolbar.ToolbarBtn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UserControlsSIZ.Toolbar"
+             xmlns:iconos="clr-namespace:UserControlsSIZ.Iconos"
+             mc:Ignorable="d" Cursor="Hand"
+             >
+    <UserControl.Resources>
+        
+        <Storyboard x:Key="OnMouseEnter1">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="CirculoInterior">
+                <EasingColorKeyFrame KeyTime="0:0:0.01" Value="White"/>
+            </ColorAnimationUsingKeyFrames>
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(iconos:IconAwesomeSIZ.IconoColor).(SolidColorBrush.Color)" Storyboard.TargetName="ico">
+                <EasingColorKeyFrame KeyTime="0" Value="White"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.01" Value="#3b5998"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseLeave1">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="CirculoInterior">
+                <EasingColorKeyFrame KeyTime="0" Value="White"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.01" Value="#3b5998"/>
+            </ColorAnimationUsingKeyFrames>
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(iconos:IconAwesomeSIZ.IconoColor).(SolidColorBrush.Color)" Storyboard.TargetName="ico">
+                <EasingColorKeyFrame KeyTime="0" Value="#3b5998"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.01" Value="White"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseDown1">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="CirculoInterior">
+                <EasingColorKeyFrame KeyTime="0" Value="White"/>
+            </ColorAnimationUsingKeyFrames>
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(iconos:IconAwesomeSIZ.IconoColor).(SolidColorBrush.Color)" Storyboard.TargetName="ico">
+                <EasingColorKeyFrame KeyTime="0" Value="#FF205D8F"/>
+            </ColorAnimationUsingKeyFrames>
+
+        </Storyboard>
+        <Storyboard x:Key="OnMouseUp1">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="CirculoInterior">
+                <EasingColorKeyFrame KeyTime="0" Value="White"/>
+            </ColorAnimationUsingKeyFrames>
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(iconos:IconAwesomeSIZ.IconoColor).(SolidColorBrush.Color)" Storyboard.TargetName="ico">
+                <EasingColorKeyFrame KeyTime="0" Value="#FF205D8F"/>
+                <EasingColorKeyFrame KeyTime="0:0:0.1" Value="#3b5998"/>
+            </ColorAnimationUsingKeyFrames>
+
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid>
+        <Ellipse x:Name="CirculoExterior" Fill="White" Stroke="#3b5998" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5" StrokeThickness="0.5" >
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="CirculoInterior" Fill="#3b5998" Margin="2,2,2,2" />
+        <iconos:IconAwesomeSIZ x:Name="ico" IconoBackground="Transparent" IconoColor="White" Height="20" IconoFontSize="8" />
+        <!--<IconosLib:Icono x:Name="ico" Cursor="Hand" ToolTip="Mostrar los módulos" Icon="file" FontSize="20" IconHorizontalAlignment="Center" IconVerticalAlignment="Center" Background="Transparent" ColorIcon="White"/>-->
+
+
+    </Grid>
+</UserControl>

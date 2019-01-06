@@ -1,0 +1,2 @@
+Iniciado el proceso 'TEST .BAT' con fecha: 16/06/2015 03:51:02 p. m.
+2015-06-16 15:51:03: An invalid connection string argument has been supplied or a required connection string argument has not been supplied.

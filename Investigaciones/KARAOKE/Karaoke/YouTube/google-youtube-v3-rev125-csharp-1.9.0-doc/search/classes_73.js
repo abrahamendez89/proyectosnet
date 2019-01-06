@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['searchlistresponse',['SearchListResponse',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SearchListResponse.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['searchresource',['SearchResource',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1SearchResource.html',1,'Google::Apis::YouTube::v3']]],
+  ['searchresult',['SearchResult',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SearchResult.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['searchresultsnippet',['SearchResultSnippet',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SearchResultSnippet.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['serviceaccountcredential',['ServiceAccountCredential',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Auth_1_1OAuth2_1_1ServiceAccountCredential.html',1,'Google::Apis::Auth::OAuth2']]],
+  ['setmediaupload',['SetMediaUpload',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1WatermarksResource_1_1SetMediaUpload.html',1,'Google::Apis::YouTube::v3::WatermarksResource']]],
+  ['setmediaupload',['SetMediaUpload',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1ThumbnailsResource_1_1SetMediaUpload.html',1,'Google::Apis::YouTube::v3::ThumbnailsResource']]],
+  ['setrequest',['SetRequest',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1ThumbnailsResource_1_1SetRequest.html',1,'Google::Apis::YouTube::v3::ThumbnailsResource']]],
+  ['setrequest',['SetRequest',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1WatermarksResource_1_1SetRequest.html',1,'Google::Apis::YouTube::v3::WatermarksResource']]],
+  ['singleerror',['SingleError',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Requests_1_1SingleError.html',1,'Google::Apis::Requests']]],
+  ['standardresponse_2dg',['StandardResponse-g',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Util_1_1StandardResponse-g.html',1,'Google::Apis::Util']]],
+  ['storagedatastore',['StorageDataStore',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Util_1_1Store_1_1StorageDataStore.html',1,'Google::Apis::Util::Store']]],
+  ['stringvalueattribute',['StringValueAttribute',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Util_1_1StringValueAttribute.html',1,'Google::Apis::Util']]],
+  ['stroagedatastore',['StroageDataStore',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Util_1_1Store_1_1StroageDataStore.html',1,'Google::Apis::Util::Store']]],
+  ['subscription',['Subscription',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1Subscription.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['subscriptioncontentdetails',['SubscriptionContentDetails',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SubscriptionContentDetails.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['subscriptionlistresponse',['SubscriptionListResponse',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SubscriptionListResponse.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['subscriptionsnippet',['SubscriptionSnippet',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SubscriptionSnippet.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['subscriptionsresource',['SubscriptionsResource',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1SubscriptionsResource.html',1,'Google::Apis::YouTube::v3']]],
+  ['subscriptionsubscribersnippet',['SubscriptionSubscriberSnippet',['../classGoogle_1_1Apis_1_1YouTube_1_1v3_1_1Data_1_1SubscriptionSubscriberSnippet.html',1,'Google::Apis::YouTube::v3::Data']]],
+  ['systemclock',['SystemClock',['http://contrib.google-api-dotnet-client.googlecode.com/hg/1.9.0/documentation/classGoogle_1_1Apis_1_1Util_1_1SystemClock.html',1,'Google::Apis::Util']]]
+];

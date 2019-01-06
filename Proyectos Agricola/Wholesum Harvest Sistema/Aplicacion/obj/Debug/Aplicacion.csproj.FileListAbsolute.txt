@@ -1,0 +1,26 @@
+D:\WHOLESUM_TF\Aplicacion\bin\Debug\Aplicacion.exe
+D:\WHOLESUM_TF\Aplicacion\bin\Debug\Aplicacion.pdb
+D:\WHOLESUM_TF\Aplicacion\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Actualizacion.baml
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Actualizacion.g.cs
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\App.g.cs
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion_MarkupCompile.cache
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion.g.resources
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion.exe
+D:\WHOLESUM_TF\Aplicacion\obj\Debug\Aplicacion.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion.exe
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\bin\Debug\Aplicacion.exe
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\bin\Debug\Aplicacion.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Actualizacion.baml
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Actualizacion.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\App.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion_MarkupCompile.cache
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion.g.resources
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+D:\Proyectos\Wholesum Harvest Sistema\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.Cache

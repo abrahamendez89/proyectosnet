@@ -1,0 +1,47 @@
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.csprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DriverXtraGrid.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DriverXtraGrid.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccessForms.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DevExpress.Data.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DevExpress.Utils.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\MetaCatalogo.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\ControlesUsuario.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DevExpress.XtraBars.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccTextboxAdvanced.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccessForms.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\DriverXtraGrid.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\DriverXtraGrid.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccessForms.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\DataAccess.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\MetaCatalogo.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\ControlesUsuario.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccessForms.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\DataAccess.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\bin\Debug\IniFileController.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.csprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.pdb
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\DriverXtraGrid.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\DriverXtraGrid.pdb
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccessForms.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\DataAccess.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\MetaCatalogo.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\ControlesUsuario.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccTextboxAdvanced.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\AccessForms.pdb
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\DataAccess.pdb
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\bin\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.csprojResolveAssemblyReference.cache
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.dll
+D:\Proyectos\Timbrado Nomina\DriverXtraGrid\obj\Debug\DriverXtraGrid.pdb

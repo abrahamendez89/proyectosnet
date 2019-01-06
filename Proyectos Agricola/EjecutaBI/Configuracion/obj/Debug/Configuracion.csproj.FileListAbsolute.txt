@@ -1,0 +1,17 @@
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\Configuracion.exe.config
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\Configuracion.exe
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\Configuracion.pdb
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\EjecutaBIConsola.exe
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\Herramientas.dll
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\itextsharp.dll
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\NCalc.dll
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\Herramientas.pdb
+D:\Proyectos\EjecutaBI\Configuracion\bin\Debug\EjecutaBIConsola.pdb
+D:\Proyectos\EjecutaBI\Configuracion\obj\Debug\Configuracion.csprojResolveAssemblyReference.cache
+D:\Proyectos\EjecutaBI\Configuracion\obj\Debug\Configuracion.Configuracion.resources
+D:\Proyectos\EjecutaBI\Configuracion\obj\Debug\Configuracion.Properties.Resources.resources
+D:\Proyectos\EjecutaBI\Configuracion\obj\Debug\Configuracion.csproj.GenerateResource.Cache
+D:\Proyectos\EjecutaBI\Configuracion\obj\Debug\Configuracion.exe
+D:\Proyectos\EjecutaBI\Configuracion\obj\Debug\Configuracion.pdb

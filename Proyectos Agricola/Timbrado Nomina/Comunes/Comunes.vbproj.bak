@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DAF2C72-48AC-482F-838F-F8FA9D53D5F2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>Sistema</RootNamespace>
+    <AssemblyName>Comunes</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Comunes.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Comunes.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AccTextboxAdvanced, Version=1.0.4541.28874, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\AccTextboxAdvanced.dll</HintPath>
+    </Reference>
+    <Reference Include="BarcodeLib, Version=1.0.0.7, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Criptografo, Version=1.3.2699.30795, Culture=neutral" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v6.3, Version=6.3.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraEditors.v6.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v6.3, Version=6.3.1.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DevExpress.XtraGrid.v6.3.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.CalcEngine, Version=1.0.7.0, Culture=neutral, PublicKeyToken=327c3516b1b18457">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FarPoint.Excel, Version=1.0.9.0, Culture=neutral, PublicKeyToken=327c3516b1b18457">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FarPoint.Win.Spread, Version=1.0.6.0, Culture=neutral, PublicKeyToken=327c3516b1b18457">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\FarPoint.Win.Spread.dll</HintPath>
+    </Reference>
+    <Reference Include="ImpresionReportes, Version=1.0.2996.19613, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ImpresionReportes.dll</HintPath>
+    </Reference>
+    <Reference Include="MetaCatalogo, Version=3.0.5.28893, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\MetaCatalogo.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpZipLib, Version=0.31.0.0, Culture=neutral, PublicKeyToken=1b03e6acf1164f73">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catalogos\ClsAdministracionArchivosWS.vb" />
+    <Compile Include="Catalogos\ClsClientes.vb" />
+    <Compile Include="Catalogos\ClsConfiguracionEdoCtaBan.vb" />
+    <Compile Include="Catalogos\ClsContieneParidades.vb" />
+    <Compile Include="Catalogos\ClsEmpleado.vb" />
+    <Compile Include="Catalogos\ClsMoneda.vb" />
+    <Compile Include="Catalogos\ClsParidad.vb" />
+    <Compile Include="Catalogos\ClsProducto.vb" />
+    <Compile Include="Catalogos\EscribanoCatalogos.vb" />
+    <Compile Include="Catalogos\FabricaCatalogos.vb" />
+    <Compile Include="Comunes\ArchivoDBF\ClsCreaDBF.vb" />
+    <Compile Include="Comunes\ArchivoDBF\ClsLeeDBF.vb" />
+    <Compile Include="Comunes\ArchivoPlano\ClsArchivoPlanoBase.vb" />
+    <Compile Include="Comunes\ArchivoPlano\ClsLeeEdoCtaBancaria.vb" />
+    <Compile Include="Comunes\ArchivoPlano\ClsLeeFacturasCompras.vb" />
+    <Compile Include="Comunes\ClsBaseComun.vb" />
+    <Compile Include="Comunes\ClsBaseComun2.vb" />
+    <Compile Include="Comunes\ClsBaseComunConsultaMovimiento.vb" />
+    <Compile Include="Comunes\ClsClavesProductos.vb" />
+    <Compile Include="Comunes\ClsComunes.vb" />
+    <Compile Include="Comunes\ClsContenedor.vb" />
+    <Compile Include="Comunes\ClsContenedorTiposDatos.vb" />
+    <Compile Include="Comunes\ClsDatosComunesRegistro.vb" />
+    <Compile Include="Comunes\ClsImagen.vb" />
+    <Compile Include="Comunes\ClsManejaImpuestos.vb" />
+    <Compile Include="Comunes\clsParametros.vb" />
+    <Compile Include="Comunes\ClsParametrosSucursal.vb" />
+    <Compile Include="Comunes\ClsSeleccionador.VB" />
+    <Compile Include="Comunes\ClsTiposDatos.vb" />
+    <Compile Include="Comunes\ClsTools.vb" />
+    <Compile Include="Comunes\ClsToolsAdsumTextBox.vb" />
+    <Compile Include="Comunes\ClsToolsXtraGrid.vb" />
+    <Compile Include="Comunes\ClsTransaccionBase.vb" />
+    <Compile Include="Comunes\ClsTransaccionBase2.vb" />
+    <Compile Include="Comunes\ClsVariablesGlobales.vb" />
+    <Compile Include="Comunes\EAccionesBD.vb" />
+    <Compile Include="Comunes\Escribano.vb" />
+    <Compile Include="Comunes\Fabrica.vb" />
+    <Compile Include="Comunes\frmStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\PermisosSistema\ClsManejadorPermisos.vb" />
+    <Compile Include="Comunes\PermisosSistema\ClsPermisoSistema.vb" />
+    <Compile Include="Comunes\PermisosSistema\ClsTipoPermiso.vb" />
+    <Compile Include="Comunes\PermisosSistema\ClsValor.vb" />
+    <Compile Include="Comunes\PermisosSistema\FabricaPermisos.vb" />
+    <Compile Include="Comunes\Reportes\ClsAgrupacion.vb" />
+    <Compile Include="Comunes\Reportes\ClsBooleano.Designer.vb">
+      <DependentUpon>ClsBooleano.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsBooleano.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsCampos.vb" />
+    <Compile Include="Comunes\Reportes\ClsCamposGlobal.vb" />
+    <Compile Include="Comunes\Reportes\ClsColumnas.vb" />
+    <Compile Include="Comunes\Reportes\ClsFecha.Designer.vb">
+      <DependentUpon>ClsFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsFecha.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsFiltros.vb" />
+    <Compile Include="Comunes\Reportes\ClsFiltrosGlobal.vb" />
+    <Compile Include="Comunes\Reportes\ClsMultiple.Designer.vb">
+      <DependentUpon>ClsMultiple.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsMultiple.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsOrdenacion.vb" />
+    <Compile Include="Comunes\Reportes\ClsReporteGuarda.vb" />
+    <Compile Include="Comunes\Reportes\ClsReportes.vb" />
+    <Compile Include="Comunes\Reportes\ClsSencilla.Designer.vb">
+      <DependentUpon>ClsSencilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsSencilla.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\ClsTotales.vb" />
+    <Compile Include="Comunes\Reportes\EscribanoReportes.vb" />
+    <Compile Include="Comunes\Reportes\FabricaReportes.vb" />
+    <Compile Include="Comunes\Reportes\FrmCamposCalculados.Designer.vb">
+      <DependentUpon>FrmCamposCalculados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\FrmCamposCalculados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\frmCamposCalculados_1.Designer.vb">
+      <DependentUpon>frmCamposCalculados_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\frmCamposCalculados_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\FrmGuardaReporte.Designer.vb">
+      <DependentUpon>FrmGuardaReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\FrmGuardaReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\FrmVisorCrystal.Designer.vb">
+      <DependentUpon>FrmVisorCrystal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\FrmVisorCrystal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\Reportes\RangoFechas.Designer.vb">
+      <DependentUpon>RangoFechas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\Reportes\RangoFechas.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comunes\SQLHelper.vb" />
+    <Compile Include="Comunes\WS\ClsActualizaCatalogos.vb" />
+    <Compile Include="Comunes\WS\ClsConciliadorWS.vb" />
+    <Compile Include="Comunes\WS\ClsProcesaArchivo.vb" />
+    <Compile Include="Comunes\WS\Configuracion WS Sucursal\ClsConfiguracionSucursalWS.vb" />
+    <Compile Include="Comunes\WS\Configuracion WS Sucursal\ClsObtenInformacion.vb" />
+    <Compile Include="Comunes\WS\Configuracion WS Sucursal\ClsPeticionSucursalCoporativo.vb" />
+    <Compile Include="Comunes\WS\EscribanoWS.vb" />
+    <Compile Include="Comunes\WS\FabricaWS.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Registros\ClsRegistroFactura.vb" />
+    <Compile Include="Registros\ClsRegistroFlete.vb" />
+    <Compile Include="Registros\EscribanoRegistros.vb" />
+    <Compile Include="Registros\FabricaRegistros.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Comunes\frmStatus.resx">
+      <DependentUpon>frmStatus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\ClsBooleano.resx">
+      <DependentUpon>ClsBooleano.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\ClsFecha.resx">
+      <DependentUpon>ClsFecha.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\ClsMultiple.resx">
+      <DependentUpon>ClsMultiple.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\ClsSencilla.resx">
+      <DependentUpon>ClsSencilla.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\FrmCamposCalculados.resx">
+      <DependentUpon>FrmCamposCalculados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\frmCamposCalculados_1.resx">
+      <DependentUpon>frmCamposCalculados_1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\FrmGuardaReporte.resx">
+      <DependentUpon>FrmGuardaReporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\FrmVisorCrystal.resx">
+      <DependentUpon>FrmVisorCrystal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\Reportes\RangoFechas.resx">
+      <DependentUpon>RangoFechas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccessForms\AccessForms.csproj">
+      <Project>{32c4c83d-f424-4c2d-b633-1d5030370fbb}</Project>
+      <Name>AccessForms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{a09e04c9-2f35-47c4-9ec1-40c02dd4947b}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ini\Ini.csproj">
+      <Project>{ddcaf88a-6693-4242-80b0-e6d220790faf}</Project>
+      <Name>Ini</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

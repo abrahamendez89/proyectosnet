@@ -1,0 +1,119 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="InterfazWPF.EspacioSeleccionado"
+	x:Name="UserControl" Height="32.333" Width="51.212" Cursor="Hand">
+	<UserControl.Resources>
+		<Storyboard x:Key="EntroControl">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloIzquierdo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFC6C6C6"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloDerecho">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFC6C6C6"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectanguloFondo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFC6C6C6"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="SalioControl">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloIzquierdo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFC6C6C6"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF545353"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloDerecho">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFC6C6C6"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF545353"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectanguloFondo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFC6C6C6"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF545353"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="EsUltimo">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="trianguloIzquierdo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF000E80"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloIzquierdo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF00108D"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloDerecho">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF00108D"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="trianguloDerecho">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF000E80"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="rectanguloFondo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF000E80"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectanguloFondo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF00108D"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="EsNormal">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloIzquierdo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF00108D"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF545353"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="trianguloDerecho">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF00108D"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF545353"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectanguloFondo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF00108D"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF545353"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="trianguloIzquierdo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF000E80"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="Black"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="trianguloDerecho">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF000E80"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="Black"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="rectanguloFondo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF000E80"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="Black"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot" RenderTransformOrigin="0.5,0.5">
+		<Path x:Name="trianguloIzquierdo" Data="M0.4792873,0.24975025 L4.5913489,15.339836 0.64625673,31.25 7.3749074,31.25 7.4689043,0.21875 0.083466204,0.22891675" Margin="0.083,0.219,0,0" Stretch="Fill" Stroke="Black" StrokeThickness="0" HorizontalAlignment="Left" Width="8.386">
+			<Path.Fill>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="DarkGray" Offset="0"/>
+					<GradientStop Color="Black" Offset="1"/>
+					<GradientStop Color="#FF545353" Offset="0.112"/>
+				</LinearGradientBrush>
+			</Path.Fill>
+		</Path>
+		<Path x:Name="trianguloDerecho" Data="M91.0832,0.12500185 L95.832997,15.541333 91.052184,31.210847 87.420674,31.210847 87.574504,0.16957015 91.080242,0.17610976" HorizontalAlignment="Right" Margin="0,0.125,0.499,0.041" Stretch="Fill" Stroke="Black" Width="9.411" StrokeThickness="0">
+			<Path.Fill>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="DarkGray" Offset="0"/>
+					<GradientStop Color="Black" Offset="1"/>
+					<GradientStop Color="#FF545353" Offset="0.112"/>
+				</LinearGradientBrush>
+			</Path.Fill>
+		</Path>
+		<Rectangle x:Name="rectanguloFondo" Margin="8,0.219,8.868,0" Stroke="Black" StrokeThickness="0">
+			<Rectangle.Fill>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="DarkGray" Offset="0"/>
+					<GradientStop Color="Black" Offset="1"/>
+					<GradientStop Color="#FF545353" Offset="0.116"/>
+				</LinearGradientBrush>
+			</Rectangle.Fill>
+		</Rectangle>
+		<TextBlock x:Name="txt_nombreEspacio" Margin="9.833,8,8.868,7.917" Text="Titulo" Foreground="White"/>
+		<Path Data="M0.40625,0.219 L5.234375,15.9375" Fill="#FFF4F4F5" HorizontalAlignment="Left" Margin="0.083,-0.417,0,15.603" Stretch="Fill" Stroke="Black" Width="5.834"/>
+		<Path Data="M0.406,32.333 L4.9166667,15.333333" Fill="#FFF4F4F5" HorizontalAlignment="Left" Margin="0.406,15.02,0,-0.417" Stretch="Fill" Stroke="Black" Width="5.511"/>
+		<Path Data="M0.64583333,0.219 L154.125,0.219" Fill="#FFF4F4F5" Height="1" Margin="0.646,0.219,5.021,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top"/>
+		<Path Data="M154.3125,1.219 L159.45817,16.0625" Fill="#FFF4F4F5" HorizontalAlignment="Right" Margin="0,0.125,0,14.865" Stretch="Fill" Stroke="Black" Width="6.428"/>
+		<Path Data="M159.64717,16.605 L154.31217,31.75" Fill="#FFF4F4F5" HorizontalAlignment="Right" Margin="0,15.793,0,-0.417" Stretch="Fill" Stroke="Black" Width="5.834" d:LayoutOverrides="VerticalAlignment"/>
+		<Path Data="M155.12517,31.75 L0.083,31.6875" Fill="#FFF4F4F5" Height="1.062" Margin="0.083,0,4.087,-0.014" Stretch="Fill" Stroke="Black" VerticalAlignment="Bottom"/>
+	</Grid>
+</UserControl>

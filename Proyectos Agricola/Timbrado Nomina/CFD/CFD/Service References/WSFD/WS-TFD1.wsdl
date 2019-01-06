@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="https://www.foliosdigitalespac.com/WS-Folios" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="https://www.foliosdigitalespac.com/WS-Folios" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="https://www.foliosdigitalespac.com/WS-Folios">
+      <s:element name="TimbrarPruebaCFDI">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cadenaXML" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TimbrarPruebaCFDIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TimbrarPruebaCFDIResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="TimbrarCFD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cadenaXML" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="referencia" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TimbrarCFDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TimbrarCFDResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CancelarCFDI">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RFCEmisor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="listaCFDI" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="certificadoPKCS12_Base64" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="passwordPKCS12" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CancelarCFDIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CancelarCFDIResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RFCEmisor" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerXMLResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerAcuseEnvio">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RFCEmisor" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerAcuseEnvioResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerAcuseEnvioResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerAcuseCancelacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RFCEmisor" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ObtenerAcuseCancelacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerAcuseCancelacionResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CambiarPassword">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="passwordActual" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="passwordNuevo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CambiarPasswordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CambiarPasswordResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarComplementoTimbre">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarComplementoTimbreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarComplementoTimbreResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarTimbrePorReferencia">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RFCEmisor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Referencia" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarTimbrePorReferenciaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarTimbrePorReferenciaResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarEstadoComprobante">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarEstadoComprobanteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarEstadoComprobanteResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarCreditos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarCreditosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarCreditosResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReactivarUsuarioTimbrado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="usuarioTimbrado" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReactivarUsuarioTimbradoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReactivarUsuarioTimbradoResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TimbrarPruebaCFDISoapIn">
+    <wsdl:part name="parameters" element="tns:TimbrarPruebaCFDI" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarPruebaCFDISoapOut">
+    <wsdl:part name="parameters" element="tns:TimbrarPruebaCFDIResponse" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarCFDSoapIn">
+    <wsdl:part name="parameters" element="tns:TimbrarCFD" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarCFDSoapOut">
+    <wsdl:part name="parameters" element="tns:TimbrarCFDResponse" />
+  </wsdl:message>
+  <wsdl:message name="CancelarCFDISoapIn">
+    <wsdl:part name="parameters" element="tns:CancelarCFDI" />
+  </wsdl:message>
+  <wsdl:message name="CancelarCFDISoapOut">
+    <wsdl:part name="parameters" element="tns:CancelarCFDIResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerXML" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerAcuseEnvioSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseEnvio" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerAcuseEnvioSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseEnvioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerAcuseCancelacionSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseCancelacion" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerAcuseCancelacionSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseCancelacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="CambiarPasswordSoapIn">
+    <wsdl:part name="parameters" element="tns:CambiarPassword" />
+  </wsdl:message>
+  <wsdl:message name="CambiarPasswordSoapOut">
+    <wsdl:part name="parameters" element="tns:CambiarPasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarComplementoTimbreSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarComplementoTimbre" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarComplementoTimbreSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarComplementoTimbreResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarTimbrePorReferenciaSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarTimbrePorReferencia" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarTimbrePorReferenciaSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarTimbrePorReferenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarEstadoComprobanteSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarEstadoComprobante" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarEstadoComprobanteSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarEstadoComprobanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarCreditosSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultarCreditos" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarCreditosSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarCreditosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReactivarUsuarioTimbradoSoapIn">
+    <wsdl:part name="parameters" element="tns:ReactivarUsuarioTimbrado" />
+  </wsdl:message>
+  <wsdl:message name="ReactivarUsuarioTimbradoSoapOut">
+    <wsdl:part name="parameters" element="tns:ReactivarUsuarioTimbradoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WS_FD_TFDSoap">
+    <wsdl:operation name="TimbrarPruebaCFDI">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Timbrado de Prueba</wsdl:documentation>
+      <wsdl:input message="tns:TimbrarPruebaCFDISoapIn" />
+      <wsdl:output message="tns:TimbrarPruebaCFDISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TimbrarCFD">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Timbrar un CFD</wsdl:documentation>
+      <wsdl:input message="tns:TimbrarCFDSoapIn" />
+      <wsdl:output message="tns:TimbrarCFDSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelarCFDI">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Servicio para Cancelar CFDIs</wsdl:documentation>
+      <wsdl:input message="tns:CancelarCFDISoapIn" />
+      <wsdl:output message="tns:CancelarCFDISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerXML">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Obtener XML del CFDI</wsdl:documentation>
+      <wsdl:input message="tns:ObtenerXMLSoapIn" />
+      <wsdl:output message="tns:ObtenerXMLSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseEnvio">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Obtener acuse de envío al SAT</wsdl:documentation>
+      <wsdl:input message="tns:ObtenerAcuseEnvioSoapIn" />
+      <wsdl:output message="tns:ObtenerAcuseEnvioSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseCancelacion">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Obtener acuse de cancelación ante el SAT</wsdl:documentation>
+      <wsdl:input message="tns:ObtenerAcuseCancelacionSoapIn" />
+      <wsdl:output message="tns:ObtenerAcuseCancelacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CambiarPassword">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Cambio de Password</wsdl:documentation>
+      <wsdl:input message="tns:CambiarPasswordSoapIn" />
+      <wsdl:output message="tns:CambiarPasswordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComplementoTimbre">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Consultar datos de timbrado</wsdl:documentation>
+      <wsdl:input message="tns:ConsultarComplementoTimbreSoapIn" />
+      <wsdl:output message="tns:ConsultarComplementoTimbreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarTimbrePorReferencia">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Consultar datos de complemento timbre</wsdl:documentation>
+      <wsdl:input message="tns:ConsultarTimbrePorReferenciaSoapIn" />
+      <wsdl:output message="tns:ConsultarTimbrePorReferenciaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarEstadoComprobante">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Consultar el estado de un comprobante</wsdl:documentation>
+      <wsdl:input message="tns:ConsultarEstadoComprobanteSoapIn" />
+      <wsdl:output message="tns:ConsultarEstadoComprobanteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCreditos">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Consulta de creditos restantes</wsdl:documentation>
+      <wsdl:input message="tns:ConsultarCreditosSoapIn" />
+      <wsdl:output message="tns:ConsultarCreditosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReactivarUsuarioTimbrado">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Folios Digitales - Reactivar usuario</wsdl:documentation>
+      <wsdl:input message="tns:ReactivarUsuarioTimbradoSoapIn" />
+      <wsdl:output message="tns:ReactivarUsuarioTimbradoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WS_FD_TFDSoap" type="tns:WS_FD_TFDSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarPruebaCFDI">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/TimbrarPruebaCFDI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimbrarCFD">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/TimbrarCFD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelarCFDI">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/CancelarCFDI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerXML">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ObtenerXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseEnvio">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ObtenerAcuseEnvio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseCancelacion">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ObtenerAcuseCancelacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CambiarPassword">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/CambiarPassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComplementoTimbre">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarComplementoTimbre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarTimbrePorReferencia">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarTimbrePorReferencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarEstadoComprobante">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarEstadoComprobante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCreditos">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarCreditos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReactivarUsuarioTimbrado">
+      <soap:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ReactivarUsuarioTimbrado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WS_FD_TFDSoap12" type="tns:WS_FD_TFDSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarPruebaCFDI">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/TimbrarPruebaCFDI" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimbrarCFD">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/TimbrarCFD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelarCFDI">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/CancelarCFDI" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerXML">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ObtenerXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseEnvio">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ObtenerAcuseEnvio" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseCancelacion">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ObtenerAcuseCancelacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CambiarPassword">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/CambiarPassword" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComplementoTimbre">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarComplementoTimbre" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarTimbrePorReferencia">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarTimbrePorReferencia" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarEstadoComprobante">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarEstadoComprobante" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCreditos">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ConsultarCreditos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReactivarUsuarioTimbrado">
+      <soap12:operation soapAction="https://www.foliosdigitalespac.com/WS-Folios/ReactivarUsuarioTimbrado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WS_FD_TFD">
+    <wsdl:port name="WS_FD_TFDSoap" binding="tns:WS_FD_TFDSoap">
+      <soap:address location="http://www.foliosdigitalespac.com/ws-folios/WS-TFD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WS_FD_TFDSoap12" binding="tns:WS_FD_TFDSoap12">
+      <soap12:address location="http://www.foliosdigitalespac.com/ws-folios/WS-TFD.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

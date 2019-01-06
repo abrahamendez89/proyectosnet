@@ -1,0 +1,400 @@
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\Karaoke.exe.config
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Interop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\Karaoke.exe
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\Karaoke.pdb
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\Herramientas.dll
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\Herramientas.pdb
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\MainWindow.baml
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\MainWindow.g.cs
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\App.g.cs
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke_MarkupCompile.cache
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.g.resources
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.exe
+D:\PROYETOS .NET\Karaoke\Karaoke\obj\Debug\Karaoke.pdb
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\AxInterop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\Interop.WMPLib.dll
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\MediaPlayer.dll
+D:\PROYETOS .NET\Karaoke\Karaoke\bin\Debug\MediaPlayer.pdb
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\Karaoke.exe.config
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Interop.WMPLib.dll
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.exe
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.pdb
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\Karaoke.exe
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\Karaoke.pdb
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\AxInterop.WMPLib.dll
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.dll
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.dll
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\Interop.WMPLib.dll
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.pdb
+G:\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.pdb
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\MainWindow.baml
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\MainWindow.g.cs
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\App.g.cs
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke_MarkupCompile.cache
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.g.resources
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+G:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Karaoke.exe.config
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Interop.WMPLib.dll
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.exe
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.pdb
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Karaoke.exe
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Karaoke.pdb
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\AxInterop.WMPLib.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Interop.WMPLib.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.pdb
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.pdb
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\App.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke_MarkupCompile.cache
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.g.resources
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke_MarkupCompile.lref
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.g.cs
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.GData.Client.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.GData.Extensions.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.GData.YouTube.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\LumenWorks.Framework.IO.dll
+I:\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.dll
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.g.cs
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.baml
+I:\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\App.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\SeleccionarTecla.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\SeleccionarTecla.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\textBoxRedondeado.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\textBoxRedondeado.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.exe.config
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.exe
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube_MarkupCompile.cache
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube_MarkupCompile.lref
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.g.resources
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.exe
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Calificador.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Calificador.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\PreparacionKaraoke.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\PreparacionKaraoke.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ReproductorMediaElement.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ReproductorMediaElement.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.App.config
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\log4net.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.IO.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Extensions.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Primitives.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Runtime.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Threading.Tasks.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Zlib.Portable.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\BouncyCastle.Crypto.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\log4net.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.IO.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Extensions.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Primitives.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Runtime.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Threading.Tasks.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Zlib.Portable.xml
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MySql.Data.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\SQLite.NET.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AForge.Video.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\itextsharp.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Ionic.Zip.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\NCalc.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\InputSimulator.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.exe.config
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.App.config
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Interop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.exe
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.exe
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AxInterop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\BouncyCastle.Crypto.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\log4net.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.IO.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Extensions.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Primitives.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.WebRequest.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Runtime.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Threading.Tasks.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Zlib.Portable.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MySql.Data.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\SQLite.NET.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AForge.Video.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\itextsharp.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Ionic.Zip.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\NCalc.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AForge.Video.DirectShow.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\InputSimulator.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Interop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\BouncyCastle.Crypto.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\log4net.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.IO.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Extensions.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Primitives.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.WebRequest.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Runtime.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Threading.Tasks.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Zlib.Portable.xml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\SeleccionarTecla.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ReproductorMediaElement.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\textBoxRedondeado.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\PreparacionKaraoke.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Calificador.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\SeleccionarTecla.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ReproductorMediaElement.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\textBoxRedondeado.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\PreparacionKaraoke.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\App.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube_MarkupCompile.cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube_MarkupCompile.lref
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Calificador.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.baml
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.g.resources
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.exe.config
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.exe
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\KaraTube.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AxInterop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\BouncyCastle.Crypto.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\log4net.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.IO.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Extensions.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Primitives.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.WebRequest.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Runtime.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Threading.Tasks.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Zlib.Portable.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\InputSimulator.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AForge.Video.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\AForge.Video.DirectShow.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MySql.Data.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\SQLite.NET.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\NCalc.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\itextsharp.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Ionic.Zip.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Interop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Herramientas.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\MediaPlayer.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\BouncyCastle.Crypto.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.Core.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.PlatformServices.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\log4net.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Newtonsoft.Json.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.IO.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Extensions.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.Primitives.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Net.Http.WebRequest.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Runtime.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\System.Threading.Tasks.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\bin\Debug\Zlib.Portable.xml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csprojResolveAssemblyReference.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Interop.WMPLib.dll
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.ResolveComReference.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\SeleccionarTecla.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ReproductorMediaElement.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\textBoxRedondeado.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\PreparacionKaraoke.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Calificador.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Cargando.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\SeleccionarTecla.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Disco.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\OpcionMenu.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\Reproductor.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ReproductorMediaElement.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\textBoxRedondeado.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\PreparacionKaraoke.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\TestYouTube.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\App.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube_MarkupCompile.cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube_MarkupCompile.lref
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Calificador.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Configuracion\ConfiguracionOpciones.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\BotonTouch.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Controles\ControladoresTouch.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Principal.baml
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.g.resources
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.exe
+D:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\Karaoke\obj\Debug\KaraTube.pdb

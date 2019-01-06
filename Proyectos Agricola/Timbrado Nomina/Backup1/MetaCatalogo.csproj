@@ -1,0 +1,230 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{95D0AF8C-BB6C-4BFD-A0C7-14F0EC700565}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>MetaCatalogo</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Sistema</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>ADSUM.Pruebas.frmMain</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>MetaCatalogo.xml</DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Criptografo, Version=1.3.2699.30795, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Release\Criptografo.dll</HintPath>
+    </Reference>
+    <Reference Include="DataAccess, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\FactElect\bin\Release\DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="IniFileController, Version=1.0.1613.20860, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Enrique\Documents\Visual Studio 2008\Projects\DataAccess\DataAccess\bin\Release\IniFileController.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Catalogo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\CambioRenglonGridArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\ElementoInvalidoEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\Extras.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Complementos\tbFormats.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\TipoCriterio.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\Tool.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Complementos\ValorDependencia.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Componentes\CheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Componentes\SeleccionesDeUsuario.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Componentes\AccTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Componentes\AccTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Componentes\TextBoxValidador.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\ClsMetaCatalogosManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCreacionMetaCatalogos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCreacionVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmResultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MetaCampo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MetaCatalogo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Pruebas\frmPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="Complementos\InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componentes\CheckBox.resx">
+      <DependentUpon>CheckBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componentes\AccTabControl.resx">
+      <DependentUpon>AccTabControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Componentes\AccTextBox.resx">
+      <DependentUpon>AccTextBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCatalogo.resx">
+      <DependentUpon>frmCatalogo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Mantenimiento\frmCreacionMetaCatalogos.resx">
+      <DependentUpon>frmCreacionMetaCatalogos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmCreacionVista.resx">
+      <DependentUpon>frmCreacionVista.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmResultado.resx">
+      <DependentUpon>frmResultado.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pruebas\frmPrueba.resx">
+      <DependentUpon>frmPrueba.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

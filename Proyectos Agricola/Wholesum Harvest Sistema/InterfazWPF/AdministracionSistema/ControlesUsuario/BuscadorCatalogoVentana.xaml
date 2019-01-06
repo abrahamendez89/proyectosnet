@@ -1,0 +1,59 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:local="clr-namespace:InterfazWPF" xmlns:InterfazWPF_AdministracionSistema_ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="InterfazWPF.BuscadorCatalogoVentana"
+	x:Name="Window"
+	Title="BuscadorCatalogoVentana"
+	Width="637.5" Height="370">
+
+	<Grid x:Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Stroke="Black" RadiusY="4.5" RadiusX="4.5" Fill="#FF606060">
+			<Rectangle.Effect>
+				<DropShadowEffect/>
+			</Rectangle.Effect>
+		</Rectangle>
+		<WrapPanel Height="18" Margin="289,13,10,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" d:LayoutOverrides="GridBox, HorizontalMargin">
+			<WrapPanel.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform Angle="180"/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</WrapPanel.RenderTransform>
+			<CheckBox x:Name="chb_IncluirDeshabilitados" Height="15.931" Width="136.819" Content="Incluir deshabilitados" RenderTransformOrigin="0.5,0.5" Foreground="White" Visibility="Collapsed">
+				<CheckBox.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="-180.013"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</CheckBox.RenderTransform>
+			</CheckBox>
+			<CheckBox x:Name="chb_SeleccionMultiple" Content="Selección múltiple" RenderTransformOrigin="0.5,0.5" Foreground="White" Visibility="Collapsed">
+				<CheckBox.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="180"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</CheckBox.RenderTransform>
+			</CheckBox>
+		</WrapPanel>
+
+		<local:Boton x:Name="btn_aceptar"  Text="Aceptar" HorizontalAlignment="Right" Margin="0,0,8,7" VerticalAlignment="Bottom" Height="23" Width="74" MouseDown="btn_aceptar_MouseDown"/>
+		<local:Boton x:Name="btn_cancelar"  Text="Cancelar" Margin="0,0,86,7" VerticalAlignment="Bottom" Height="23" MouseDown="btn_cancelar_MouseDown" HorizontalAlignment="Right" Width="72" d:LayoutOverrides="HorizontalAlignment"/>
+		<Image HorizontalAlignment="Left" Margin="7,8,0,0" Width="26" Height="25" VerticalAlignment="Top" Source="1403319922_checklist.png"/>
+		<DataGrid x:Name="dgr_GridResultadosBusqueda" SelectionMode="Single" Margin="7,45,8,34" Background="White" HorizontalGridLinesBrush="Black" VerticalGridLinesBrush="Black" AlternationCount="2" CanUserAddRows="False" AlternatingRowBackground="#FFA2FBCC" BorderBrush="Black" RowBackground="#FFDDFFED"/>
+
+		<InterfazWPF_AdministracionSistema_ControlesUsuario:TextboxNormal x:Name="txt_palabraBusqueda" Margin="48,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="228" d:LayoutOverrides="HorizontalAlignment"/>
+        <local:Boton x:Name="btn_AccesoCatalogo" Text="Acceder al catálogo" HorizontalAlignment="Left" Margin="8,0,0,7" Height="22" VerticalAlignment="Bottom" Width="115.792" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

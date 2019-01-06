@@ -1,0 +1,10 @@
+<basicHttpBinding>
+        <binding name="ChecadorSoap" allowCookies="true"
+           maxReceivedMessageSize="20000000"
+           maxBufferSize="20000000"
+           maxBufferPoolSize="20000000">
+          <readerQuotas maxDepth="32"
+               maxArrayLength="200000000"
+               maxStringContentLength="200000000"/>
+        </binding>
+      </basicHttpBinding>

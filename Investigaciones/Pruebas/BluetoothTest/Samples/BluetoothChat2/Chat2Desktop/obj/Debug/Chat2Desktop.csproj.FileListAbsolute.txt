@@ -1,0 +1,9 @@
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\obj\Debug\Chat2Desktop.csprojResolveAssemblyReference.cache
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\obj\Debug\Chat2.Form1.resources
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\obj\Debug\Chat2Desktop.Properties.Resources.resources
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\obj\Debug\Chat2Desktop.csproj.GenerateResource.Cache
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\bin\Debug\Chat2Desktop.exe
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\bin\Debug\Chat2Desktop.pdb
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\bin\Debug\InTheHand.Net.Personal.dll
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\obj\Debug\Chat2Desktop.exe
+D:\Proyectos\BluetoothTest\Samples\BluetoothChat2\Chat2Desktop\obj\Debug\Chat2Desktop.pdb

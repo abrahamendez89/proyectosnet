@@ -1,0 +1,783 @@
+--------- PASO 1:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --eliminando procedimiento sp_bi_drop  DROP PROCEDURE "SP_BI_DROP"...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:09 - *HORA FIN: 17:44:09
+
+--------- PASO 2:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --un comentario de shell ## ping www.google.com...
+*RESULTADO:  Haciendo ping a www.google.com [74.125.227.144] con 32 bytes de datos: Respuesta desde 74.125.227.144: bytes=32 tiempo=73ms TTL=49 Respuesta desde 74.125.227.144: bytes=32 tiempo=73ms TTL=49 Respuesta desde 74.125.227.144: bytes=32 tiempo=73ms TTL=49 Respuesta desde 74.125.227.144: bytes=32 tiempo=73ms TTL=49  Estad¡sticas de ping para 74.125.227.144:     Paquetes: enviados = 4, recibidos = 4, perdidos = 0     (0% perdidos), Tiempos aproximados de ida y vuelta en milisegundos:     M¡nimo = 73ms, M ximo = 73ms, Media = 73ms 
+*DURACIÓN: 00:00:03.184 - *HORA INICIO: 17:44:09 - *HORA FIN: 17:44:12
+
+--------- PASO 3:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --Creacion de procedimiento sp_bi_drop CREATE PROCEDURE SP_BI_DROP (     prttable_name varchar(80)) as declare variable s varchar(100); declare variab...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 4:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --Inicia eliminado de fuentes BI EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_ARTICULOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 5:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_CLIENTES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 6:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('Vw_Bi_Ctl_Current_Month')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 7:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIADELASEMANA')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 8:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIRECCIONES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 9:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_DIVISIONES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 10:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_ctl_Empleados_QC')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 11:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_Distintos_Empleados')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 12:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_conteo_defectos')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 13:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_conteo_defectos_salida')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 14:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_ctl_Empleados_Troubles')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 15:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_dist_empleados_troubles')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 16:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Sp_bi_origen_referencia')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 17:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Wrap')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 18:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_conteo_facturas_cliente')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 19:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_Bi_Problemas_Clientes')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 20:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('View Vw_Bi_Ctl_Destinos')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 21:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_bi_ctl_Razones')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 22:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('vw_Bi_Ctl_Analisis_Problemas')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 23:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_dist_empleados_troubles')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 24:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_EMPLEADOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 25:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_FORMASENVIO')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 26:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_IMPUESTOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 27:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_MESES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 28:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Sp_Bi_Liquidaciones')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 29:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_PROVEEDORES')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 30:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_PROVEEDORESMARCAS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 31:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_TERMINOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 32:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_BI_CTL_TRANSCURRIDOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 33:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('VW_CTL_VENTATIPOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 34:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('BI_SP_SALES_TEST')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 35:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_CTL_VENTATIPOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 36:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('TB_BI_PRESUPUESTO_GROWERS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 37:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_GROWERS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 38:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_ctl_Agrupa_expense')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 39:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_PERIODOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 40:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_PERIODOS_CXC_CXP')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 41:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Sales')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 42:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Hechos_Ventas')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 43:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_TIPOCREDITO')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 44:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_PERIODOSCLIEN')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 45:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_PERIODOSPROV')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 46:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_SEMANA_RECUPERACION')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 47:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_TEMPORADA_ACTUAL')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 48:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_semanas_normales')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 49:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_normales')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 50:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_CNT')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 51:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_TIPO_CNT')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 52:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_c_cuentas_tipos_bi')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 53:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Drop Generator gen_t1_id2...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Generator GEN_T1_ID2 not found
+*DURACIÓN: 00:00:00.062 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 54:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Drop Trigger t1_bi2...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Trigger T1_BI2 not found
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 55:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_ANALISIS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 56:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Tb_Bi_Liquidaciones')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 57:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Vw_Bi_Ctl_Analisis_Liquidacion')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 58:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Vw_Bi_Ctl_Semana_Liquidacion')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 59:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Sp_Rep_Liq_Grupo_Lotes_Bi')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 60:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Sp_Rep_Liq_Gastos_Gen_Bi')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 61:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE Sp_bi_drop('Sp_Rep_Liq_Gastos_Bi')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 62:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Almacenes')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 63:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_TipoAnalisis')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 64:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Curren_Day')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 65:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('vw_bi_ctl_analisis_INVENTARIO')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 66:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_verifica_rotacion')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 67:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_mala_rotacion')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 68:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_inventario')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 69:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_billoflading')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 70:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Drop TRIGGER T1_BI3...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Trigger T1_BI3 not found
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 71:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_billoflading')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:12
+
+--------- PASO 72:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Drop GENERATOR gen_t1_id3...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Generator GEN_T1_ID3 not found
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:12 - *HORA FIN: 17:44:13
+
+--------- PASO 73:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Fuente_Inventario')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 74:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('vw_bi_ctl_periodos_inventarios')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 75:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Inventarios_Hechos')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 76:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Sp_Bi_Salarios')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 77:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_semanas_Salary')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 78:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_semanas_Agricola')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 79:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('sp_bi_semanas_Normal')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 80:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Salarios_Det')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 81:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Salarios')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 82:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_Salary')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 83:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_Agricola')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 84:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_Normal')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 85:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_bonus_salary')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 86:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('factura_warehousee')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 87:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('tb_bi_conteo_facturas')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 88:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('tb_bi_conteo_problemas')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 89:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('tb_bi_Problemas_Producto')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 90:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('tb_bi_Problemas_ProductoMan')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 91:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Configuracion_personal_real')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 92:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Drop TRIGGER T1_BI1...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Trigger T1_BI1 not found
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 93:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Drop GENERATOR gen_t1_id1...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Generator GEN_T1_ID1 not found
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 94:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('TB_BI_BONUS_SALARY_dia')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 95:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('factura_warehousee_dia')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 96:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_conteo_facturas_dia')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 97:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_conteo_problemas_dia')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 98:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('fecha_conteo')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 99:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Departamento')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 100:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Analisis_Salarios')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 101:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_Distintos_Empleados')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 102:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Hechos_Quality_Control')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 103:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Creditos_Razones')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 104:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Analisis_QC')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 105:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Defectos_Tipo')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 106:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_Bi_Ctl_Defectos')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 107:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Reempacado')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 108:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('vw_bi_ctl_terminos_ventas')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 109:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Hechos_Trouble')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 110:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('SP_REP_LIQ_LOTE_GASTOS_BI')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 111:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Detalle_Gastos')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 112:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_CTL_PROBLEMAS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 113:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_Hechos_Salarios')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 114:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Vw_Bi_Ctl_Documentos_hist')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 115:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_hist_cxc')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 116:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Execute procedure sp_bi_drop('tb_bi_hist_cxp')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 117:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Execute procedure sp_bi_drop('Sp_Bi_Beginning_Balance')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 118:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Execute procedure sp_bi_drop('Tb_Bi_beginning_Balance')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 119:--------------------------------------------------------------------------
+*INSTRUCCIÓN: drop procedure SP_REP_LIQ_CREDITOS_BI...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 120:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Execute procedure sp_bi_drop('VW_BI_CTL_DESTINOS')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 121:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Execute procedure sp_bi_drop('SP_REP_GL_SUMARIO_BI')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 122:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop ('SP_REP_VENTAS_X_CLIENTE_BI')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 123:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE PROCEDURE SP_REP_LIQ_CREDITOS_BI  returns (     record_no integer,     compra_id integer,     credito_razon_id integer,     credito_id integ...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 124:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --drop table NEW_TABLE...
+
+--------- PASO 125:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_CxP_CxC')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 126:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_CxP_CxC1')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 127:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_Bi_CxP_CxC2')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 128:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('VW_BI_SEMANA_ACTUAL')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 129:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_bi_Semana_Actual')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 130:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('Tb_bi_Semana_Anterior')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 131:--------------------------------------------------------------------------
+*INSTRUCCIÓN: ...
+
+--------- PASO 132:--------------------------------------------------------------------------
+*INSTRUCCIÓN: insert into NEW_TABLE (ID)   values (1)*/...
+
+--------- PASO 133:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE TABLE TB_BI_PRESUPUESTO_GROWERS (     CVE_YEAR VARCHAR(4),      CVE_SEASON VARCHAR(5),     CVE_GROWER INTEGER,     CVE_PRODUCT INTEGER,     CV...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 134:--------------------------------------------------------------------------
+*INSTRUCCIÓN: INSERT INTO TB_BI_PRESUPUESTO_GROWERS SELECT      CVE_YEAR     ,CVE_SEASON     ,CVE_GROWER     ,CVE_PRODUCT     ,CVE_MONTH     ,SUM(NUM_CANTIDADPRESU...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 135:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_ARTICULOS(     CVE_ARTICULO,     DES_ARTICULOCORTA,     DES_ARTICULO,     CVE_ARTICULOCLASE,     DES_ARTICULOCLASECORTA,     DE...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 136:--------------------------------------------------------------------------
+*INSTRUCCIÓN: create view VW_BI_CTL_CLIENTES(     CVE_CLIENTE,     DES_CLIENTECORTA,     DES_CLIENTE,     CVE_CLIENTE_TIPO,     DES_CLIENTE_TIPO     ) as select...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.218 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 137:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_DIADELASEMANA(     CVE_DIADELASEMANA,     DES_DIADELASEMANA) AS select '01' as cve_DiaDeLaSemana,'1 - Monday' as des_DiaDeLaSem...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 138:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_DIRECCIONES(     CVE_VE_DIRECCIONFACTURA,     CVE_VE_DIERECCIONENTREGA,     CVE_VE_DIRECCIONFACTURAMEMO,     CVE_VE_DIRECCIONEN...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 139:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_DIVISIONES(     CVE_DIVISION,     DES_DIVISION) AS Select     --id     --,cliente_id     cast(trim(cast(CLIENTE_ID as varchar(1...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 140:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_EMPLEADOS(     CVE_EMPLEADO,     DES_EMPLEADO,     CVE_VENDEDOR,     CVE_COMPRADOR,     CVE_VE_COMISIONISTA,     CVE_EXTERNO,...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 141:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_FORMASENVIO(     CVE_VE_FORMAENVIO,     DES_FORMAENVIO) AS Select  ID as cve_ve_FormaEnvio,DESCRIPCION as des_FormaEnvio from T...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 142:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_IMPUESTOS(     CVE_VD_IMPUESTOGRP,     DES_IMPUESTOS) AS Select coalesce(id,0) as cve_vd_ImpuestoGRP,coalesce(descripcion,'') a...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 143:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_MESES(     CVE_MES,     DES_MES) AS Select '01' as cve_Mes,'04 - January' as des_Mes from NEW_TABLE UNION ALL   Select '02' as...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 144:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_PROVEEDORES(     CVE_PROVEEDOR,     DES_PROVEEDOR_CORTO,     DES_PROVEEDOR_LARGO) AS select 0 as cve_proveedor,'-NO VENDOR' as...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 145:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_GROWERS(     CVE_GROWER,     DES_GROWER_CORTO,     DES_GROWER_LARGO) AS select     id as cve_Grower     ,nombre as des_Grower_C...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 146:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_PROVEEDORESMARCAS(     CVE_PROVEEDOR_MARCA,     DES_PROVEEDOR_MARCACORTA,     DES_PROVEEDOR_MARCA) AS Select  id as CVE_PROVEED...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 147:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_TERMINOS(     CVE_VE_TERMINOS,     CVE_VE_VENTATERMINOS,     DES_TERMINOS) AS Select id as cve_ve_Terminos ,id as cve_ve_VentaT...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 148:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_CTL_TRANSCURRIDOS(     CVE_TRANSCURRIDO,     DES_TRANSCURRIDO) AS Select 1 as cve_Transcurrido,'01 - Elapsed days' as des_Transcurr...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 149:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_CTL_VENTATIPOS(     CVE_VE_VENTATIPO,     DES_VENTATIPO) AS Select  ID as cve_ve_VentaTipo,DESCRIPCION as des_VentaTipo from Tb_Ventas...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 150:--------------------------------------------------------------------------
+*INSTRUCCIÓN: CREATE VIEW VW_BI_TEMPORADA_ACTUAL(     CVE_TEMPORADA_ACTUAL,     DES_TEMPORADA_ACTUAL) AS select 1 as Cve_Temporada_Actual, 'CURRENT SEASON' as Des_...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.000 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 151:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --uno create table tb_bi_semanas_normales( cve_Temporada varchar(5), cve_Mes integer,  Cve_Semana char(2), FechaIni date, FechaFin date)...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 152:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --dos create Procedure sp_bi_semanas_normales (fechaIni date, fechaFin date) as declare variable Tope date; declare variable Semana int; Begin Tope =...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 153:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --tres execute procedure sp_bi_semanas_normales('01-01-2007','01-04-2038')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 154:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --cuatro CREATE PROCEDURE SP_REP_VENTAS_X_CLIENTE_BI (     fecha_inicio date,     fecha_fin date) returns (     record_no integer,     cliente_id inte...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 155:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --cinco CREATE PROCEDURE BI_SP_SALES_TEST  returns (     cve_record integer,     cve_cliente integer,     cve_compra integer,     cve_articulo_tipo in...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.031 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 156:--------------------------------------------------------------------------
+*INSTRUCCIÓN: create View Vw_Bi_Ctl_Current_Month(     cve_Current_Month,     Des_Current_Month) as select 1 as cve_Current_Month,'Current Month' as des_Current_Mo...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.015 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:13
+
+--------- PASO 157:--------------------------------------------------------------------------
+*INSTRUCCIÓN: Create Table Tb_Bi_Sales ( CVE_RECORD INTEGER, CVE_CLIENTE INTEGER, CVE_COMPRA INTEGER, CVE_ARTICULO_TIPO INTEGER, CVE_ARTICULO INTEGER, CVE_GROWER I...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.484 - *HORA INICIO: 17:44:13 - *HORA FIN: 17:44:14
+
+--------- PASO 158:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --aqui sospecho insert into Tb_Bi_Sales select  *  from bi_sp_sales_test...
+Proceso cancelado por el usuario a las 17:44:37 con una duración total de 00:00:29...
+

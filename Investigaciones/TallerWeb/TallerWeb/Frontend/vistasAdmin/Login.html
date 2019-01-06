@@ -1,0 +1,20 @@
+﻿<div id="divLogin" ng-controller="loginCtrl as login">
+    <div class="caja_padre">
+        
+        <form class="caja_hija animated zoomIn" ng-submit="entrar();">
+            <div class="caja_bienvenida">
+                <span class="icon-user" id="ico_user"></span>
+                <!--<span class="fa fa-chrome"></span>-->
+                <h1 id="lbl_bienvenido">Bienvenido</h1>
+            </div>
+            <div class="caja_inputs">
+                <input class="txt" type="text" placeholder="Nombre de usuario" required ng-model="usuario.St_Usuario" />
+                <input class="txt" type="password" placeholder="Contraseña" required ng-model="usuario.St_Password"/>
+                <div id="btn_Login">
+                    <input class="btn btn-azul" type="submit" value="Entrar" <!--ng-click="entrar();-->"/>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>

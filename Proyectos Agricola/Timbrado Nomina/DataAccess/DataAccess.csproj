@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <!--Project was exported from assembly: C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A09E04C9-2F35-47C4-9EC1-40C02DD4947B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>DataAccess</AssemblyName>
+    <RootNamespace>Sistema</RootNamespace>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Printing.v15.1.Core">
+      
+    </Reference>
+    <Reference Include="DevExpress.Data.v15.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.Utils.v15.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v15.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v15.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v15.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v15.1">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Core">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Reporting.Extensions">
+      
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v15.1">
+      
+    </Reference>
+    <Reference Include="DriverXtraGrid">
+      <HintPath>..\..\FactElect CFDI\FactElect\bin\Release\DriverXtraGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.Win, Version=1.0.7.0, Culture=neutral, PublicKeyToken=327c3516b1b18457">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\FactElect CFDI\FactElect\bin\Release\FarPoint.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine" />
+    <Reference Include="CrystalDecisions.Shared" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="CrystalDecisions.Windows.Forms" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmVisorDeListasAvanzado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListViewItemComparer.cs" />
+    <Compile Include="DataAccessCls.cs" />
+    <Compile Include="FrmAgregarOperacionSupervisadaTemporal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVisorDeListas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeleccionadorMultiple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCambioDePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVisorCrystalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAutorizacionRemotaDeOperacionSupervisada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAccesoDeUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAutorizacionLocalDeOperacionSupervisada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmAccesoDeUsuario.resx" />
+    <EmbeddedResource Include="FrmAutorizacionLocalDeOperacionSupervisada.resx" />
+    <EmbeddedResource Include="FrmAutorizacionRemotaDeOperacionSupervisada.resx" />
+    <EmbeddedResource Include="FrmCambioDePassword.resx" />
+    <EmbeddedResource Include="FrmSeleccionadorMultiple.resx" />
+    <EmbeddedResource Include="FrmVisorCrystalReport.resx" />
+    <EmbeddedResource Include="FrmVisorDeListas.resx" />
+    <EmbeddedResource Include="FrmVisorDeListasAvanzado.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ini\Ini.csproj">
+      <Project>{ddcaf88a-6693-4242-80b0-e6d220790faf}</Project>
+      <Name>Ini</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

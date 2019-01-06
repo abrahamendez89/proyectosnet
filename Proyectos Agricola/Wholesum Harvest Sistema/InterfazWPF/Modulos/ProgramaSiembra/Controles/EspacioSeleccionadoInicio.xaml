@@ -1,0 +1,61 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="InterfazWPF.EspacioSeleccionadoInicio"
+	x:Name="UserControl" Height="32.249" Width="50.75" Cursor="Hand">
+	<UserControl.Resources>
+		<Storyboard x:Key="EntroControl">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="11.75"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="SalioControl">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image">
+				<EasingDoubleKeyFrame KeyTime="0" Value="11.875"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0.125"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+	<UserControl.Triggers>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter">
+			<BeginStoryboard x:Name="EntroControl_BeginStoryboard" Storyboard="{StaticResource EntroControl}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave">
+			<BeginStoryboard x:Name="SalioControl_BeginStoryboard" Storyboard="{StaticResource SalioControl}"/>
+		</EventTrigger>
+	</UserControl.Triggers>
+
+	<Grid x:Name="LayoutRoot">
+		<Path x:Name="trianguloDerecho" Data="M91.0832,0.12500185 L95.832997,15.541333 91.052184,31.210847 87.420674,31.210847 87.574504,0.16957015 91.080242,0.17610976" HorizontalAlignment="Left" Margin="41.302,0.077,0,0.005" Stretch="Fill" Stroke="Black" Width="9.411" StrokeThickness="0">
+			<Path.Fill>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FF787878" Offset="0"/>
+					<GradientStop Color="Black" Offset="1"/>
+					<GradientStop Color="#FF373737" Offset="0.112"/>
+				</LinearGradientBrush>
+			</Path.Fill>
+		</Path>
+		<Rectangle Margin="0,0.125,5.375,0" Stroke="Black" StrokeThickness="0" RadiusY="2.375" RadiusX="2.375">
+			<Rectangle.Fill>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FF787878" Offset="0"/>
+					<GradientStop Color="Black" Offset="1"/>
+					<GradientStop Color="#FF373737" Offset="0.112"/>
+				</LinearGradientBrush>
+			</Rectangle.Fill>
+		</Rectangle>
+		<Image x:Name="image" Margin="8,4,20.75,5.5" Source="1404595755_map-.png" RenderTransformOrigin="0.5,0.5">
+			<Image.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</Image.RenderTransform>
+		</Image>
+	</Grid>
+</UserControl>

@@ -1,0 +1,10 @@
+EMAILS = abrahamm@wholesumharvest.com; oscar.villa@wholesumharvest.com; alfredor@wholesumharvest.com
+DiaSemana = 2
+horaDia24H = 13
+minutoDia24H = 46
+EMAILS_USUARIO = 
+UsaFireBird = no
+baseDatosFirebird = D:\Proyectos\EstadoResultados\EstadoResultados\bin\Debug\DEMO.FDB
+dataSourceFirebird = 127.0.0.1
+ejecutarTodosDias = SI
+ModoServidor = SI

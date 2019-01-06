@@ -1,0 +1,8 @@
+SERVIDOR = wholesum1.mssql.somee.com
+INSTANCIA = 
+BD = otro
+USUARIO = sa
+CONTRASEÑA = 1@TCE123
+SERVIDOR_INSTANCIA = 192.168.140.126\crop
+ARCHIVO_SQLITE = C:\Users\Abrahamm.WHOLESUM\Desktop\ProgramaSiembra.db
+ARCHIVO_DLL = D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Dominio.dll

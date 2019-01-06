@@ -1,0 +1,17 @@
+D:\Proyectos\VisorCFDIFacturas\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\Herramientas.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\MySql.Data.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\SQLite.NET.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\AForge.Video.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\itextsharp.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\NCalc.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\InputSimulator.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\bin\Debug\Herramientas.pdb
+D:\Proyectos\VisorCFDIFacturas\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos\VisorCFDIFacturas\Dominio\obj\Debug\Dominio.pdb

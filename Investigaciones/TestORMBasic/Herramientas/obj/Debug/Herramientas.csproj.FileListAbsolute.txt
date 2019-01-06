@@ -1,0 +1,40 @@
+D:\WHOLESUM_TF\Herramientas\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\Herramientas\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Herramientas\obj\Debug\Herramientas.dll
+D:\WHOLESUM_TF\Herramientas\obj\Debug\Herramientas.pdb
+D:\PROYETOS .NET\WHOLESUM_TF\Herramientas\bin\Debug\Herramientas.dll
+D:\PROYETOS .NET\WHOLESUM_TF\Herramientas\bin\Debug\Herramientas.pdb
+D:\PROYETOS .NET\WHOLESUM_TF\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\PROYETOS .NET\WHOLESUM_TF\Herramientas\obj\Debug\Herramientas.dll
+D:\PROYETOS .NET\WHOLESUM_TF\Herramientas\obj\Debug\Herramientas.pdb
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\WPF\VisorImagenes.g.cs
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas_MarkupCompile.cache
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas_MarkupCompile.lref
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.dll
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.pdb
+I:\KARAOKE\Karaoke\Herramientas\bin\Debug\Herramientas.dll
+I:\KARAOKE\Karaoke\Herramientas\bin\Debug\Herramientas.pdb
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\WPF\VisorImagenes.baml
+I:\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.g.resources
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\bin\Debug\Herramientas.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\WPF\VisorImagenes.g.cs
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas_MarkupCompile.cache
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas_MarkupCompile.lref
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\WPF\VisorImagenes.baml
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.g.resources
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.dll
+D:\Proyectos personales\KARAOKE\Karaoke\Herramientas\obj\Debug\Herramientas.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\bin\Debug\Herramientas.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\WPF\VisorImagenes.g.cs
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\Herramientas_MarkupCompile.cache
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\Herramientas_MarkupCompile.lref
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\WPF\VisorImagenes.baml
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\Herramientas.g.resources
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\Herramientas.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\Herramientas\obj\Debug\Herramientas.pdb

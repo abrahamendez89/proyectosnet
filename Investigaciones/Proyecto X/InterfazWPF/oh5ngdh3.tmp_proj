@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{954F8B58-EC37-49FD-A102-7C9A73467B3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterfazWPF</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.20621.0</ExpressionBlendVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\publicacionWPF\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5E8F23C1B3805F7E336EC1C66D3CF3A620669CAE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>InterfazWPF_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>InterfazWPF.App</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministracionSistema\BuscadorCatalogo.xaml.cs">
+      <DependentUpon>BuscadorCatalogo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\CatalogoAutomatico.xaml.cs">
+      <DependentUpon>CatalogoAutomatico.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\BarraMarcadores.xaml.cs">
+      <DependentUpon>BarraMarcadores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\BuscadorCatalogoPopup.xaml.cs">
+      <DependentUpon>BuscadorCatalogoPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ElementoBusquedaCatalogoPopup.xaml.cs">
+      <DependentUpon>ElementoBusquedaCatalogoPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ElementoMarcador.xaml.cs">
+      <DependentUpon>ElementoMarcador.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.xaml.cs">
+      <DependentUpon>SegmentoAvanceProceso.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\TextBoxBusqueda.xaml.cs">
+      <DependentUpon>TextBoxBusqueda.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.xaml.cs">
+      <DependentUpon>TextboxBusquedaCatalogo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\TextboxPassword.xaml.cs">
+      <DependentUpon>TextboxPassword.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\TextboxNormal.xaml.cs">
+      <DependentUpon>TextboxNormal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.xaml.cs">
+      <DependentUpon>TextboxSoloNumeroDecimal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\TextboxSoloNumero.xaml.cs">
+      <DependentUpon>TextboxSoloNumero.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\UnidadProcesoVentana.cs" />
+    <Compile Include="AdministracionSistema\MultiplesVentanasProceso.xaml.cs">
+      <DependentUpon>MultiplesVentanasProceso.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoContenedores.xaml.cs">
+      <DependentUpon>win_ps_CatalogoContenedores.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoCubiertas.xaml.cs">
+      <DependentUpon>win_ps_CatalogoCubiertas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoCultivos.xaml.cs">
+      <DependentUpon>win_ps_CatalogoCultivos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoDensidades.xaml.cs">
+      <DependentUpon>win_ps_CatalogoDensidades.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoSubstratos.xaml.cs">
+      <DependentUpon>win_ps_CatalogoSubstratos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoTecnologias.xaml.cs">
+      <DependentUpon>win_ps_CatalogoTecnologias.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Catalogos\win_ps_CatalogoVariedades.xaml.cs">
+      <DependentUpon>win_ps_CatalogoVariedades.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\Controles\EspacioGrafico.xaml.cs">
+      <DependentUpon>EspacioGrafico.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.xaml.cs">
+      <DependentUpon>EspacioSeleccionado.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.xaml.cs">
+      <DependentUpon>EspacioSeleccionadoInicio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\Controles\FechaTransplanteSlide.xaml.cs">
+      <DependentUpon>FechaTransplanteSlide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\mod_ps_ConfiguracionDeSiembra.xaml.cs">
+      <DependentUpon>mod_ps_ConfiguracionDeSiembra.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosCultivo.xaml.cs">
+      <DependentUpon>proc_ps_ConfiguracionEspacioFisico_DatosCultivo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosEspacio.xaml.cs">
+      <DependentUpon>proc_ps_ConfiguracionEspacioFisico_DatosEspacio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosInjertos.xaml.cs">
+      <DependentUpon>proc_ps_ConfiguracionEspacioFisico_DatosInjertos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosTecnologia.xaml.cs">
+      <DependentUpon>proc_ps_ConfiguracionEspacioFisico_DatosTecnologia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.xaml.cs">
+      <DependentUpon>win_ps_ConfiguracionDeVariedadesYTransplantes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.xaml.cs">
+      <DependentUpon>win_ps_GraficoDeProduccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\ProgramaSiembra\mod_ps_NombreEspacio.xaml.cs">
+      <DependentUpon>mod_ps_NombreEspacio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Reportes\rpt_test1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_test1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AdministracionSistema\AccesoNoPermitido.xaml.cs">
+      <DependentUpon>AccesoNoPermitido.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ConfiguracionSistema.xaml.cs">
+      <DependentUpon>ConfiguracionSistema.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ConfiguracionUsuario.xaml.cs">
+      <DependentUpon>ConfiguracionUsuario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ConfiguraciónEnLogin.xaml.cs">
+      <DependentUpon>ConfiguraciónEnLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\Boton.xaml.cs">
+      <DependentUpon>Boton.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.xaml.cs">
+      <DependentUpon>ContenedorOpcionesElementoMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ContenedorToolbox.xaml.cs">
+      <DependentUpon>ContenedorToolbox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ContenedorVentanas.xaml.cs">
+      <DependentUpon>ContenedorVentanas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.xaml.cs">
+      <DependentUpon>ElementoOpcionMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ElementoMenu.xaml.cs">
+      <DependentUpon>ElementoMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ElementoSistema.xaml.cs">
+      <DependentUpon>ElementoSistema.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\ElementoToolBox.xaml.cs">
+      <DependentUpon>ElementoToolBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\Notificacion.xaml.cs">
+      <DependentUpon>Notificacion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\ControlesUsuario\Tab.xaml.cs">
+      <DependentUpon>Tab.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\EditarPermisosFormulario.xaml.cs">
+      <DependentUpon>EditarPermisosFormulario.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\EnviarSoporte.xaml.cs">
+      <DependentUpon>EnviarSoporte.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\HerramientasWindow.cs" />
+    <Compile Include="AdministracionSistema\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\Principal.xaml.cs">
+      <DependentUpon>Principal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\VentanaDialogo.xaml.cs">
+      <DependentUpon>VentanaDialogo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministracionSistema\VisorImagenes.xaml.cs">
+      <DependentUpon>VisorImagenes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.xaml.cs">
+      <DependentUpon>win_ps_PrincipalProgramaSiembra.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Reportes\rpt_test3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_test3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Modulos\Reportes\VisorReporte.xaml.cs">
+      <DependentUpon>VisorReporte.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Modulos\Reportes\rpt_test1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_test1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulos\Reportes\rpt_test3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_test3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="InterfazWPF_ClaveTemporal.pfx" />
+    <None Include="Properties\DataSources\Dominio.ManejadorDB.datasource" />
+    <None Include="Properties\DataSources\Dominio.ObjetoBase.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_AccesoFallido.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_ConexionesServidores.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_Contenedor.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_DatosSistema.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_EquiposRegistrados.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_Formulario.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_FormularioPermisosPorRol.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_ImagenAsociada.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_LimiteAccesosFallidosAlcanzado.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_Rol.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_Usuario.datasource" />
+    <None Include="Properties\DataSources\Dominio.Sistema._sis_VersionesDeSistema.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{4f54fbc4-6901-4474-850e-7e79bfe285d3}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Herramientas\Herramientas.csproj">
+      <Project>{5d7b5d2f-1e0f-470e-a0a0-a683daef7ffa}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicaNegocios\LogicaNegocios.csproj">
+      <Project>{ae2a43dd-8143-43b6-84e0-fa3bc6b7cbce}</Project>
+      <Name>LogicaNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="EMFGENLib">
+      <Guid>{C097B4CF-2CEA-442F-B025-610D2B0C05C8}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="PAGEOBJECTMODELLib">
+      <Guid>{237F4BEC-8AE5-41E1-AE84-B194E4670597}</Guid>
+      <VersionMajor>14</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VLELib">
+      <Guid>{ACF55B94-B31C-4604-912A-314B00C1595D}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Modulos\Nomina\" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Accessibility.dll" />
+    <ReferencePath Include="D:\WHOLESUM_TF\RECURSOS\AForge.Video.DirectShow.dll" />
+    <ReferencePath Include="D:\WHOLESUM_TF\RECURSOS\AForge.Video.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll" />
+    <ReferencePath Include="D:\WHOLESUM_TF\Dominio\bin\Debug\Dominio.dll" />
+    <ReferencePath Include="D:\WHOLESUM_TF\RECURSOS\fastBinaryJSON.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\FlashControlV71.dll" />
+    <ReferencePath Include="D:\WHOLESUM_TF\Herramientas\bin\Debug\Herramientas.dll" />
+    <ReferencePath Include="D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\LogicaNegocios.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.CSharp.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\PresentationCore.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\PresentationFramework.Aero.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\PresentationFramework.dll" />
+    <ReferencePath Include="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationUI\v4.0_4.0.0.0__31bf3856ad364e35\PresentationUI.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\ReachFramework.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\sapbusinessobjects.wpf.viewer.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\SAPBusinessObjects.WPF.ViewerShared.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.DataSetExtensions.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Deployment.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Printing.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Services.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xaml.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.Linq.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\UIAutomationProvider.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\UIAutomationTypes.dll" />
+    <ReferencePath Include="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\WindowsBase.dll" />
+    <ReferencePath Include="C:\Windows\assembly\GAC\stdole\7.0.3300.0__b03f5f7f11d50a3a\stdole.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+    <ReferencePath Include="obj\Debug\Interop.EMFGENLib.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+    <ReferencePath Include="obj\Debug\Interop.PAGEOBJECTMODELLib.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+    <ReferencePath Include="obj\Debug\Interop.VLELib.dll">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </ReferencePath>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoPopup.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoBusquedaCatalogoPopup.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusqueda.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\Login.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\MultiplesVentanasProceso.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\Principal.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\FechaTransplanteSlide.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDeSiembra.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosCultivo.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosEspacio.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosInjertos.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\proc_ps_ConfiguracionEspacioFisico_DatosTecnologia.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\App.g.cs" />
+    <Compile Include="D:\WHOLESUM_TF\InterfazWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0A11F1EF-9160-4A9C-86D1-47A75E42FE0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ContabilidadElectronica</RootNamespace>
+    <AssemblyName>ContabilidadElectronica</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CFDI.cs" />
+    <Compile Include="ConsultasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultasForm.Designer.cs">
+      <DependentUpon>ConsultasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\BotonConImagen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\BotonConImagen.Designer.cs">
+      <DependentUpon>BotonConImagen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ElementoMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ElementoMenu.Designer.cs">
+      <DependentUpon>ElementoMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ParametroConsultaForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\ParametroConsultaForm.Designer.cs">
+      <DependentUpon>ParametroConsultaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\VisorReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlesDeUsuario\VisorReportes.Designer.cs">
+      <DependentUpon>VisorReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\BalanzaComprobacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\BalanzaComprobacion.Designer.cs">
+      <DependentUpon>BalanzaComprobacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\BuscadorXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\BuscadorXML.Designer.cs">
+      <DependentUpon>BuscadorXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CargarCatalogoSatDeExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CargarCatalogoSatDeExcel.Designer.cs">
+      <DependentUpon>CargarCatalogoSatDeExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CargarXMLABD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CargarXMLABD.Designer.cs">
+      <DependentUpon>CargarXMLABD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Catalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Catalogo.Designer.cs">
+      <DependentUpon>Catalogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CatalogoBancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CatalogoBancos.Designer.cs">
+      <DependentUpon>CatalogoBancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CatalogoFormasPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CatalogoFormasPago.Designer.cs">
+      <DependentUpon>CatalogoFormasPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\CatalogoMonedas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\CatalogoMonedas.Designer.cs">
+      <DependentUpon>CatalogoMonedas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ElegirTipoCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ElegirTipoCatalogo.Designer.cs">
+      <DependentUpon>ElegirTipoCatalogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\GenerarXMLCatalogoCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\GenerarXMLCatalogoCuentas.Designer.cs">
+      <DependentUpon>GenerarXMLCatalogoCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\GenerarXMLPolizas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\GenerarXMLPolizas.Designer.cs">
+      <DependentUpon>GenerarXMLPolizas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LigadoCuentasSATConCuentasEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LigadoCuentasSATConCuentasEmpresa.Designer.cs">
+      <DependentUpon>LigadoCuentasSATConCuentasEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\LigadoXMLConPolizas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\LigadoXMLConPolizas.Designer.cs">
+      <DependentUpon>LigadoXMLConPolizas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\PolizasSinXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\PolizasSinXML.Designer.cs">
+      <DependentUpon>PolizasSinXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\PolizasSistemaConXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\PolizasSistemaConXML.Designer.cs">
+      <DependentUpon>PolizasSistemaConXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\ReporteFaltantesXMLGastosCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ReporteFaltantesXMLGastosCompras.Designer.cs">
+      <DependentUpon>ReporteFaltantesXMLGastosCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\UnionXMLPolizas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\UnionXMLPolizas.Designer.cs">
+      <DependentUpon>UnionXMLPolizas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\VisorXML345.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\VisorXML345.Designer.cs">
+      <DependentUpon>VisorXML345.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\Validador_CFDI\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ConsultasForm.resx">
+      <DependentUpon>ConsultasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\BotonConImagen.resx">
+      <DependentUpon>BotonConImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\ElementoMenu.resx">
+      <DependentUpon>ElementoMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\ParametroConsultaForm.resx">
+      <DependentUpon>ParametroConsultaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesDeUsuario\VisorReportes.resx">
+      <DependentUpon>VisorReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\BalanzaComprobacion.resx">
+      <DependentUpon>BalanzaComprobacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\BuscadorXML.resx">
+      <DependentUpon>BuscadorXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CargarCatalogoSatDeExcel.resx">
+      <DependentUpon>CargarCatalogoSatDeExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CargarXMLABD.resx">
+      <DependentUpon>CargarXMLABD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Catalogo.resx">
+      <DependentUpon>Catalogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CatalogoBancos.resx">
+      <DependentUpon>CatalogoBancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CatalogoFormasPago.resx">
+      <DependentUpon>CatalogoFormasPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\CatalogoMonedas.resx">
+      <DependentUpon>CatalogoMonedas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ElegirTipoCatalogo.resx">
+      <DependentUpon>ElegirTipoCatalogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\GenerarXMLCatalogoCuentas.resx">
+      <DependentUpon>GenerarXMLCatalogoCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\GenerarXMLPolizas.resx">
+      <DependentUpon>GenerarXMLPolizas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LigadoCuentasSATConCuentasEmpresa.resx">
+      <DependentUpon>LigadoCuentasSATConCuentasEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\LigadoXMLConPolizas.resx">
+      <DependentUpon>LigadoXMLConPolizas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\PolizasSinXML.resx">
+      <DependentUpon>PolizasSinXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\PolizasSistemaConXML.resx">
+      <DependentUpon>PolizasSistemaConXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ReporteFaltantesXMLGastosCompras.resx">
+      <DependentUpon>ReporteFaltantesXMLGastosCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\UnionXMLPolizas.resx">
+      <DependentUpon>UnionXMLPolizas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\VisorXML345.resx">
+      <DependentUpon>VisorXML345.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reportes\rpPolizas.rdlc" />
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\EstructuraContable.Poliza.datasource" />
+    <None Include="Properties\DataSources\EstructuraContable.PolizaContenedor.datasource" />
+    <None Include="Properties\DataSources\SAT_CFDI.Validador_CFDI.Acuse.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\Validador_CFDI\ConsultaCFDIService.wsdl" />
+    <None Include="Service References\Validador_CFDI\ConsultaCFDIService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Validador_CFDI\ConsultaCFDIService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Validador_CFDI\ConsultaCFDIService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Validador_CFDI\ContabilidadElectronica.Validador_CFDI.Acuse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1417500555_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1408401789_Business.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Herramientas\Herramientas.csproj">
+      <Project>{5d7b5d2f-1e0f-470e-a0a0-a683daef7ffa}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EstructuraContable\EstructuraContable.csproj">
+      <Project>{dde44ec6-f935-48ef-a2e8-4472f73787cb}</Project>
+      <Name>EstructuraContable</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1403902514_onebit_39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1403562203_Close_Box_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1418194907_ark2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contabilidad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xmlaBD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Validador_CFDI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Validador_CFDI\ConsultaCFDIService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Validador_CFDI\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Validador_CFDI\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Validador_CFDI\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1423863317_references.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1424385331_edit-file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1425075450_XML.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1441741251_Bank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1441764734_Purse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1441767212_coin-search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1442091504_application-xml.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450335171_merge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1450481946_reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1446064182_magnifier.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

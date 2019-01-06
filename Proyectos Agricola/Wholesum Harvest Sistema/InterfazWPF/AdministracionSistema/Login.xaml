@@ -1,0 +1,122 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" mc:Ignorable="d" x:Class="InterfazWPF.AdministracionSistema.Login"
+        Title="Login" Height="181.579" Width="483.383" AllowsTransparency="True" WindowStyle="None" Visibility="Visible" Background="#00000000" WindowStartupLocation="CenterScreen" IsVisibleChanged="Window_IsVisibleChanged">
+    <Window.Resources>
+        <Storyboard x:Key="OnMouseEnter1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_imagenConfiguracionReflejo">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="img_imagenConfiguracionReflejo">
+                <EasingDoubleKeyFrame KeyTime="0" Value="5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Direction)" Storyboard.TargetName="img_imagenConfiguracionReflejo">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.ShadowDepth)" Storyboard.TargetName="img_imagenConfiguracionReflejo">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseLeave1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_imagenConfiguracionReflejo">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="temblarMensaje">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="lbl_mensaje">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="lbl_mensaje">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="4"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-11"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="ocultarMensaje">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="lbl_mensaje">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseEnterDatosRed">
+        	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_imagenDatosServidorReflejo">
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+        	</DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseLeaveDatosRed">
+        	<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_imagenDatosServidorReflejo">
+        		<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+        		<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+        	</DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="img_imagenConfiguracion">
+            <BeginStoryboard Storyboard="{StaticResource OnMouseEnter1}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="img_imagenConfiguracion">
+            <BeginStoryboard x:Name="OnMouseLeave1_BeginStoryboard" Storyboard="{StaticResource OnMouseLeave1}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="img_imagenDatosServidor">
+        	<BeginStoryboard x:Name="OnMouseEnterDatosRed_BeginStoryboard" Storyboard="{StaticResource OnMouseEnterDatosRed}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="img_imagenDatosServidor">
+        	<BeginStoryboard x:Name="OnMouseLeaveDatosRed_BeginStoryboard" Storyboard="{StaticResource OnMouseLeaveDatosRed}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Margin="0,0,0,0">
+            <Rectangle x:Name="rtg_imagenFondo" RadiusY="22.5" RadiusX="22.5" Stroke="{DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}" RenderTransformOrigin="0.5,0.5" Fill="Black" Opacity="0.495"/>
+            <Rectangle Margin="107.5,40,90.5,56.579" RadiusY="10.5" RadiusX="10.5" Stroke="{DynamicResource {x:Static SystemColors.ActiveCaptionTextBrushKey}}" StrokeThickness="0" Fill="#B3000000"/>
+            <InterfazWPF:Boton x:Name="btn_iniciar" HorizontalAlignment="Right" Margin="0,0,94,22" VerticalAlignment="Bottom" Text="Iniciar" Width="69" MouseDown="btn_iniciar_MouseDown">
+                <InterfazWPF:Boton.ContextMenu>
+                    <ContextMenu/>
+                </InterfazWPF:Boton.ContextMenu>
+            </InterfazWPF:Boton>
+            <InterfazWPF:Boton x:Name="btn_cancelar" Margin="245,0,168,22" VerticalAlignment="Bottom" Text="Salir" MouseDown="btn_cancelar_MouseDown"/>
+            <Image x:Name="img_imagenConfiguracionReflejo" HorizontalAlignment="Left" Height="17.333" Margin="117.834,101.392,0,0" VerticalAlignment="Top" Width="17.5" Opacity="0">
+                <Image.Effect>
+                    <DropShadowEffect Direction="0" ShadowDepth="0" Color="White"/>
+                </Image.Effect>
+            </Image>
+            <Image x:Name="img_imagenConfiguracion" HorizontalAlignment="Left" Height="17.333" Margin="117.834,101.392,0,0" VerticalAlignment="Top" Width="17.5" ToolTip="Configuración básica del Sistema" MouseDown="img_imagenConfiguracion_MouseDown"/>
+            <Image x:Name="img_imagenDatosServidorReflejo" HorizontalAlignment="Left" Height="17.333" Margin="142.331,101.392,0,0" VerticalAlignment="Top" Width="17.5" ToolTip="Configuración básica del Sistema" MouseDown="img_imagenConfiguracion_MouseDown" Opacity="0">
+            	<Image.Effect>
+            		<DropShadowEffect Color="White" Direction="0" ShadowDepth="0"/>
+            	</Image.Effect>
+            </Image>
+            <Image x:Name="img_imagenDatosServidor" HorizontalAlignment="Left" Height="17.333" Margin="142.331,101.392,0,0" VerticalAlignment="Top" Width="17.5" ToolTip="Datos del servidor y red."/>
+            <Label x:Name="lbl_version" Content="version" Height="23.608" Margin="0,101.392,92.501,0" VerticalAlignment="Top" FontSize="10" HorizontalAlignment="Right" Width="70" Foreground="White"/>
+            <Label x:Name="lbl_mensaje" Content="" HorizontalAlignment="Left" Margin="180.333,101,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" RenderTransformOrigin="0.5,0.5" BorderBrush="Black" Background="{x:Null}" Width="149.667" FontSize="10.667">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <ControlesUsuario:TextboxPassword x:Name="txt_contraseña" HorizontalAlignment="Left" Margin="224,76,0,0" VerticalAlignment="Top" Width="148"/>
+            <ControlesUsuario:TextboxNormal x:Name="txt_usuario" TipoTextBox="sinEspacios"  HorizontalAlignment="Left" Margin="224,46,0,0" VerticalAlignment="Top" Width="148"/>
+        </Grid>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="115.5,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" Foreground="White" Text="Usuario:" FontSize="16">
+            <TextBlock.Background>
+                <ImageBrush/>
+            </TextBlock.Background></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="115.5,0,0,84" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="94" Foreground="White" Text="Contraseña:" FontSize="16">
+            <TextBlock.Background>
+                <ImageBrush/>
+            </TextBlock.Background></TextBlock>
+
+    </Grid>
+</Window>

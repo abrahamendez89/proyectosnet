@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="UserControlsSIZ.Maps.ZMXUC_Mapa"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UserControlsSIZ.Maps"
+             xmlns:iconos="clr-namespace:UserControlsSIZ.Iconos"
+             mc:Ignorable="d" 
+             xmlns:micromap ="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF" Height="348.93" Width="516" >
+    
+    <Grid x:Name="contenedor">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <micromap:Map x:Name="map" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="0" Grid.ColumnSpan="3" Background="LightGray" CredentialsProvider="AvfnXnq_qEOOUMEvjvqjvGd1LUIOOKIjzo6zPxcxVDp0-w6azuF60QPNEYM8Vi7o" />
+        <local:ZMXUC_MapaPanelBusqueda x:Name="panelBusqueda" Grid.Column="0" />
+        <local:ZMXUC_MapaPanelHerramientas x:Name="panel" Grid.ColumnSpan="3" HorizontalAlignment="Stretch" VerticalAlignment="Top" Opacity="0.80" ZMX_ClickAceptar="panel_ZMX_ClickAceptar" ZMX_ClickLimpiar="panel_ZMX_ClickLimpiar" />
+    </Grid>
+</UserControl>

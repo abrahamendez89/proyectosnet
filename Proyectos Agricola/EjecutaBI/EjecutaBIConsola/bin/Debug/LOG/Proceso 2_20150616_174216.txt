@@ -1,0 +1,17 @@
+Iniciado el proceso 'Proceso 2' con fecha: 16/06/2015 05:42:16 p. m.
+2015-06-16 17:42:16: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 17:42:16: Limpiando código de comentarios...
+2015-06-16 17:42:16: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 17:42:16: Ejecutando: 
+2015-06-16 17:42:16: BAT D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\De...
+2015-06-16 17:42:16: Duración(Minutos): 0.0001
+2015-06-16 17:42:16: Error: El objeto Process debe tener establecida como false la propiedad UseShellExecute para redirigir las secuencias de E/S.
+----------------------------------------------------------------------------
+
+Proceso terminado con 1 errores.
+Inicio: 2015-06-16 17:42:16
+Fin:    2015-06-16 17:42:16
+Duración(Minutos): 0.0005

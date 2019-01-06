@@ -1,0 +1,11 @@
+--------- PASO 1:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --eliminando procedimiento sp_bi_drop  DROP PROCEDURE "SP_BI_DROP"...
+*RESULTADO: ERROR MANEJABLE: unsuccessful metadata update Procedure SP_BI_DROP not found
+*DURACIÓN: 00:00:00.060 - *HORA INICIO: 10:40:37 - *HORA FIN: 10:40:37
+
+--------- PASO 2:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --un comentario de shell ## ping www.google.com...
+*RESULTADO: ERROR: ^C CMD: ^C
+*DURACIÓN: 00:00:02.697 - *HORA INICIO: 10:40:37 - *HORA FIN: 10:40:39
+El programa finalizó por un error a las 10:40:39 con una duración total de 00:00:02...
+

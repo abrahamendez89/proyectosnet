@@ -1,0 +1,11 @@
+--------- PASO 1:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_Normal')...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.072 - *HORA INICIO: 17:22:52 - *HORA FIN: 17:22:52
+
+--------- PASO 2:--------------------------------------------------------------------------
+*INSTRUCCIÓN: EXECUTE PROCEDURE sp_bi_drop('tb_bi_semanas_normales')...
+*RESULTADO: ERROR: unsuccessful metadata update cannot delete COLUMN CVE_TEMPORADA there are 1 dependencies
+*DURACIÓN: 00:00:00.125 - *HORA INICIO: 17:22:52 - *HORA FIN: 17:22:52
+El programa finalizó por un error a las 17:22:52 con una duración total de 00:00:00...
+

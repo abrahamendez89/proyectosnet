@@ -1,0 +1,1 @@
+<catalogocuentas:Ctas CodAgrup="@CodAgrup" NumCta="@NumCta" Desc="@Descripcion" SubCtaDe="@SubCtaDe" Nivel="@Nivel" Natur="@Naturaleza"/>

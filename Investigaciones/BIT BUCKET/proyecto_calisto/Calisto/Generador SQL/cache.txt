@@ -1,0 +1,12 @@
+﻿SERVIDOR = wholesum1.mssql.somee.com
+INSTANCIA = 
+BD = SoporteSistemas
+USUARIO = sa
+CONTRASEÑA = 1@TCE123
+SERVIDOR_INSTANCIA = 192.168.140.126\crop
+ARCHIVO_SQLITE = D:\Proyectos\VisorCFDIFacturas\VisorXMLFacturas\bin\Debug\DATA.db
+ARCHIVO_DLL = D:\Proyectos\VisorCFDIFacturas\VisorXMLFacturas\bina\Debug\Dominio.dll
+MYSQL_SERVIDOR = 127.0.0.1
+MYSQL_BD = HotelAdmin
+MYSQL_USUARIO = sa
+MYSQL_CONTRASEÑA = 12345

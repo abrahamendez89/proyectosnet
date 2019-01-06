@@ -1,0 +1,1 @@
+<AuxiliarCtas:DetalleAux Fecha="@Fecha" NumUnIdenPol="@NumUnIdenPol" Debe="@Debe" Haber="@Haber" Concepto="@Concepto"/>

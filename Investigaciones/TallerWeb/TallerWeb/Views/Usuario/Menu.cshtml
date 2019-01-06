@@ -1,0 +1,94 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" ng-app="app_menu">
+<head>
+    <title>Mi aplicación web</title>
+    @*<link href="~/Styles/css/base.css" rel="stylesheet" />
+    <link href="~/Styles/css/menu.css" rel="stylesheet" />*@
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    @*<script src="~/LibreriasJS/angular.min.js"></script>
+    <script src="~/LibreriasJS/angular-ui-router.min.js"></script>
+    <script src="~/LibreriasJS/jquery-1.11.3.min.js"></script>*@
+
+    @System.Web.Optimization.Styles.Render("~/bundles/css")
+    @System.Web.Optimization.Scripts.Render("~/bundles/librerias")
+
+</head>
+<body ng-controller="menuController as menu">
+    adasdasd
+    <div id="top_bar" @*ng-class="{'moverTopBar': mostrarMenuBandera}"*@>
+        <div id="btn_menu" ng-click="menu.abrirMenu();">
+            <span class="icon-menu"></span>
+        </div>
+        <div class="hvr-pulse" id="lbl_usuarioLogueado">
+            Abraham Méndez
+        </div>
+        <div class="toolbar">
+            <ul>
+                <li>
+                    <button class="btn btn-toolbar hvr-radial-out">Tool 1</button>
+                </li>
+                <li>
+                    <button class="btn btn-toolbar hvr-radial-out">Tool 2</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div  id="views" class="animated">
+        <div id="temp" class="slide-animate" ng-include="ventanaMostrar"></div>
+    </div>
+
+    <div id="contenedor_notificacion">
+        <!-- inicio div para notificaciones -->
+
+
+    </div>
+    <!-- fin div para notificaciones -->
+    <nav id="menu" class="animated fadeInLeft" ng-class="{'mostrarMenu': mostrarMenuBandera}">
+        <aside id="logotipoEmpresa">
+        </aside>
+        <ul>
+            @*<a ui-sref="productos">
+                <li id="btn_agregarEmpleado" class="hvr-bounce-in">
+                    <span class="icono-menu icon-users"></span>
+                    <span class="titulo-menu">Productos</span>
+                </li>
+            </a>
+            <a ui-sref="catalogoPrueba">
+                <li id="btn_catalogoPrueba" class="hvr-bounce-in">
+                    <span class="icono-menu icon-users"></span>
+                    <span class="titulo-menu">catalogoPrueba</span>
+                </li>
+            </a>*@
+
+            <a ng-click="menu.cambiarVentana('test');">
+                <li id="btn_agregarEmpleado" class="hvr-bounce-in">
+                    <span class="icono-menu icon-users"></span>
+                    <span class="titulo-menu">Productos</span>
+                </li>
+            </a>
+            <a ng-click="menu.cambiarVentana('test2');">
+                <li id="btn_catalogoPrueba" class="hvr-bounce-in">
+                    <span class="icono-menu icon-users"></span>
+                    <span class="titulo-menu">catalogoPrueba</span>
+                </li>
+            </a>
+
+        </ul>
+    </nav>
+
+    
+
+    @*<div ui-view id="views" class="animated fadeInDownBig" onload="menu.cerrarMenu();">
+    </div>*@
+</body>
+@*<script src="~/Frontend/appstart/appstart.js"></script>
+<script src="~/Frontend/appstart/rutas.js"></script>
+<script src="~/Frontend/testJQuery.js"></script>
+<script src="~/Frontend/Mensaje.js"></script>
+<script src="~/Frontend/controladores/productosController.js"></script>
+<script src="~/Frontend/controladores/menuController.js"></script>*@
+
+@System.Web.Optimization.Scripts.Render("~/bundles/frontend")
+
+@*Debe ir abajo para que cuando cargue el menu ya esten los demas modulos disponibles*@
+</html>

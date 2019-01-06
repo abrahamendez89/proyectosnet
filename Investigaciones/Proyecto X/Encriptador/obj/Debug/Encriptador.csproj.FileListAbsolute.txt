@@ -1,0 +1,8 @@
+D:\WHOLESUM_TF\Encriptador\bin\Debug\Encriptador.exe
+D:\WHOLESUM_TF\Encriptador\bin\Debug\Encriptador.pdb
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.Encriptador.resources
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.Properties.Resources.resources
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.exe
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.pdb

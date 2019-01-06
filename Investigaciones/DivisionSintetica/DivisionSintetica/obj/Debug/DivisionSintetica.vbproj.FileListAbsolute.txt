@@ -1,0 +1,9 @@
+D:\Proyectos\DivisionSintetica\DivisionSintetica\bin\Debug\DivisionSintetica.exe
+D:\Proyectos\DivisionSintetica\DivisionSintetica\bin\Debug\DivisionSintetica.pdb
+D:\Proyectos\DivisionSintetica\DivisionSintetica\bin\Debug\DivisionSintetica.xml
+D:\Proyectos\DivisionSintetica\DivisionSintetica\obj\Debug\DivisionSintetica.Form1.resources
+D:\Proyectos\DivisionSintetica\DivisionSintetica\obj\Debug\DivisionSintetica.Resources.resources
+D:\Proyectos\DivisionSintetica\DivisionSintetica\obj\Debug\DivisionSintetica.vbproj.GenerateResource.Cache
+D:\Proyectos\DivisionSintetica\DivisionSintetica\obj\Debug\DivisionSintetica.exe
+D:\Proyectos\DivisionSintetica\DivisionSintetica\obj\Debug\DivisionSintetica.xml
+D:\Proyectos\DivisionSintetica\DivisionSintetica\obj\Debug\DivisionSintetica.pdb

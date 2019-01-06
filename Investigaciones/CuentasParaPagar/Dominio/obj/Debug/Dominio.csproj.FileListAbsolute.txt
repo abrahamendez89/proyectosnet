@@ -1,0 +1,17 @@
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\Herramientas.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\MySql.Data.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\SQLite.NET.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\itextsharp.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\Ionic.Zip.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\NCalc.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\InputSimulator.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\CuentasParaPagar\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\CuentasParaPagar\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\obj\Debug\Dominio.pdb
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\AForge.Video.dll
+D:\Proyectos personales\CuentasParaPagar\Dominio\bin\Debug\AForge.Video.DirectShow.dll

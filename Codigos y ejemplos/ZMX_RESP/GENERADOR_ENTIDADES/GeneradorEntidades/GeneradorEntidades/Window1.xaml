@@ -1,0 +1,38 @@
+﻿<Window x:Class="GeneradorEntidades.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeneradorEntidades"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="aUTO"/>
+            <RowDefinition Height="aUTO"/>
+            <RowDefinition Height="aUTO"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="label" Grid.Row="0" Grid.Column="0" Content="Tabla:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="txtTabla" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top"  Margin="10,10,0,0" MinWidth="250"/>
+        <Button x:Name="button" Content="Buscar" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="10,10,0,0" Click="button_Click"/>
+        <Button x:Name="button_Copy" Grid.Row="0" Grid.Column="3" Content="Generar" HorizontalAlignment="Right" VerticalAlignment="Top"  Margin="10,10,10,0"/>
+        <DataGrid x:Name="dataGrid" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Height="110"  Margin="10" />
+        <Label x:Name="clase" Content="Clase" Grid.Row="2" Grid.Column="0" Margin="10,0,0,0" ></Label>
+        <RichTextBox x:Name="richTextBox" Grid.Row="3" Grid.Column="0" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  Margin="10,0,10,10">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
+

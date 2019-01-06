@@ -1,0 +1,44 @@
+<!--<md-content layout-padding id="popupContainer" scroll-to-bottom="data">-->
+<md-content class="md-padding" layout-xs="column" layout="row">
+    
+    <div flex-xs flex-gt-xs="100" layout="column" layout-align="start center">
+            <div ng-repeat="item in data">
+                <md-card >
+                    <md-card-title>
+                      <md-card-title-text>
+                        <span class="md-headline">{{item.titulo}}</span>
+                      </md-card-title-text>
+                    </md-card-title>
+                    <md-card-content>
+                      <p>
+                        {{item.descripcion}}
+                      </p>
+                    </md-card-content>
+                    <md-card-content ng-if="item.yaVoto==1">
+                      Votos:
+                          <md-list >
+                            <md-list-item ng-repeat="opcion in item.opciones">
+                              <div class="md-list-item-text">
+                                <div><h4>-{{opcion.titulo}}</h4></div>
+                                <div><h5>Votos: {{opcion.votos}}</h5></div>
+                              </div>
+                            </md-list-item>
+                          </md-list>
+                          <div>{{item.mensaje}}</div>
+                      <md-card-actions layout="row" layout-align="center">
+                          <md-button class="md-raised md-info" ng-click="goto('/encuestasDetalles/'+ item.id)"> Ver detalles</md-button>
+                      </md-card-actions>
+                     </md-card-content>
+                    <md-card-content ng-if="item.yaVoto==0">
+                      Dejar mi voto:
+                      <div ng-repeat="opcion in item.opciones">
+                        <md-card-actions layout="row" layout-align="center">
+                            <md-button  class="md-raised md-primary" ng-click="votar(item.id, opcion.id)"> {{opcion.titulo}}</md-button>
+                        </md-card-actions>
+                      </div>
+                    </md-card-content>
+                  </md-card>
+            </div>
+    </div>
+    
+</md-content>

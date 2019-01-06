@@ -1,0 +1,37 @@
+<!--<br>
+<br>
+<div class="centrado">
+    <h2>Para recuperar tu contraseña, contacta con el comité y ellos te podrán ayudar, por el momento esta función esta en construcción.</h2>
+    <br>
+    <img src="resources/underConstruction.jpg" height="250" width="300">
+    <br>
+    <br>
+    <md-button class="md-raised md-primary" ng-click="goto('/login')">Volver</md-button>
+</div>
+-->
+
+<md-content layout-padding id="popupContainer" >
+        <form name="Form">
+            <md-card flex="flex" class="carta" >
+                <div>
+                    <h3>Confirma tus datos</h3>
+                </div>
+                <div layout-gt-xs="row">
+                    <md-input-container flex-gt-xs class="md-block">
+                        <label>Número de celular</label>
+                        <input type="number" pattern="[0-9]*" inputmode="numeric" ng-model="user.celular" required="" allow-only-numbers>
+                    </md-input-container>
+                </div>
+                <div layout-sm="row">
+                    <md-input-container flex class="md-block">
+                        <label>Correo electrónico</label>
+                        <input ng-model="user.email" type="email" required="">
+                    </md-input-container>
+                </div>
+                <div class="centrado">
+                    <md-button class="md-raised md-primary" ng-click="goto('/login')">Volver</md-button>
+                    <md-button ng-disabled="!Form.$valid" ng-click="recuperarContrasena($event);" class="md-raised md-primary">&nbsp Recuperar &nbsp</md-button>
+                </div>
+            </md-card>
+        </form>
+</md-content>

@@ -1,0 +1,20 @@
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\IniFileController\Ini\bin\Debug\IniFileController.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\IniFileController\Ini\bin\Debug\IniFileController.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\IniFileController\Ini\obj\Debug\Ini.csprojResolveAssemblyReference.cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\IniFileController\Ini\obj\Debug\IniFileController.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\IniFileController\Ini\obj\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Ini\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Ini\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Ini\obj\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Ini\obj\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Ini\obj\Debug\Ini.csprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Ini\bin\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Ini\bin\Debug\IniFileController.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Ini\obj\Debug\Ini.csprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Ini\obj\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Ini\obj\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\Ini\bin\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\Ini\bin\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\Ini\obj\Debug\Ini.csprojResolveAssemblyReference.cache
+D:\Proyectos\Timbrado Nomina\Ini\obj\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\Ini\obj\Debug\IniFileController.pdb

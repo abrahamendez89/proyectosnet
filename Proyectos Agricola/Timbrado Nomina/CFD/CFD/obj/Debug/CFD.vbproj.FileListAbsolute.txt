@@ -1,0 +1,156 @@
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.dll
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.pdb
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.xml
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\ResolveAssemblyReference.cache
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.Resources.resources
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.dll
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.xml
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.pdb
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.dll.config
+E:\ENRIQUE\PRY\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\IniFileController.dll
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.dll.config
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.dll
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.pdb
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\CFD.xml
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\DataAccess.dll
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\bin\Debug\IniFileController.dll
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.Resources.resources
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.dll
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.xml
+C:\ENRIQUE\OTROS PROYECTOS\Arq. NET\CFD .NET\CFD\CFD\obj\Debug\CFD.pdb
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\bin\Debug\CFD.dll.config
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\bin\Debug\CFD.dll
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\bin\Debug\CFD.pdb
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\bin\Debug\CFD.xml
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\bin\Debug\DataAccess.dll
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\bin\Debug\IniFileController.dll
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\obj\Debug\CFD.Resources.resources
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\obj\Debug\CFD.dll
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\obj\Debug\CFD.xml
+C:\ENRIQUE\OTROS PROYECTOS\COMPA JR\CFD .NET\CFD\CFD\obj\Debug\CFD.pdb
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.pdb
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.xml
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.Resources.resources
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.xml
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.pdb
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.dll.config
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\bin\Debug\CFD.dll.config
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\bin\Debug\CFD.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\bin\Debug\CFD.pdb
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\bin\Debug\CFD.xml
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\obj\Debug\CFD.Resources.resources
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\obj\Debug\CFD.dll
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\obj\Debug\CFD.xml
+C:\ENRIQUE\PRY\Arq. NET\CFDI .NET NOMINA XML MANUAL\CFD\CFD\obj\Debug\CFD.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.dll.config
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\DataAccess.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\IniFileController.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\IniFileController.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.vbprojResolveAssemblyReference.cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.Resources.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.dll.config
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.dll
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.pdb
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\CFD.xml
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.vbprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.Resources.resources
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.dll
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.xml
+D:\Projects2\Facturacion\CFDI .NET NOMINA\CFD\CFD\obj\Debug\CFD.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.vbprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.Resources.resources
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.xml
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.dll.config
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.xml
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\Herramientas.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\Ionic.Zip.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\Herramientas.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\itextsharp.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\NCalc.dll
+D:\Projects2\Facturacion\Timbrado Nomina\CFD\CFD\bin\Debug\SQLite.NET.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.dll.config
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\DataAccess.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\Herramientas.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\SQLite.NET.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\itextsharp.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\Ionic.Zip.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\NCalc.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\Herramientas.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\DataAccess.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\bin\Debug\IniFileController.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.vbprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.Resources.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.pdb
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.dll.config
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.pdb
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\CFD.xml
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\DataAccess.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\Herramientas.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\itextsharp.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\NCalc.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\Herramientas.pdb
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\DataAccess.pdb
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.vbprojResolveAssemblyReference.cache
+D:\Proyectos\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.Resources.resources
+D:\Proyectos\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.vbproj.GenerateResource.Cache
+D:\Proyectos\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.xml
+D:\Proyectos\Timbrado Nomina\CFD\CFD\obj\Debug\CFD.pdb
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\InputSimulator.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\MySql.Data.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\AForge.Video.dll
+D:\Proyectos\Timbrado Nomina\CFD\CFD\bin\Debug\AForge.Video.DirectShow.dll

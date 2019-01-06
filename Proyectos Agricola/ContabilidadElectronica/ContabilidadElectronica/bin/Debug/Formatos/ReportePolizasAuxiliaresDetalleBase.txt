@@ -1,0 +1,3 @@
+<RepAux:DetAuxFol NumUnIdenPol="@NumUnIdenPol" Fecha="@Fecha">
+@ListadoComprobantes
+</RepAux:DetAuxFol>

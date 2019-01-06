@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<AuxiliarCtas:AuxiliarCtas 
+xsi:schemaLocation='www.sat.gob.mx/esquemas/ContabilidadE/1_1/AuxiliarCtas http://www.sat.gob.mx/esquemas/ContabilidadE/1_1/AuxiliarCtas/AuxiliarCtas_1_1.xsd'
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AuxiliarCtas="http://www.sat.gob.mx/esquemas/ContabilidadE/1_1/AuxiliarCtas"
+Version="@Version" RFC="@RFC" Mes="@Mes" Anio="@Anio" TipoSolicitud="@TipoSolicitud" NumOrden="@NumOrden" NumTramite="@NumTramite">
+@ListadoCuentas
+</AuxiliarCtas:AuxiliarCtas>

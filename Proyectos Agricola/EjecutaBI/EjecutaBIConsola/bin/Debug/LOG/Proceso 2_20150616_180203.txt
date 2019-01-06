@@ -1,0 +1,17 @@
+Iniciado el proceso 'Proceso 2' con fecha: 16/06/2015 06:02:00 p. m.
+2015-06-16 18:02:00: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 18:02:00: Limpiando código de comentarios...
+2015-06-16 18:02:00: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 18:02:00: Ejecutando: 
+2015-06-16 18:02:00: BAT D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\De...
+2015-06-16 18:02:03: Duración(Minutos): 0.0551
+2015-06-16 18:02:03: Resultado: Realizado correctamente.
+----------------------------------------------------------------------------
+
+Proceso terminado con éxito.
+Inicio: 2015-06-16 18:02:00
+Fin:    2015-06-16 18:02:03
+Duración(Minutos): 0.0556

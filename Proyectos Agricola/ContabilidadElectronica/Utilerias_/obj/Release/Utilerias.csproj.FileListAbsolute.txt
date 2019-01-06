@@ -1,0 +1,6 @@
+D:\Proyectos\ContabilidadElectronica\Utilerias\bin\Release\Utilerias.dll
+D:\Proyectos\ContabilidadElectronica\Utilerias\bin\Release\Utilerias.pdb
+D:\Proyectos\ContabilidadElectronica\Utilerias\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\ContabilidadElectronica\Utilerias\obj\Release\Utilerias.csprojResolveAssemblyReference.cache
+D:\Proyectos\ContabilidadElectronica\Utilerias\obj\Release\Utilerias.dll
+D:\Proyectos\ContabilidadElectronica\Utilerias\obj\Release\Utilerias.pdb

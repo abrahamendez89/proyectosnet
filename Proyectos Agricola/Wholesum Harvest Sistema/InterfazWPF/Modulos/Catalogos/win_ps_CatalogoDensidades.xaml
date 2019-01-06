@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" xmlns:InterfazWPF="clr-namespace:InterfazWPF" x:Class="InterfazWPF.Modulos.Catalogos.win_ps_CatalogoDensidades"
+        Title="win_ps_CatalogoDensidades" Height="316.917" Width="440.977">
+    <Grid>
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_Buscador" HorizontalAlignment="Left" Margin="196,38,0,0" VerticalAlignment="Top" Height="24" Width="158"/>
+        <Label Content="Densidad:" HorizontalAlignment="Left" Margin="66,38,0,0" VerticalAlignment="Top"/>
+        <Label Content="Separación(cm):" HorizontalAlignment="Left" Margin="66,88,0,0" VerticalAlignment="Top"/>
+        <Label Content="Número de hileras:" HorizontalAlignment="Left" Margin="66,119,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmb_NumeroHileras" HorizontalAlignment="Left" Margin="274,121,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Content="Corazón(cm):" HorizontalAlignment="Left" Margin="66,150,0,0" VerticalAlignment="Top"/>
+        <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_Separacion" Margin="196,88,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="158"/>
+        <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_Corazon" HorizontalAlignment="Left" Margin="196,151,0,0" VerticalAlignment="Top" Width="158"/>
+
+    </Grid>
+</Window>

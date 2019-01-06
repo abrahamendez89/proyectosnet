@@ -1,0 +1,186 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+*:after,
+*:before{
+  box-sizing: border-box;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;            
+  height: 100vh;
+  overflow: hidden;
+}
+.header{
+  flex: 0 0 auto;  
+  color: white;
+}
+.content{
+  flex: 1 1 auto;     
+  overflow-y: auto;  
+  background: #fafafa;   
+}
+.footer{
+  flex: 0 0 auto;  
+}
+
+.textColorNavBar{
+	color: white;
+}
+
+
+
+.footerMargin{
+	padding: 3px 10px;
+}
+
+
+
+#divSecciones{
+		padding: 22px 17px 0px 15px;
+			
+}
+.WidthMenu{
+	width: 100% !important;
+}
+
+body{
+  	background: #F5F5F5;
+}
+
+.login-box {
+  max-width: 90%;
+  width: 500px;
+}
+
+#containerLogin{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.tituloLogin{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.layout-padding{
+	padding: 0px !important;
+}
+
+.centrado{
+      text-align: center;
+}
+
+.footer{
+  background:  rgb(76,175,80);
+}
+
+.carta {
+    padding: 3px 10px !important;
+    margin-bottom: 20px;
+}
+
+.rojo{
+  color: red;
+}
+.verde{
+  color: green;
+}
+.alinea-derecha{
+  text-align: right;
+}
+
+.alinea-izquierda{
+  text-align: left;
+}
+
+
+.thumb{
+  width:100px;
+  margin:5px;
+}
+
+.uploader{
+  clear:both;
+}
+
+.thumb-foro{
+  width:100px;
+  height: 100px;
+  margin:5px;
+}
+
+.foroIconosMargin{
+  margin: 5px;
+}
+
+.md-user-avatar{
+  width: 40px !important;
+  height: 40px !important;
+}
+
+.foro-detalles-margin{
+  padding: 10px;
+}
+
+.foro-mensajes-margin{
+  padding: 10px !important;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+.opcionesUser{
+  width: 50%;
+}
+
+#divOpcionesUser{
+  background: #F5F5F5;
+  margin: 0 !important;
+}
+
+a:focus, a:hover {
+  color: white !important;
+  text-decoration: underline;
+}
+
+#btnHome{
+  margin-left: 10px;
+}
+
+#btnSalir{
+  margin-right: 5px;
+}
+
+#btnOpciones{
+  margin-left: 5px;
+}
+
+#nombreOpciones{
+  font-size: 15px;
+  padding: 0px;
+  margin-top: 14px;
+  height: 10px;
+  margin-left: 10px;
+}
+
+#divBotonesHome{
+  padding: 0px !important;
+  margin-left: 10px;
+  margin-top: 16px;
+  height: 10px !important;
+}
+
+.separacionItemsPrincipal{
+  margin-bottom: 10px;
+}
+
+#divMensajeLeer{
+  padding: 14px;
+}

@@ -1,0 +1,112 @@
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\Administrador.baml
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\Administrador.g.cs
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\App.g.cs
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones_MarkupCompile.cache
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones.g.resources
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones.Properties.Resources.resources
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\AdministradorVersiones.exe
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\AdministradorVersiones.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Vistas.exe
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\AForge.Video.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\LogicaNegocios.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\AForge.Video.DirectShow.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Vistas.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.GanttView.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\LogicaNegocios.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.xml
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Scheduling.Core.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones.exe
+D:\WHOLESUM_TF\AdministradorVersiones\obj\Debug\AdministradorVersiones.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Data.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.DataVisualization.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Data.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Data.xml
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Input.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\NCalc.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Charting.dll
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Charting.pdb
+D:\WHOLESUM_TF\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Charting.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\AdministradorVersiones.exe
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\AdministradorVersiones.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Dominio.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Vistas.exe
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\LogicaNegocios.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Charting.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\AForge.Video.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Data.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Herramientas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Dominio.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Vistas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\LogicaNegocios.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.GanttView.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.DataVisualization.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Input.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Charting.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.Charting.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Controls.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Scheduling.Core.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Data.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Telerik.Windows.Data.xml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\Administrador.baml
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\Administrador.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\App.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones_MarkupCompile.cache
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones.g.resources
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones.Properties.Resources.resources
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones.csproj.GenerateResource.Cache
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones.exe
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\obj\Debug\AdministradorVersiones.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\AdministradorVersiones.exe.config
+D:\Proyectos\Wholesum Harvest Sistema\AdministradorVersiones\bin\Debug\InputSimulator.dll

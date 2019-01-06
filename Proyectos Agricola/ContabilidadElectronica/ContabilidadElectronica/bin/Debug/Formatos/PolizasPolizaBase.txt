@@ -1,0 +1,3 @@
+<PLZ:Poliza NumUnIdenPol="@NumUnIdenPol" Fecha="@Fecha" Concepto="@Concepto">
+@ListadoTransacciones
+</PLZ:Poliza>

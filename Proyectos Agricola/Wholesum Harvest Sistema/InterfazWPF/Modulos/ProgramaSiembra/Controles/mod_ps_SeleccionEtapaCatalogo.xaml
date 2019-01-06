@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="InterfazWPF.Modulos.ProgramaSiembra.Controles.mod_ps_SeleccionEtapaCatalogo"
+        Title="mod_ps_SeleccionEtapaCatalogo" Height="95.35" Width="314.533" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Rectangle Stroke="Black" RadiusY="8.833" RadiusX="8.833" Opacity="0.6" Margin="0,0,1,0.5">
+        	<Rectangle.Fill>
+        		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+        			<GradientStop Color="Black"/>
+        			<GradientStop Color="Black" Offset="1"/>
+        		</LinearGradientBrush>
+        	</Rectangle.Fill>
+        </Rectangle>
+
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_buscadorEtapa" HorizontalAlignment="Left" Margin="140.533,23,0,0" Height="24" Width="165" VerticalAlignment="Top"/>
+        <Label Content="Selecciona la etapa:" HorizontalAlignment="Left" Margin="15.333,23,0,46.39" Foreground="White" d:LayoutOverrides="Height"/>
+        <InterfazWPF:Boton x:Name="btn_aceptar" Text="Aceptar" HorizontalAlignment="Right" Margin="0,0,9,10.163" VerticalAlignment="Bottom"/>
+        <InterfazWPF:Boton x:Name="btn_cancelar" Text="Cancelar" HorizontalAlignment="Right" Margin="0,0,77.403,10.163" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

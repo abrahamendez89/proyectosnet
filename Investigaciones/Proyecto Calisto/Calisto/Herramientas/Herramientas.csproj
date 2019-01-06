@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D7B5D2F-1E0F-470E-A0A0-A683DAEF7FFA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Herramientas</RootNamespace>
+    <AssemblyName>Herramientas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>LibreriasDLL\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.1.0.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>LibreriasDLL\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="FirebirdSql.Data.FirebirdClient">
+      <HintPath>Librerias\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="InputSimulator, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Librerias\InputSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>Librerias\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>Librerias\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>Librerias\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>Librerias\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NCalc">
+      <HintPath>Librerias\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Librerias\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SQLite.NET, Version=0.21.1869.3794, Culture=neutral, PublicKeyToken=c273bd375e695f9c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Librerias\SQLite.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Presentation" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Archivos\Archivo.cs" />
+    <Compile Include="Archivos\CSV.cs" />
+    <Compile Include="Archivos\Dialogos.cs" />
+    <Compile Include="Archivos\Imagenes.cs" />
+    <Compile Include="Archivos\Log.cs" />
+    <Compile Include="Archivos\PDF.cs" />
+    <Compile Include="Archivos\Variable.cs" />
+    <Compile Include="Archivos\XML.cs" />
+    <Compile Include="Archivos\Zip.cs" />
+    <Compile Include="Calculos\NumerosAleatorios.cs" />
+    <Compile Include="Cifrado\CifradoAES.cs" />
+    <Compile Include="Cifrado\CifradoMD5.cs" />
+    <Compile Include="Conversiones\Converter.cs" />
+    <Compile Include="Conversiones\Formatos.cs" />
+    <Compile Include="Forms\DataGridViewConf.cs" />
+    <Compile Include="Forms\Eventos.cs" />
+    <Compile Include="Forms\ExcelAPI.cs" />
+    <Compile Include="Forms\ExcelElements\ExcelArchivo.cs" />
+    <Compile Include="Forms\ExcelElements\ExcelFila.cs" />
+    <Compile Include="Forms\ExcelElements\ExcelGrupoRows.cs" />
+    <Compile Include="Forms\ExcelElements\ExcelHoja.cs" />
+    <Compile Include="Forms\User32.cs" />
+    <Compile Include="Forms\Validaciones.cs" />
+    <Compile Include="Forms\VisorXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\VisorXML.Designer.cs">
+      <DependentUpon>VisorXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail\Adjunto.cs" />
+    <Compile Include="Mail\EmailFormatos.cs" />
+    <Compile Include="Mail\Gmail.cs" />
+    <Compile Include="Mail\Mail.cs" />
+    <Compile Include="Calculos\Expresion.cs" />
+    <Compile Include="Mail\Validaciones.cs" />
+    <Compile Include="Net\Internet.cs" />
+    <Compile Include="Net\IPNet.cs" />
+    <Compile Include="Net\WebService.cs" />
+    <Compile Include="ORM\Controles\BuscadorCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ORM\Controles\BuscadorCatalogo.Designer.cs">
+      <DependentUpon>BuscadorCatalogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORM\Controles\txt_buscador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ORM\Controles\txt_buscador.Designer.cs">
+      <DependentUpon>txt_buscador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORM\ManejadorDB.cs" />
+    <Compile Include="ORM\Mapeo\MapeoObjeto.cs" />
+    <Compile Include="ORM\Memoria\AlmacenObjetos.cs" />
+    <Compile Include="ORM\ObjetoBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shell\EjecutadorComandos.cs" />
+    <Compile Include="SMS\AfilnetSMSService.cs" />
+    <Compile Include="SQL\Access.cs" />
+    <Compile Include="SQL\Firebird.cs" />
+    <Compile Include="SQL\iSQL.cs" />
+    <Compile Include="SQL\MySQL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SQL\Parametros.cs" />
+    <Compile Include="SQL\ParametrosProcesados.cs" />
+    <Compile Include="SQL\SQLServer.cs" />
+    <Compile Include="SQL\SQLite.cs" />
+    <Compile Include="Sys\PCInfo.cs" />
+    <Compile Include="WebCam\Foto.cs" />
+    <Compile Include="Web\APIRest.cs" />
+    <Compile Include="Web\DropBoxAPI.cs" />
+    <Compile Include="Web\JSON.cs" />
+    <Compile Include="Web\OneDriveAPI.cs" />
+    <Compile Include="Web\WebBrowserHelper.cs" />
+    <Compile Include="WindowsControl\Mouse.cs" />
+    <Compile Include="WindowsControl\Pantalla.cs" />
+    <Compile Include="WindowsControl\Teclado.cs" />
+    <Compile Include="WPF\Convertir.cs" />
+    <Compile Include="Forms\Mensajes.cs" />
+    <Compile Include="WPF\Eventos.cs" />
+    <Compile Include="WPF\TecladoMouseControl.cs" />
+    <Compile Include="WPF\Utilidades.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\VisorXML.resx">
+      <DependentUpon>VisorXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ORM\Controles\BuscadorCatalogo.resx">
+      <DependentUpon>BuscadorCatalogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ORM\Controles\txt_buscador.resx">
+      <DependentUpon>txt_buscador.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LibreriasDLL\AForge.Video.DirectShow.dll" />
+    <Content Include="LibreriasDLL\AForge.Video.dll" />
+    <Content Include="LibreriasDLL\FirebirdSql.Data.FirebirdClient.dll" />
+    <Content Include="LibreriasDLL\InputSimulator.dll" />
+    <Content Include="LibreriasDLL\Ionic.Zip.dll" />
+    <Content Include="LibreriasDLL\itextsharp.dll" />
+    <Content Include="LibreriasDLL\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="LibreriasDLL\MySql.Data.dll" />
+    <Content Include="LibreriasDLL\NCalc.dll" />
+    <Content Include="LibreriasDLL\Newtonsoft.Json.dll" />
+    <Content Include="LibreriasDLL\SQLite.dll" />
+    <Content Include="LibreriasDLL\SQLite.NET.dll" />
+    <Content Include="LibreriasDLL\SQLite3.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

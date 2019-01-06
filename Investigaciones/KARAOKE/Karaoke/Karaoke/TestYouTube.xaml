@@ -1,0 +1,9 @@
+﻿<Window x:Class="Karaoke.TestYouTube"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TestYouTube" Height="300" Width="300">
+    <Grid>
+        <Image x:Name="img_thumb" HorizontalAlignment="Left" Height="100" Margin="59,72,0,0" VerticalAlignment="Top" Width="100" Stretch="Fill"/>
+
+    </Grid>
+</Window>

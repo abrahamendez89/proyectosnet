@@ -1,0 +1,44 @@
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\LogicaNegocios\obj\Debug\LogicaNegocios.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+D:\WHOLESUM_TF\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\NCalc.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\obj\Debug\LogicaNegocios.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\Dominio.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\Herramientas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\LogicaNegocios\bin\Debug\Dominio.pdb
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\Dominio.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\Herramientas.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\SQLite.NET.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\itextsharp.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\Ionic.Zip.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\NCalc.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\Proyecto X\LogicaNegocios\bin\Debug\Dominio.pdb
+D:\Proyectos personales\Proyecto X\LogicaNegocios\obj\Debug\LogicaNegocios.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\Proyecto X\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+D:\Proyectos personales\Proyecto X\LogicaNegocios\obj\Debug\LogicaNegocios.pdb

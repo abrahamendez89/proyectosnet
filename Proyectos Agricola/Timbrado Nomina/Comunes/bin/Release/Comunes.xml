@@ -1,0 +1,404 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Comunes
+</name>
+</assembly>
+<members>
+<member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsLeeFacturasCompras.LeerArchivoFacturaCompra(System.String,System.String)">
+Lee el archivo desde la ubicacion especificada por el parametro
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.getFormatoTabla_O_TablaEscritura">
+Define el formato en campos para leer el archivo
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.getTerminadorRenglon">
+Define la secuencia de caracteres que definen el termino del renglon
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.getCaracterControlCamposNumericos">
+Define la secuencia de caracteres para identificar los campos numericos
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.getCaracterControlCamposAlphaNumericos">
+Define la secuencia de caracteres para identificar los campos string
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.getCaracterSeparadorCampos">
+Define el caracter que separa los campos
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.getUbicacionArchivo">
+Define la ruta de la cual se leera el archivo plano de la workabout
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.EscribirArchivo(System.String,System.Boolean,System.Boolean)">
+Escribe el archivo en la ubicacion definida por el parametro
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.LeerArchivo">
+Lee el archivo desde la ubicacion especificada por la clase
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.LeerArchivoNueva(System.String,System.String)">
+Descarga archivo de la workabot importacion
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.LeerArchivoInvNueva(System.String,System.String)">
+Descarga archivo de la workabot fisico
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.LeerArchivo(System.String,System.String)">
+Descarga y Conviente el archivo de la workabot a un archivo plano
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.LeerArchivo(System.String)">
+Lee el archivo desde la ubicacion especificada por el parametro
+
+</member><member name="M:Sistema.Comunes.Comun.ArchivoPlano.ClsArchivoPlanoBase.LeerArchivoFijo(System.String)">
+Lee el archivo desde la ubicacion especificada por el parametro
+
+</member><member name="P:Sistema.Comunes.Comun.ClsContenedor.Arreglo">
+	<summary>
+ arreglo de objetos        
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsContenedor.ArregloDT">
+	<summary>
+ Contenedor en datatable        
+ </summary>
+</member><member name="T:Sistema.Comunes.Comun.ClsContenedor">
+	<summary>
+ Por default esta clase contenedora, maneja solo su informaciòn en el datatable
+Al accesar por primera vez alguno de los elementos del arreglo de objetos se procede a 
+crear dicha colección(a partir de la informaciòn contenida en el datatable)
+Esto se realiza de manera transparente para el programador
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.ValidaElemento(Sistema.AccTextBoxAdvanced@,System.Boolean)">
+	<summary>
+ Función para validar si el elemento tecleado en un AccTextBoxAdvanced es Válido
+ </summary>
+	<param name="prmATX">AccTextBoxAdvanced a validar</param>
+	<returns>Regresa True en caso de validar correctamente y False en caso contrario</returns>
+	<remarks></remarks>
+</member><member name="M:Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.ObtenObjeto(Sistema.AccTextBoxAdvanced@,Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.TipoMetacatalogo)">
+	<summary>
+ Función para obtener una clase de acuerdo al valor del AccTextBoxAdvanced
+ </summary>
+	<param name="prmATX">AccTextBoxAdvanced del que se tomará el valor para obtener la clase</param>
+	<param name="prmTipoObten">Tipo de obtén a realizar para obtener la clase</param>
+	<returns>Regresa un objeto del tipo que se le haya indicado</returns>
+	<remarks></remarks>
+</member><member name="M:Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.MensajeCodigoInvalido">
+	<summary>
+ Muestra mensaje indicando que el código no existe
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.CreaMetacatalogo(Sistema.AccTextBoxAdvanced@,Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.TipoMetacatalogo)">
+	<summary>
+ Crea el catálogo para asignarlo a un AccTextBoxAdvanced
+ </summary>
+	<param name="prmATX">AccTextBoxAdvanced al que se asignará el catálogo creado</param>
+	<param name="prmMetacatalogo">Tipo de catálogo a crear</param>
+	<remarks></remarks>
+</member><member name="M:Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.DevuelveCatalogo(Sistema.Comunes.Comun.ClsToolsAccTextBoxAdvanced.TipoMetacatalogo)">
+	<summary>
+ Devuelve un catálogo
+ </summary>
+	<param name="prmMetacatalogo">Tipo de catálogo a crear</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sistema.Comunes.Comun.ClsTools.ElementoInvalido_Activar(Sistema.AccTextBoxAdvanced,System.Boolean@)">
+Solo aplica para clases que heredan de ClsBaseComun
+
+</member><member name="P:Sistema.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Sistema.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Sistema.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase2.atrFolioQueCancela">
+	<summary>
+ en el caso de las transacciones de tipo contramivimiento registra el folio de
+ transaccion del mismo
+ que esta cancelando
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase2.atrdFecha">
+	<summary>
+ Fecha de transaccion
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase2.atrMoneda">
+	<summary>
+ Moneda en que se registró la transacción
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase2.atrTipoCambio">
+	<summary>
+ Tipo de cambio con respecto a la moneda base vigente a la fecha de la
+ transaccion
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase2.atrDetalles">
+	<summary>
+ arreglo que almacenará el detalle de la transaccion
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase2.atrObservacion">
+	<summary>
+ Observación de la transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase2.FolioQueCancela">
+	<summary>
+ en el caso de las transacciones de tipo contramivimiento registra el folio de
+ transaccion del mismo
+ que esta cancelando
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase2.Fecha">
+	<summary>
+ Fecha de transaccion
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase2.Moneda">
+	<summary>
+ Moneda en que se registró la transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase2.TipoCambio">
+	<summary>
+ Tipo de cambio con respecto a la moneda base vigente a la fecha de la
+ transaccion
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase2.Observacion">
+	<summary>
+ Observación de la transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase2.Detalles">
+	<summary>
+ arreglo que almacenará el detalle de la transaccion
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase2.AgregaDetalle(Sistema.Comunes.Comun.IDetalleTransaccionBase)">
+	<summary>
+ Recibe Un Objecto del tipo Detalle de la transacción en cuestión y lo inserta
+ en el arreglo de detalles
+ </summary>
+	<param name="prmDetalle"></param>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase2.InicializaDetalles">
+	<summary>
+ Inicializa el Arreglo de Detalles de la transacción
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase2.GuardaDetalle(System.Boolean)">
+	<summary>
+ hará un ciclo para guardar el detalle de la transaccion
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase2.CancelaTransaccion(System.DateTime)">
+	<param name="prmdFecha"></param>
+</member><member name="T:Sistema.Comunes.Comun.ClsTransaccionBase2">
+	<summary>
+ este método cancelará la transacción actual y generará una contra transacción.
+ Este método deberá sobre escribirse en cada tipo de transacción
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.Parametros.ClsParametrosSucursal.atrRutaImpresoraFacturasMM">
+Agrega ruta para imprimir facturas de SuKarne MM
+LI. Aldo Manuel Sánz Castro 12/01/2008 10:36 a.m.
+
+</member><member name="P:Sistema.Comunes.Comun.Parametros.ClsParametrosSucursal.ImpresoraFacturasMM">
+Agrega ruta para imprimir facturas de SuKarne MM
+LI. Aldo Manuel Sánz Castro 12/01/2008 10:36 a.m.
+
+</member><member name="T:Sistema.Comunes.Comun.ClsBaseComun2">
+	<summary>
+ Esta clase define los metodos basicos de las clases que maneja la empresa
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase.atrFolioQueCancela">
+	<summary>
+ en el caso de las transacciones de tipo contramivimiento registra el folio de
+ transaccion del mismo
+ que esta cancelando
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase.atrdFecha">
+	<summary>
+ Fecha de transaccion
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase.atrMoneda">
+	<summary>
+ Moneda en que se registró la transacción
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase.atrTipoCambio">
+	<summary>
+ Tipo de cambio con respecto a la moneda base vigente a la fecha de la
+ transaccion
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase.atrDetalles">
+	<summary>
+ arreglo que almacenará el detalle de la transaccion
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsTransaccionBase.atrObservacion">
+	<summary>
+ Observación de la transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase.FolioQueCancela">
+	<summary>
+ en el caso de las transacciones de tipo contramivimiento registra el folio de
+ transaccion del mismo
+ que esta cancelando
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase.Fecha">
+	<summary>
+ Fecha de transaccion
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase.Moneda">
+	<summary>
+ Moneda en que se registró la transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase.TipoCambio">
+	<summary>
+ Tipo de cambio con respecto a la moneda base vigente a la fecha de la
+ transaccion
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase.Observacion">
+	<summary>
+ Observación de la transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Comun.ClsTransaccionBase.Detalles">
+	<summary>
+ arreglo que almacenará el detalle de la transaccion
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase.AgregaDetalle(Sistema.Comunes.Comun.IDetalleTransaccionBase)">
+	<summary>
+ Recibe Un Objecto del tipo Detalle de la transacción en cuestión y lo inserta
+ en el arreglo de detalles
+ </summary>
+	<param name="prmDetalle"></param>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase.InicializaDetalles">
+	<summary>
+ Inicializa el Arreglo de Detalles de la transacción
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase.GuardaDetalle(System.Boolean)">
+	<summary>
+ hará un ciclo para guardar el detalle de la transaccion
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsTransaccionBase.CancelaTransaccion(System.DateTime)">
+	<param name="prmdFecha"></param>
+</member><member name="T:Sistema.Comunes.Comun.ClsTransaccionBase">
+	<summary>
+ este método cancelará la transacción actual y generará una contra transacción.
+ Este método deberá sobre escribirse en cada tipo de transacción
+ </summary>
+</member><member name="P:Sistema.Comunes.Catalogos.ClsMoneda.PrecioCompraActual">
+	<summary>
+ Obtiene el precio de compra para la moneda actual con la moneda base a la fecha
+ </summary>
+</member><member name="F:Sistema.Comunes.Comun.ClsParametro.atrOrigenDeParametro">
+	<summary>
+ 1= Valor Predefinido
+ 2= Resultado de Un query Tipo Regresa Dato
+ 3= Entrada del Archivo Ini
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsParametro.#ctor(System.String,Sistema.Comunes.Comun.ClsParametroIni)">
+	<param name="prmDescripcion"></param>
+	<param name="prmParametro"></param>
+</member><member name="M:Sistema.Comunes.Comun.ClsParametro.#ctor(System.String,Sistema.Comunes.Comun.ClsParametroValorPredefinido)">
+	<param name="prmDescripcion"></param>
+	<param name="prmParametro"></param>
+</member><member name="M:Sistema.Comunes.Comun.ClsParametroQuery.#ctor(System.String,System.Boolean)">
+	<param name="prmQueryRegresaDato"></param>
+	<param name="prmCalcularEnTiempoReal"></param>
+</member><member name="T:Sistema.Comunes.Comun.ClsParametroValorPredefinido.CDT_tipoValor">
+	<summary>
+ 1- Cadena
+ 2- Numerico
+ 3-  fecha
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.ClsParametroValorPredefinido.#ctor(System.String)">
+	<param name="prmValor"></param>
+</member><member name="M:Sistema.Comunes.Comun.ClsParametroValorPredefinido.#ctor(System.Double)">
+	<param name="prmValor"></param>
+</member><member name="M:Sistema.Comunes.Comun.ClsParametroValorPredefinido.#ctor(System.DateTime)">
+	<param name="prmValor"></param>
+</member><member name="M:Sistema.Comunes.Comun.DBF.Databases.Sql2Dbf(System.String,System.String,System.String)">
+	<summary>
+ Exporta una expresión Sql a formato Dbf (dBase III)
+ </summary>
+	<param name="cadenaConexion">Cadena de conexión con el servidor SQL</param>
+	<param name="sql">Secuencia Select SQL para exportar</param>
+	<param name="ficheroSalida">Nombre completo del fichero que se creará</param>
+	<returns>true si la exportación es correcta</returns>
+</member><member name="M:Sistema.Comunes.Comun.DBF.Databases.Db2Dbf(System.Data.Common.DbProviderFactory,System.String,System.String,System.String)">
+	<summary>
+ Exporta una expresión Sql a formato Dbf (dBase III)
+ </summary>
+	<param name="factoria">Factoría de System.Data.Common en el que se encuentra el formato de origen</param>
+	<param name="cadenaConexion">Cadena de conexión con la base de datos de origen</param>
+	<param name="sql">Secuencia Select SQL para exportar</param>
+	<param name="ficheroSalida">Nombre completo del fichero que se creará</param>
+	<returns>true si la exportación es correcta</returns>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.#ctor(System.Data.Common.DbProviderFactory,System.String,System.String,System.String)">
+	<summary>
+ Constructor de la clase
+ </summary>
+	<param name="factoria">Factoría del origen de los datos</param>
+	<param name="cadenaConexion">Cadena de conexión a la base de datos de origen</param>
+	<param name="sql">Instrucción Select SQL para exportar a dbf</param>
+	<param name="ficheroSalida">Nombre completo del fichero de salida</param>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.Exporta">
+	<summary>
+ Realiza la exportación de la base de datos de origen a un fichero con formato .dbf.
+ </summary>
+	<returns>True si el traspaso ha sido correcto</returns>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.LeeEstructura">
+	<summary>
+ Lectura de la estructura de la tabla de origen
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.CreaTabla">
+	<summary>
+ Creación del fichero DBF.
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.InsertaDatos">
+	<summary>
+ Realiza el traspaso de datos de la base de datos de origen al fichero dbf.
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.GetSql_Insert">
+	<summary>
+ Devuelve la instrucción SQL que permitirá la inserción de los datos
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.DBF.DatabaseToDbf.GetSql_Create">
+	<summary>
+ Obtiene la instrucción SQL que permitirá la creación de la tabla
+ </summary>
+</member><member name="T:Sistema.Comunes.Comun.DBF.Campo.TiposCampoEnum">
+	<summary>
+ Tipos de datos que puede tener la tabla de origen. 
+ </summary>
+	<remarks>Como que la lectura de la base de datos de origen se hace mediante clases genéricas
+ de acceso a datos, pueden surgir tipos no conocidos aquí</remarks>
+</member><member name="M:Sistema.Comunes.Comun.DBF.Campo.#ctor(System.Data.DataColumn)">
+	<summary>
+ Constructor. 
+ </summary>
+</member><member name="M:Sistema.Comunes.Comun.DBF.Campo.TipoCampo(System.Data.DataColumn)">
+	<summary>
+ Adaptación del tipo de campo de origen a un formato simple dbf
+ </summary>
+	<remarks>Es posible que si se usan otras bases de datos haya que modificar este
+ procedimiento</remarks>
+</member><member name="P:Sistema.Comunes.Comun.DBF.Campo.Parametro">
+	<summary>
+ Obtiene el campo en formato de parámetro
+ </summary>
+	<returns></returns>
+</member><member name="P:Sistema.Comunes.Comun.DBF.Campo.Nombre">
+	<summary>
+ Obtiene el nombre del campo
+ </summary>
+	<returns></returns>
+</member><member name="P:Sistema.Comunes.Comun.DBF.Campo.Tabla">
+	<summary>
+ Obtiene la estructura necesaria que se empleará en la creación de la tabla.
+ </summary>
+	<returns></returns>
+</member><member name="T:Sistema.Comunes.Comun.DBF.Campo">
+	<summary>
+ Clase que representa un campo de la tabla de origen.
+ </summary>
+	<remarks>
+ Como la estructura de la tabla de destino tendrá la misma estructura que la sentencia
+ de entrada, es importante obtener todos los datos posibles de dicha estructura.
+ </remarks>
+</member><member name="T:Sistema.Comunes.Comun.ClsBaseComun">
+	<summary>
+ Esta clase define los metodos basicos de las clases que maneja la empresa
+ </summary>
+</member>
+</members>
+</doc>

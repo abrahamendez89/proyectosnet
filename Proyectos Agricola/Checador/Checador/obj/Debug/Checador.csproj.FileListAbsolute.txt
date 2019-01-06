@@ -1,0 +1,17 @@
+D:\Proyectos\Checador\Checador\bin\Debug\Checador.exe
+D:\Proyectos\Checador\Checador\bin\Debug\Checador.pdb
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.csprojResolveAssemblyReference.cache
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.Form1.resources
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.Properties.Resources.resources
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.csproj.GenerateResource.Cache
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.exe
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.pdb
+D:\Proyectos\Checador\Checador\bin\Debug\Checador.exe.config
+D:\Proyectos\Checador\Checador\obj\Debug\Checador.PedirContrasena.resources
+D:\Proyectos\Checador\Checador\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Checador\Checador\bin\Debug\Herramientas.dll
+D:\Proyectos\Checador\Checador\bin\Debug\Herramientas.pdb
+D:\Proyectos\Checador\Checador\bin\Debug\itextsharp.dll
+D:\Proyectos\Checador\Checador\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Checador\Checador\bin\Debug\NCalc.dll
+D:\Proyectos\Checador\Checador\bin\Debug\SQLite.NET.dll

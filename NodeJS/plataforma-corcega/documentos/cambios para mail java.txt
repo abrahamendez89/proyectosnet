@@ -1,0 +1,33 @@
+CREATE TABLE `mail_documentos` (
+  `id_documento` int(11) NOT NULL AUTO_INCREMENT,
+  `nombreArchivo` varchar(200) NOT NULL,
+  `fechaRegistro` datetime NOT NULL,
+  `archivoBase64` blob NOT NULL,
+  PRIMARY KEY (`id_documento`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+CREATE TABLE `mail_correos` (
+  `id_correo` int(11) NOT NULL AUTO_INCREMENT,
+  `contenido_correo` varchar(1000) NOT NULL,
+  `email_destino` varchar(200) NOT NULL,
+  `fecha_enviado` datetime NOT NULL,
+  `fecha_registro` datetime NOT NULL,
+  `id_usuarioEnvia` int(11) NOT NULL,
+  `seEnvio` tinyint(4) NOT NULL,
+  `titulo_correo` varchar(300) NOT NULL,
+  PRIMARY KEY (`id_correo`),
+  KEY `fk_usuario_mail_idx` (`id_usuarioEnvia`),
+  CONSTRAINT `fk_usuario_mail` FOREIGN KEY (`id_usuarioEnvia`) REFERENCES `gen_usuario` (`id_Usuario`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+CREATE TABLE `mail_correos_documentos` (
+  `id_correo_documento` int(11) NOT NULL AUTO_INCREMENT,
+  `id_correo` int(11) NOT NULL,
+  `id_documento` int(11) NOT NULL,
+  PRIMARY KEY (`id_correo_documento`),
+  KEY `fk_md_correo_idx` (`id_correo`),
+  KEY `fk_md_documentos_idx` (`id_documento`),
+  CONSTRAINT `fk_md_correo` FOREIGN KEY (`id_correo`) REFERENCES `mail_correos` (`id_correo`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_md_documentos` FOREIGN KEY (`id_documento`) REFERENCES `mail_documentos` (`id_documento`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+

@@ -1,0 +1,31 @@
+C:\Users\ZBI\AppData\Local\Temporary Projects\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.frm_login.resources
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.frm_drive.resources
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZBI\Documents\Visual Studio 2012\Projects\OneDrive\OneDrive\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\OneDrive.exe.config
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.exe
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.pdb
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\OneDrive.exe
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\OneDrive.pdb
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.Test.resources
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\Herramientas.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\SQLite.NET.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\itextsharp.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\NCalc.dll
+D:\Proyectos\OneDrive\OneDrive\OneDrive\bin\Debug\Herramientas.pdb
+D:\Proyectos\OneDrive\OneDrive\OneDrive\obj\Debug\OneDrive.frm_login.resources

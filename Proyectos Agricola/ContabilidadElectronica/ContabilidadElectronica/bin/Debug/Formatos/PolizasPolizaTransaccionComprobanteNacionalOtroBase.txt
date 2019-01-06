@@ -1,0 +1,1 @@
+<PLZ:CompNalOtr CFD_CBB_Serie="@CFD_CBB_Serie" CFD_CBB_NumFol="@CFD_CBB_NumFol" RFC="@RFC" MontoTotal="@MontoTotal" Moneda="@Moneda" TipCamb="@TipCamb"/>

@@ -1,0 +1,11 @@
+﻿<Application x:Class="TestControls.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TestControls"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!--<Style x:Key="FontAwesome">
+            <Setter Property="TextElement.FontFamily" Value="/Fonts/Awesome/fontawesome-webfont.ttf#FontAwesome" />
+        </Style>-->
+    </Application.Resources>
+</Application>

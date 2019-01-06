@@ -1,0 +1,34 @@
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.exe
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.CodigoGenerado.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Generador.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.NombreBD.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Properties.Resources.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.VisorImagenes.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.exe
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.CodigoGenerado.resources
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Generador.resources
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.NombreBD.resources
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.Properties.Resources.resources
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.VisorImagenes.resources
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.csproj.GenerateResource.Cache
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.exe
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\obj\Debug\GeneradorCodigoSQL.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.exe
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\GeneradorCodigoSQL.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\Dominio.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\Herramientas.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\ORMEscential.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\Dominio.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\GeneradorCodigoSQL\bin\Debug\ORMEscential.pdb

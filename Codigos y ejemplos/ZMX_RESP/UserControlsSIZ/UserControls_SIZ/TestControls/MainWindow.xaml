@@ -1,0 +1,25 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestControls"
+        xmlns:maps="clr-namespace:UserControlsSIZ.Maps;assembly=UserControlsSIZ"
+        xmlns:UserControlsSIZ="clr-namespace:UserControlsSIZ.Toolbar;assembly=UserControlsSIZ" xmlns:Iconos="clr-namespace:UserControlsSIZ.Iconos;assembly=UserControlsSIZ" xmlns:Captura="clr-namespace:UserControlsSIZ.Captura;assembly=UserControlsSIZ" xmlns:Contables="clr-namespace:UserControlsSIZ.Contables;assembly=UserControlsSIZ" xmlns:Prompt="clr-namespace:UserControlsSIZ.Prompt;assembly=UserControlsSIZ" x:Class="TestControls.MainWindow"
+        xmlns:contextual="clr-namespace:UserControlsSIZ.Maps.MenuSeleccion;assembly=UserControlsSIZ"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="1374.667" WindowStartupLocation="CenterScreen" Height="553.446">
+    <Grid x:Name="grdCaptura" >
+        <UserControlsSIZ:ToolbarSIZ Height="87" Width="Auto" VerticalAlignment="Top" DiametroPxBotones="35"  />
+        <Captura:ZMXTextInputImporte Width="Auto" Margin="561,150,314,136" ZMX_Enteros="4" ZMX_Decimales="4" ZMX_MarcarRequerido="False" />
+
+        <!--<UserControlsSIZ:btnToolbar DiametroPx="35" BtnColor="Black" />-->
+
+        <!--<Contables:SIZUCContabilizacion x:Name="txtArmarExpresion" Margin="647,0,62,73" VerticalAlignment="Bottom" ExpresionFormada="{Binding TEXTO, Mode=TwoWay}" />-->
+        <TextBox x:Name="textBox" Height="23" Margin="647,0,62,45" TextWrapping="Wrap" VerticalAlignment="Bottom" Text="{Binding TEXTO, Mode=TwoWay}" />
+        <Captura:ZMXUCCapturaEncriptada PlaceHolder="" HorizontalAlignment="Left" Margin="319,0,0,123.04" VerticalAlignment="Bottom" Width="124.136"/>
+        <Prompt:ZMXUCPrompt x:Name="prompt" ZMX_EjecutarConsulta="prompt_ZMX_EjecutarConsulta" ZMX_ValorCambiadoRow="prompt_ZMX_ValorCambiadoRow" HorizontalAlignment="Left" Margin="135.5,0,0,43" VerticalAlignment="Bottom" Width="399.667"/>
+        <maps:ZMXUC_Mapa x:Name="mapa" Visibility="Collapsed" ZMX_TipoControlMapa="BusquedaRuta" ZMX_MostrarPanelInformacion="True" HorizontalAlignment="Stretch" Width="Auto" Height="Auto" VerticalAlignment="Stretch" d:LayoutOverrides="Height" ZMX_PropiedadLocalidadNombre="LOCALIDAD_NOMBRE" ZMX_PropiedadMunicipioNombre="MUNICIPIO_NOMBRE" ZMX_PropiedadEstadoNombre="ESTADO_NOMBRE" ZMX_PropiedadPaisNombre="PAIS_NOMBRE" ZMX_PropiedadCoordenadas="LOCALIDAD_COORDENADAS" ZMX_SeleccionoUbicacion="mapa_ZMX_SeleccionoUbicacion" />
+        <contextual:ZMXUC_MapaMenuSeleccion Margin="98.756,119.33,1084.26,366.221" />
+    </Grid>
+</Window>

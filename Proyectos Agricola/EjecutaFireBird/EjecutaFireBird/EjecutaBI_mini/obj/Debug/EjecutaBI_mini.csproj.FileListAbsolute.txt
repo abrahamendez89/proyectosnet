@@ -1,0 +1,13 @@
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\EjecutaBI_mini.exe.config
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\EjecutaBI_mini.exe
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\EjecutaBI_mini.pdb
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\Herramientas.dll
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\SQLite.NET.dll
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\itextsharp.dll
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\NCalc.dll
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\bin\Debug\Herramientas.pdb
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\obj\Debug\EjecutaBI_mini.csprojResolveAssemblyReference.cache
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\obj\Debug\EjecutaBI_mini.exe
+D:\Proyectos\EjecutaFireBird\EjecutaFireBird\EjecutaBI_mini\obj\Debug\EjecutaBI_mini.pdb

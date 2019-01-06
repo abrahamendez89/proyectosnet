@@ -1,0 +1,17 @@
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\GeneradorCodigoSQL.exe
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\GeneradorCodigoSQL.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\AccesoDatos.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\Dominio.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\Herramientas.dll
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\AccesoDatos.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\Dominio.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\bin\Release\Herramientas.pdb
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.CodigoGenerado.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.Generador.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.NombreBD.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.Properties.Resources.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.VisorImagenes.resources
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.exe
+D:\WHOLESUM_TF\GeneradorCodigoSQL\obj\Release\GeneradorCodigoSQL.pdb

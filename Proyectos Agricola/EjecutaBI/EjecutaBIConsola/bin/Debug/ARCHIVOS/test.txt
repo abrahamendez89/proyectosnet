@@ -1,0 +1,2 @@
+IMPORT_EXCEL D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\ARCHIVOS
+go

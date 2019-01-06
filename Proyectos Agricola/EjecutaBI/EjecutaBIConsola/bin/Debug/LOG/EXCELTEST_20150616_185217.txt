@@ -1,0 +1,27 @@
+Iniciado el proceso 'EXCELTEST' con fecha: 16/06/2015 06:50:33 p. m.
+2015-06-16 18:50:55: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 18:50:55: Limpiando código de comentarios...
+2015-06-16 18:50:55: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 18:50:55: Ejecutando: 
+2015-06-16 18:50:55: IMPORT_EXCEL D:\Proyectos\EjecutaBI\EjecutaBIConso...
+2015-06-16 18:50:55: Intentando importar: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layaout_Bonos_Warehouse.xlsx
+2015-06-16 18:50:57: Importado con éxito: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layaout_Bonos_Warehouse.xlsx
+2015-06-16 18:50:57: Intentando importar: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Budget Salary Warehouse.xlsx
+2015-06-16 18:51:21: Importado con éxito: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Budget Salary Warehouse.xlsx
+2015-06-16 18:51:21: Intentando importar: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Configura Cuentas.xlsx
+2015-06-16 18:51:22: Importado con éxito: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Configura Cuentas.xlsx
+2015-06-16 18:51:22: Intentando importar: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Grower Projection.xlsx
+2015-06-16 18:52:11: Importado con éxito: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Grower Projection.xlsx
+2015-06-16 18:52:11: Intentando importar: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Personal Real.xlsx
+2015-06-16 18:52:17: Importado con éxito: D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\bi_FilesToExport\Layout Personal Real.xlsx
+2015-06-16 18:52:17: Duración(Minutos): 1.3719
+2015-06-16 18:52:17: Resultado: Realizado correctamente.
+----------------------------------------------------------------------------
+
+Proceso terminado con éxito.
+Inicio: 2015-06-16 18:50:33
+Fin:    2015-06-16 18:52:17
+Duración(Minutos): 1.7373

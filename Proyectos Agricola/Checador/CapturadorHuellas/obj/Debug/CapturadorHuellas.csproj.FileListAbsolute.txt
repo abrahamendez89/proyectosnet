@@ -1,0 +1,15 @@
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\CapturadorHuellas.exe.config
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\CapturadorHuellas.exe
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\CapturadorHuellas.pdb
+D:\Proyectos\Checador\CapturadorHuellas\obj\Debug\CapturadorHuellas.csprojResolveAssemblyReference.cache
+D:\Proyectos\Checador\CapturadorHuellas\obj\Debug\CapturadorHuellas.Form1.resources
+D:\Proyectos\Checador\CapturadorHuellas\obj\Debug\CapturadorHuellas.Properties.Resources.resources
+D:\Proyectos\Checador\CapturadorHuellas\obj\Debug\CapturadorHuellas.csproj.GenerateResource.Cache
+D:\Proyectos\Checador\CapturadorHuellas\obj\Debug\CapturadorHuellas.exe
+D:\Proyectos\Checador\CapturadorHuellas\obj\Debug\CapturadorHuellas.pdb
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\Herramientas.dll
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\itextsharp.dll
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\NCalc.dll
+D:\Proyectos\Checador\CapturadorHuellas\bin\Debug\Herramientas.pdb

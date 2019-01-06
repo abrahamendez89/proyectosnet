@@ -1,0 +1,4 @@
+D:\WHOLESUM_TF\Herramientas\bin\Release\Herramientas.dll
+D:\WHOLESUM_TF\Herramientas\bin\Release\Herramientas.pdb
+D:\WHOLESUM_TF\Herramientas\obj\Release\Herramientas.dll
+D:\WHOLESUM_TF\Herramientas\obj\Release\Herramientas.pdb

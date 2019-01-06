@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="InterfazWPF.Modulos.ProgramaSiembra.win_ps_GraficoDeProduccion"
+        Title="win_ps_GraficoDeProduccion" Height="349.623" Width="747.745" WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="img_test" Margin="63,39,313,31" Stretch="Fill" MouseDown="img_test_MouseDown"/>
+
+    </Grid>
+</Window>

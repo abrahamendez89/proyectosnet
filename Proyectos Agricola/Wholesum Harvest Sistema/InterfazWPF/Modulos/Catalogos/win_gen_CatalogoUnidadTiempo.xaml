@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" x:Class="InterfazWPF.Modulos.Catalogos.win_gen_CatalogoUnidadTiempo"
+        Title="win_gen_CatalogoUnidadTiempo" Height="300" Width="325.94">
+    <Grid>
+
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_Buscador" HorizontalAlignment="Left" Margin="144,32,0,0" VerticalAlignment="Top" Height="23" Width="135"/>
+        <Label Content="Unidad de tiempo:" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+
+        <ControlesUsuario:TextboxNormal x:Name="txt_nombre" HorizontalAlignment="Left" Margin="144,73,0,0" VerticalAlignment="Top" Width="135"/>
+        <Label Content="Equivalencia de 1 hora:" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top"/>
+        <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_equivalenciaHora" HorizontalAlignment="Left" Margin="144,104,0,0" VerticalAlignment="Top" Width="135"/>
+
+    </Grid>
+</Window>

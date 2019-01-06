@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" x:Class="InterfazWPF.Modulos.ProgramaSiembra.win_ps_PrincipalProgramaSiembra"
+        Title="win_ps_ejemploA" Height="406.719" Width="837.133" WindowState="Maximized">
+    <Grid>
+        <Rectangle x:Name="rtg_fondo" Fill="#FFF4F4F5" Margin="10,74,10,41" Stroke="Black" RadiusY="2.333" RadiusX="2.333"/>
+        <Label x:Name="lbl_temporada" Content="Temporada:" HorizontalAlignment="Left" Height="24" Margin="10,10,0,0" VerticalAlignment="Top" Width="125"/>
+        <Label Content="Versión de programa de siembra:" HorizontalAlignment="Left" Height="24" Margin="303,10,0,0" VerticalAlignment="Top" Width="189"/>
+        <WrapPanel x:Name="pnl_EspaciosFisicosCargados" Margin="10,74,10,41"/>
+        <WrapPanel x:Name="pnl_Recorrido" Height="31" Margin="10,41,133,0" VerticalAlignment="Top"/>
+        <InterfazWPF:ImagenConResplandor x:Name="img_basura" Margin="0,41,10,0" VerticalAlignment="Top" Height="31" Width="31" HorizontalAlignment="Right" Imagen="1411099016_23-Full Trash.png" ColorResplandor="#FF858585" ToolTip="Arrastre sobre este ícono el espacio que desea eliminar."/>
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_Buscador" HorizontalAlignment="Left" Margin="89,12,0,0" VerticalAlignment="Top" Height="24" Width="192"/>
+        <ComboBox x:Name="cmb_configuracionesTemporada" HorizontalAlignment="Left" Margin="497,12,0,0" VerticalAlignment="Top" Width="199"/>
+    </Grid>
+</Window>

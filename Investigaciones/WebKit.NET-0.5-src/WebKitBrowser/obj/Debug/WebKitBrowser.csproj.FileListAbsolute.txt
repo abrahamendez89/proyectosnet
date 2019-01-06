@@ -1,0 +1,10 @@
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKit.Properties.Resources.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKit.WebKitBrowser.resources
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.csproj.GenerateResource.Cache
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll.manifest
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll.config
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.pdb
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.dll
+C:\Users\Abrahamm.WHOLESUM\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.pdb

@@ -1,0 +1,85 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="InterfazWPF.Notificacion"
+	x:Name="Window"
+	Title="Notificacion"
+	Width="354" Height="130" Background="{x:Null}" Foreground="{x:Null}" WindowStyle="None" AllowsTransparency="True" ShowInTaskbar="False">
+	<Window.Resources>
+		<Storyboard x:Key="OnLoaded1">
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="Window">
+				<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+				<DiscreteObjectKeyFrame KeyTime="0:0:0.5" Value="{x:Static Visibility.Visible}"/>
+			</ObjectAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="Window">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="Salida">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="Window">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="entrarCerrado">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_cerrar_Copy">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="salirCerrado">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_cerrar_Copy">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="entrarNotificacion">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FF2B2B2B"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="salioNotificacion">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF2B2B2B"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="Black"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="img_cerrar">
+			<BeginStoryboard x:Name="entrarCerrado_BeginStoryboard" Storyboard="{StaticResource entrarCerrado}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="img_cerrar">
+			<BeginStoryboard x:Name="salirCerrado_BeginStoryboard" Storyboard="{StaticResource salirCerrado}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="Window">
+			<BeginStoryboard x:Name="entrarNotificacion_BeginStoryboard" Storyboard="{StaticResource entrarNotificacion}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="Window">
+			<BeginStoryboard x:Name="salioNotificacion_BeginStoryboard" Storyboard="{StaticResource salioNotificacion}"/>
+		</EventTrigger>
+	</Window.Triggers>
+
+	<Grid x:Name="LayoutRoot" Margin="0,0.433,0,-0.433" RenderTransformOrigin="0.5,0.5">
+		<Grid.RenderTransform>
+			<TransformGroup>
+				<ScaleTransform/>
+				<SkewTransform/>
+				<RotateTransform/>
+				<TranslateTransform/>
+			</TransformGroup>
+		</Grid.RenderTransform>
+		<Rectangle x:Name="rectangle" Stroke="#FFB0B0B0" RadiusY="9.5" RadiusX="9.5" Opacity="0.7" Fill="Black"/>
+		<TextBlock x:Name="txt_mensaje" Margin="112,32,10,17.5" TextWrapping="Wrap" Text="Este es el contenido de la notificacion que queremos mostrarle al usuario. " Foreground="White" ScrollViewer.CanContentScroll="True" VerticalAlignment="Center"/>
+		<Image x:Name="img_imagen" HorizontalAlignment="Left" Height="64" Margin="27,31,0,0" VerticalAlignment="Top" Width="69" OpacityMask="#FF8B8B8B" Stretch="UniformToFill"/>
+		<Ellipse HorizontalAlignment="Left" Height="3" Margin="116,29,0,0" Stroke="#FFB0B0B0" VerticalAlignment="Top" Width="193" Fill="#FF939393" Opacity="0.64"/>
+		<TextBlock x:Name="txt_titulo" Margin="112,7,49,0" Text="Este es el titulo" Foreground="White" Height="20" VerticalAlignment="Top" ScrollViewer.VerticalScrollBarVisibility="Hidden" FontWeight="Bold" FontSize="13.333"/>
+		<Image x:Name="img_cerrar_Copy" HorizontalAlignment="Left" Height="23" Margin="319,5,0,0" VerticalAlignment="Top" Width="23.5" OpacityMask="#FF8B8B8B" Stretch="UniformToFill" Opacity="0">
+			<Image.Effect>
+				<DropShadowEffect Color="White" Direction="0" ShadowDepth="0"/>
+			</Image.Effect>
+		</Image>
+		<Image x:Name="img_cerrar" HorizontalAlignment="Left" Height="23" Margin="319,5,0,0" VerticalAlignment="Top" Width="23.5" OpacityMask="#FF8B8B8B" Stretch="UniformToFill"/>
+		<TextBlock x:Name="txt_masInformacion" HorizontalAlignment="Left" Margin="249.348,0,0,5.002" TextWrapping="Wrap" Text="Más información..." Width="87.659" Foreground="#FFB2B2B2" TextDecorations="Underline" Height="13.165" VerticalAlignment="Bottom" Cursor="Hand" FontSize="10.667"/>
+	</Grid>
+</Window>

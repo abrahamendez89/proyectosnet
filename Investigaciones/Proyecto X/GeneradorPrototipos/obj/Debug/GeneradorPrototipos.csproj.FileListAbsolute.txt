@@ -1,0 +1,8 @@
+D:\WHOLESUM_TF\GeneradorPrototipos\bin\Debug\GeneradorPrototipos.exe
+D:\WHOLESUM_TF\GeneradorPrototipos\bin\Debug\GeneradorPrototipos.pdb
+D:\WHOLESUM_TF\GeneradorPrototipos\obj\Debug\GeneradorPrototipos.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\GeneradorPrototipos\obj\Debug\GeneradorPrototipos.Editor.resources
+D:\WHOLESUM_TF\GeneradorPrototipos\obj\Debug\GeneradorPrototipos.Properties.Resources.resources
+D:\WHOLESUM_TF\GeneradorPrototipos\obj\Debug\GeneradorPrototipos.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\GeneradorPrototipos\obj\Debug\GeneradorPrototipos.exe
+D:\WHOLESUM_TF\GeneradorPrototipos\obj\Debug\GeneradorPrototipos.pdb

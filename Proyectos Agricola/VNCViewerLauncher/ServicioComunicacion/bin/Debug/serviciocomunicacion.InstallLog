@@ -1,0 +1,75 @@
+﻿Instalando ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Instalando ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Instalando ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Instalando el servicio Service1...
+Creando el origen de EventLog Service1 en el registro Application...
+Deshaciendo ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Restaurando el registro de eventos al estado anterior para el origen Service1.
+Instalando ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Deshaciendo ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Instalando ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Deshaciendo ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Deshaciendo ensamblado 'D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog
+   assemblypath = D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.

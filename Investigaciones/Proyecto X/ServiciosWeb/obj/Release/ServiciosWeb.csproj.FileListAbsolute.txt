@@ -1,0 +1,14 @@
+D:\WHOLESUM_TF\ServiciosWeb\bin\ServiciosWeb.dll.config
+D:\WHOLESUM_TF\ServiciosWeb\bin\ServiciosWeb.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\ServiciosWeb.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\Dominio.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\Herramientas.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\LogicaNegocios.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\AccesoDatos.dll
+D:\WHOLESUM_TF\ServiciosWeb\bin\Dominio.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\Herramientas.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\LogicaNegocios.pdb
+D:\WHOLESUM_TF\ServiciosWeb\bin\AccesoDatos.pdb
+D:\WHOLESUM_TF\ServiciosWeb\obj\Release\ServiciosWeb.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\ServiciosWeb\obj\Release\ServiciosWeb.dll
+D:\WHOLESUM_TF\ServiciosWeb\obj\Release\ServiciosWeb.pdb

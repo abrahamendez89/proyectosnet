@@ -1,0 +1,25 @@
+﻿#divLogin {
+    position: relative;
+    background: red;
+    width: 100%;
+    height: 30px;
+    padding-top: 10px;
+    text-align: right;
+}
+
+#spanUsuario {
+    /* float: right; */
+    margin-right: 10px;
+}
+
+#spanContrasena {
+    /* float: right; */
+    margin-right: 10px;
+}
+
+#spanBtnLogin {
+    /* float: right; */
+    margin-right: 20px;
+}
+
+

@@ -1,0 +1,13 @@
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\Herramientas.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\SQLite.NET.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\itextsharp.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\NCalc.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\Herramientas.pdb
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\obj\Debug\Dominio.pdb
+D:\Proyectos\DescargaMasivaXMLSAT\Dominio\bin\Debug\Newtonsoft.Json.dll

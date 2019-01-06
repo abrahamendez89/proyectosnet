@@ -1,0 +1,72 @@
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\CuentasParaPagar.exe.config
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.csprojResolveAssemblyReference.cache
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.CatalogoCuentas.resources
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Principal.resources
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Properties.Resources.resources
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.csproj.GenerateResource.Cache
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\CuentasParaPagar.exe
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\CuentasParaPagar.pdb
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\Herramientas.dll
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\itextsharp.dll
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\NCalc.dll
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\bin\Debug\Herramientas.pdb
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.exe
+D:\Proyectos\Arduino\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.pdb
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\CuentasParaPagar.exe.config
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.exe
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.pdb
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.csprojResolveAssemblyReference.cache
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.CatalogoCuentas.resources
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Principal.resources
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Properties.Resources.resources
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.csproj.GenerateResource.Cache
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\CuentasParaPagar.exe
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\CuentasParaPagar.pdb
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\Herramientas.dll
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\SQLite.NET.dll
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\itextsharp.dll
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\NCalc.dll
+D:\Proyectos\CuentasParaPagar\CuentasParaPagar\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\SQLite.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\SQLite3.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\CIC.exe.config
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\CIC.exe
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\CIC.pdb
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\Dominio.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\Herramientas.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\MySql.Data.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\SQLite.NET.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\itextsharp.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\Ionic.Zip.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\NCalc.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\InputSimulator.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\Dominio.pdb
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.AcercaDe.DesarrolladoPor.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.AcercaDe.EnviarCorreo.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Catalogos.CatalogoCuentas.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Catalogos.CatalogoTipoMovimiento.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Catalogos.EnvioRespaldo.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Consultas.ProyeccionFutura.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.ControlesDeUsuario.ContenedorCuentasMovimientosFuturos.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.ControlesDeUsuario.ContenedorSaldosAlDiaCuentas.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.ControlesDeUsuario.MovimientosEnUnDia.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.ControlesDeUsuario.MovimientosFuturosDeCuenta.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.ControlesDeUsuario.SaldoAlDiaCuenta.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Principal.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Properties.Resources.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Operaciones.RegistrarMovimiento.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.Consultas.HistorialDeMovimientos.resources
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CuentasParaPagar.csproj.GenerateResource.Cache
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CIC.exe
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\obj\Debug\CIC.pdb
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\AForge.Video.dll
+D:\Proyectos personales\CuentasParaPagar\CuentasParaPagar\bin\Debug\AForge.Video.DirectShow.dll

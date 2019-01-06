@@ -1,0 +1,11 @@
+--------- PASO 1:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --eliminando procedimiento sp_bi_drop  DROP PROCEDURE "SP_BI_DROP"...
+*RESULTADO: Exitoso
+*DURACIÓN: 00:00:00.193 - *HORA INICIO: 10:25:09 - *HORA FIN: 10:25:09
+
+--------- PASO 2:--------------------------------------------------------------------------
+*INSTRUCCIÓN: --un comentario de shell ## ping www.google.com...
+*RESULTADO: ERROR: ^C CMD: ^C
+*DURACIÓN: 00:00:01.269 - *HORA INICIO: 10:25:09 - *HORA FIN: 10:25:10
+El programa finalizó por un error a las 10:25:10 con una duración total de 00:00:01...
+

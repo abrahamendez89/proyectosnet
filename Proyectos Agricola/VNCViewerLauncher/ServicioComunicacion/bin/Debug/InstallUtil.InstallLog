@@ -1,0 +1,105 @@
+﻿
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+Excepción durante la fase de instalación.
+System.InvalidOperationException: No se puede abrir el Administrador de control de servicios en el equipo '.'. Puede que se requieran otros privilegios para realizar la operación.
+Se produjo una excepción interna System.ComponentModel.Win32Exception con el siguiente mensaje de error: Acceso denegado.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+Excepción durante la fase de instalación.
+System.InvalidOperationException: No se puede abrir el Administrador de control de servicios en el equipo '.'. Puede que se requieran otros privilegios para realizar la operación.
+Se produjo una excepción interna System.ComponentModel.Win32Exception con el siguiente mensaje de error: Acceso denegado.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+Excepción durante la fase de instalación.
+System.InvalidOperationException: No se puede abrir el Administrador de control de servicios en el equipo '.'. Puede que se requieran otros privilegios para realizar la operación.
+Se produjo una excepción interna System.ComponentModel.Win32Exception con el siguiente mensaje de error: Acceso denegado.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+Excepción durante la fase de instalación.
+System.InvalidOperationException: El usuario ha cancelado la instalación de los servicios en el archivo ejecutable D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: Acceso denegado
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: Acceso denegado
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.exe.
+El archivo está ubicado en D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\serviciocomunicacion.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.

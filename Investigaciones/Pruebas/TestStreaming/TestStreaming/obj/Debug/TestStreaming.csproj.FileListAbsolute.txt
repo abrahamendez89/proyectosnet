@@ -1,0 +1,30 @@
+D:\Proyectos\TestStreaming\TestStreaming\bin\Debug\TestStreaming.exe
+D:\Proyectos\TestStreaming\TestStreaming\bin\Debug\TestStreaming.pdb
+D:\Proyectos\TestStreaming\TestStreaming\bin\Debug\YoutubeExtractor.dll
+D:\Proyectos\TestStreaming\TestStreaming\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\TestStreaming\TestStreaming\bin\Debug\YoutubeExtractor.pdb
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming.csprojResolveAssemblyReference.cache
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\MainWindow.baml
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\MainWindow.g.cs
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\App.g.cs
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming_MarkupCompile.cache
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming.g.resources
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming.Properties.Resources.resources
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming.csproj.GenerateResource.Cache
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming.exe
+D:\Proyectos\TestStreaming\TestStreaming\obj\Debug\TestStreaming.pdb
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming.exe
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming.pdb
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\bin\Debug\TestStreaming.exe
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\bin\Debug\TestStreaming.pdb
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\bin\Debug\YoutubeExtractor.dll
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\bin\Debug\YoutubeExtractor.pdb
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\MainWindow.baml
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\MainWindow.g.cs
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\App.g.cs
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming_MarkupCompile.cache
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming.g.resources
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming.Properties.Resources.resources
+D:\Proyectos personales\KARAOKE\TestStreaming\TestStreaming\obj\Debug\TestStreaming.csproj.GenerateResource.Cache

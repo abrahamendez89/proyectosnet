@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+/media/abraham/F05E97425E970110/Proyectos/Java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3686178764.index
+/wshuellas/src/main/resources

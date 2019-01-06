@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title ng-cloack>{{NombreApp}}</title>
+    <link rel="stylesheet" href="lib/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="lib/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="lib/angular-material.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <!--<link rel="stylesheet" href="lib/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css">-->
+
+
+</head>
+
+<body ng-controller="indexController">
+
+    <div class="wrapper">
+        <div class="header colorTema">
+            <md-toolbar layout="row" layout-align="space between">  
+                <div id="divBotonesHome" ng-if="inicioSesion" class="navbar-brand" >
+                    <span ng-click="toggleLeft()"><a class="textColorNavBar" id="btnOpciones"   ><i class="fa fa-bars"></i></a></span>
+                    <span ng-click="goto('/principal')"><a class="textColorNavBar" id="btnHome" ng-if="inicioSesion"  ><i class="fa fa-home"></i></a></span>
+                </div>
+                <div  class="centrado">
+                    <a id="nombreOpciones" class="navbar-brand textColorNavBar" ng-click="goto('/principal')" >{{NombreApp}}</a>
+                </div>
+                <span ng-click="cerrarSesion()"><a class="navbar-brand textColorNavBar" id="btnSalir"  ng-if="inicioSesion"  ><i class="fa fa-power-off"></i></a></span>
+            </md-toolbar>
+        </div>
+        <div id="contenedorPrincipal" class="content">
+            <!-- content goes here-->
+            <div>
+                <ng-view>
+                </ng-view>
+                
+            </div>
+        </div>
+        <div class="footer colorTema textColorNavBar">
+            <div ng-cloak>
+                    <section flex>
+                        <md-sidenav class="md-sidenav-left" md-component-id="left" md-disable-backdrop md-whiteframe="4">
+                            <md-toolbar class="colorTemaMenu">
+                                <div layout="row" layout-align="space between center">
+                                    <a class="navbar-brand textColorNavBar" ng-if="inicioSesion" ng-click="toggleLeft()" ><i class="fa fa-arrow-left"></i></a>
+                                    <h1 class="md-toolbar-tools colorTemaMenu">Hola {{nombreUser}}</h1>
+                                </div>
+                            </md-toolbar>
+                            <md-content>
+                                    <md-card id="divOpcionesUser">
+                                            <md-card-title>
+                                                    <md-card-title-media>
+                                                            <div class="md-media-sm card-media">
+                                                                    <img class="img-circle" src="{{fotoPerfil}}">
+                                                            </div>
+                                                          </md-card-title-media>
+                                              <md-card-title-text>
+                                                <span class="md-subhead"><a ng-click="go('/')"><i class="fa fa-inbox"></i>  Notificaciones <span class="badge">0</span></a>*</span>
+                                                <span class="md-subhead"><a ng-click="go('/usuarioEditarDatos')"><i class="fa fa-edit">  Editar mis datos</i></a></span>
+                                                <span class="md-subhead"><a ng-click="go('/')"><i class="fa fa-list">  Ver mis problemáticas</i></a>*</span>
+                                              </md-card-title-text>
+                                              
+                                            </md-card-title>
+                                            <!--
+                                            <md-card-actions layout="row" layout-align="end center">
+                                              <md-button>Action 1</md-button>
+                                              <md-button>Action 2</md-button>
+                                            </md-card-actions> -->
+                                          </md-card>
+                                <!--
+                                <div>
+                                        <div id="divOpcionesUser">
+                                    <span>
+                                        <img class="img-circle" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjzeMLlmGX21FTbIVH-kgAJQT0TLp80Cvjf2PIYWSSX8Er7pfC">
+                                    </span>
+                                    <span>
+                                        <div class="opcionesUser">
+                                            <a href="#"><i class="fa fa-inbox"></i>  Notificaciones <span class="badge">42</span></a>
+                                        </div>
+                                        <div class="opcionesUser">
+                                            <a href="#"><i class="fa fa-vcard-o">  Editar mis datos</i></a>
+                                        </div>
+                                    
+                                    </span>
+                                </div>
+                                </div>
+                            -->
+                                <div id="divSecciones">
+                                        <h4>Opciones</h4>
+                                    </div>
+                                <div>
+                                    <div class="list-group">
+                                        <a class="list-group-item" ng-click="go('/problematicaAlta')">Registrar Problemática *</a>
+                                        <a class="list-group-item" ng-click="go('/problematicaForo')">Foro de problemáticas *</a>
+                                        <a class="list-group-item" ng-click="go('/')">Ver problemáticas solucionadas *</a>
+                                        <a class="list-group-item" ng-click="go('/')">Ver problemáticas en gestión *</a>
+                                        <a class="list-group-item" ng-click="go('/encuestas')">Votaciones</a>
+                                    </div>
+                                </div>
+                                
+                               <!-- 
+                                <div>
+                                    <br>
+                                    <br>
+                                    <div class="centrado">
+                                        <h4>Aquí encontrarás las opciones de la plataforma.</h4>
+                                        <br>
+                                        <img src="resources/underConstruction.jpg" height="150" width="200">
+                                        <br>
+                                        <br>
+                                    </div>
+
+                                </div>
+                            -->
+                            </md-content>
+                        </md-sidenav>
+                        <md-content flex layout-padding>
+                        </md-content>
+                    </section>
+                </div>
+
+            <div class="footer footerMargin">
+                Version: 20171210.1333
+            </div>
+        </div>
+    </div>
+</body>
+<!--<script src="lib/jquery-3.2.1.min.js" ></script>-->
+<script src="lib/angular.js"></script>
+<script src="lib/angular-route.min.js"></script>
+<script src="lib/ngStorage.min.js"></script>
+<script src="lib/ui-bootstrap-tpls-2.5.0.min.js"></script>
+
+
+<script src="lib/angular-animate.min.js"></script>
+<script src="lib/angular-aria.min.js"></script>
+<script src="lib/angular-messages.min.js"></script>
+<script src="lib/angular-material.min.js"></script>
+
+
+<script src="app.js"></script>
+
+<script src="services/direccionamientoService.js"></script>
+<script src="services/sesionService.js"></script>
+<script src="services/globalsService.js"></script>
+<script src="services/empleadoService.js"></script>
+<script src="services/personaService.js"></script>
+<script src="services/usuariosService.js"></script>
+<script src="services/domiciliosService.js"></script>
+<script src="services/encuestasService.js"></script>
+
+<script src="directives/onlyNumbersDirective.js"></script>
+<script src="directives/angular-image-compress.js"></script>
+<script src="directives/customOnChange.js"></script>
+
+<script src="filters/startFrom.js"></script>
+
+<script src="controllers/indexController.js"></script>
+<script src="controllers/loginController.js"></script>
+<script src="controllers/principalController.js"></script>
+<script src="controllers/empleadoController.js"></script>
+<script src="controllers/personaController.js"></script>
+<script src="controllers/recuperarContraController.js"></script>
+<script src="controllers/registroController.js"></script>
+<script src="controllers/problematicaAltaController.js"></script>
+<script src="controllers/problematicaForoController.js"></script>
+<script src="controllers/problematicaForoDetallesController.js"></script>
+<script src="controllers/usuarioEditarDatosController.js"></script>
+<script src="controllers/encuestasController.js"></script>
+<script src="controllers/encuestasDetallesController.js"></script>
+
+
+<!--<script src="js/index.js" ></script>-->
+
+</html>

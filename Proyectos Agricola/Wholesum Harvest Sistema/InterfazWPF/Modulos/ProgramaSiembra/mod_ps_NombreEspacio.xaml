@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" xmlns:InterfazWPF="clr-namespace:InterfazWPF" x:Class="InterfazWPF.Modulos.ProgramaSiembra.mod_ps_NombreEspacio"
+        Title="win_ps_NombreEspacio" Height="140.299" Width="331.985">
+    <Grid>
+        <Label Content="Nombre: " HorizontalAlignment="Left" Margin="32,10,0,0" VerticalAlignment="Top"/>
+
+        <ControlesUsuario:TextboxNormal x:Name="txt_NombreEspacio" HorizontalAlignment="Left" Margin="97,11,0,0" VerticalAlignment="Top" Width="184"/>
+
+        <InterfazWPF:Boton x:Name="btn_Cancelar" Text="Cancelar" HorizontalAlignment="Left" Margin="225,77,0,0" VerticalAlignment="Top" MouseDown="btn_Cancelar_MouseDown"/>
+        <InterfazWPF:Boton x:Name="btn_Aceptar" Text="Aceptar" HorizontalAlignment="Left" Margin="152,77,0,0" VerticalAlignment="Top" MouseDown="btn_Aceptar_MouseDown"/>
+        <CheckBox x:Name="chb_EsEspacioFinal" Content="Es espacio final" HorizontalAlignment="Left" Margin="181,50,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

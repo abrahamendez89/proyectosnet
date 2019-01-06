@@ -1,0 +1,12 @@
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\bin\Debug\MonitoreoSeñalCanal3.exe.config
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\bin\Debug\MonitoreoSeñalCanal3.exe
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\bin\Debug\MonitoreoSeñalCanal3.pdb
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MainWindow.baml
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MainWindow.g.cs
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\App.g.cs
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MonitoreoSeñalCanal3_MarkupCompile.cache
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MonitoreoSeñalCanal3.g.resources
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MonitoreoSeñalCanal3.Properties.Resources.resources
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MonitoreoSeñalCanal3.csproj.GenerateResource.Cache
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MonitoreoSeñalCanal3.exe
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\MonitoreoSeñalCanal3\obj\Debug\MonitoreoSeñalCanal3.pdb

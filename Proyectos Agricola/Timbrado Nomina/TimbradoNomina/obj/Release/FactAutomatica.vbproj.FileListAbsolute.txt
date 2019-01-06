@@ -1,0 +1,48 @@
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\ResolveAssemblyReference.cache
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.vbproj.GenerateResource.Cache
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.exe.config
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.exe
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.pdb
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.xml
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\Comunes.dll
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\ThoughtWorks.QRCode.dll
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\Comunes.pdb
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\Comunes.xml
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmEmpresas.resources
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmM1502001.resources
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.frmPrincipal.resources
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.Resources.resources
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.exe.licenses
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.exe
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.xml
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.pdb
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmM1505001.resources
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\CFD.pdb
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\CFD.xml
+C:\ENRIQUE\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmM1501002.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.exe.config
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.exe
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.xml
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.pdb
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.exe
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.pdb
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\FactAutomatica.xml
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\Comunes.dll
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\ThoughtWorks.QRCode.dll
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\CFD.pdb
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\CFD.xml
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\Comunes.pdb
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\bin\Release\Comunes.xml
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\ResolveAssemblyReference.cache
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmEmpresas.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmM1501002.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmM1502001.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.FrmM1505001.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.frmPrincipal.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\Sistema.Resources.resources
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.vbproj.GenerateResource.Cache
+C:\PRY\OTROS PROYECTOS\CAADES\FactAutomatica\FactAutomatica\obj\Release\FactAutomatica.exe.licenses
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\FactAutomatica\bin\Release\FactAutomatica.exe.config
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\FactAutomatica\obj\Release\FactAutomatica.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\FactAutomatica\obj\Release\FactAutomatica.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\FactAutomatica\obj\Release\FactAutomatica.pdb

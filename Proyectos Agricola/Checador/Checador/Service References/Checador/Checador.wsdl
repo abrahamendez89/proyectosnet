@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ChecarEmpleadoPorHuella">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="featureSet" />
+            <s:element minOccurs="0" maxOccurs="1" name="ccve_nomina" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ccve_temporada" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bdNomina" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="idChecador" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tamSegmentos" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="idHorario" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="esUnaPrueba" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ChecarEmpleadoPorHuellaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ChecarEmpleadoPorHuellaResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ChecarEmpleadoPorHuellaSoapIn">
+    <wsdl:part name="parameters" element="tns:ChecarEmpleadoPorHuella" />
+  </wsdl:message>
+  <wsdl:message name="ChecarEmpleadoPorHuellaSoapOut">
+    <wsdl:part name="parameters" element="tns:ChecarEmpleadoPorHuellaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ChecadorSoap">
+    <wsdl:operation name="ChecarEmpleadoPorHuella">
+      <wsdl:input message="tns:ChecarEmpleadoPorHuellaSoapIn" />
+      <wsdl:output message="tns:ChecarEmpleadoPorHuellaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ChecadorSoap" type="tns:ChecadorSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ChecarEmpleadoPorHuella">
+      <soap:operation soapAction="http://tempuri.org/ChecarEmpleadoPorHuella" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ChecadorSoap12" type="tns:ChecadorSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ChecarEmpleadoPorHuella">
+      <soap12:operation soapAction="http://tempuri.org/ChecarEmpleadoPorHuella" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Checador">
+    <wsdl:port name="ChecadorSoap" binding="tns:ChecadorSoap">
+      <soap:address location="http://192.168.140.126:8085/Checador.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ChecadorSoap12" binding="tns:ChecadorSoap12">
+      <soap12:address location="http://192.168.140.126:8085/Checador.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

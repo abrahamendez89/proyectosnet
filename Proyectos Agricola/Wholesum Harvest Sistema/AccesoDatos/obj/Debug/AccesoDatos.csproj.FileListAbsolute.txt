@@ -1,0 +1,24 @@
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\NCalc.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\AccesoDatos\bin\Debug\Herramientas.pdb

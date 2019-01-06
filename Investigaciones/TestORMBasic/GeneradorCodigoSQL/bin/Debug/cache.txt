@@ -1,0 +1,6 @@
+SERVIDOR = wholesum1.mssql.somee.com
+INSTANCIA = 
+BD = imagenes
+USUARIO = sa
+CONTRASEÑA = 1@TCE123
+SERVIDOR_INSTANCIA = 192.168.1.126\crop

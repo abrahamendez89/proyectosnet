@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{A379CA40-FF33-44C5-93B9-8936A1B04040}") = "DriverXtraGrid", "DriverXtraGrid.csproj", "{ADD6F305-0F2E-44F7-B503-B9EA8583BA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD6F305-0F2E-44F7-B503-B9EA8583BA0D}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{ADD6F305-0F2E-44F7-B503-B9EA8583BA0D}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{ADD6F305-0F2E-44F7-B503-B9EA8583BA0D}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{ADD6F305-0F2E-44F7-B503-B9EA8583BA0D}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

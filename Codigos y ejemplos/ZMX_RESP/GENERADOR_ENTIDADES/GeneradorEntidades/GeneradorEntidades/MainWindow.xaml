@@ -1,0 +1,45 @@
+﻿<Window x:Class="GeneradorEntidades.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeneradorEntidades"
+        mc:Ignorable="d"
+        Title="MainWindow"  >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="aUTO"/>
+            <RowDefinition Height="aUTO"/>
+            <RowDefinition Height="aUTO"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="label" Grid.Row="0" Grid.Column="0" Content="Tabla:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txtTabla" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top"  Margin="10,10,0,0" MinWidth="250"/>
+        <Button x:Name="button" Content="Buscar" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="10,10,0,0" Click="button_Click" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="btnGenerar" Grid.Row="0" Grid.Column="3" Content="Generar" HorizontalAlignment="Right" VerticalAlignment="Top"  Margin="10,10,10,0" Click="btnGenerar_Click" FontSize="16" FontWeight="Bold"/>
+        <DataGrid x:Name="dgTabla" AutoGenerateColumns="False" IsReadOnly="True" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Height="110"  Margin="10" MinHeight="300" FontSize="14" FontWeight="Bold" >
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="TABLE_NAME" Header="TABLA"  Binding ="{Binding TABLE_NAME}" Visibility="Collapsed" />
+                <DataGridTextColumn x:Name="COLUMN_NAME" Header="COLUMNA" Binding ="{Binding COLUMN_NAME}" />
+                <DataGridTextColumn x:Name="DATA_TYPE" Header="TIPO" Binding ="{Binding DATA_TYPE}"/>
+                <DataGridTextColumn x:Name="DATA_LENGTH" Header="LONGITUD" Binding ="{Binding DATA_LENGTH}"/>
+                <DataGridTextColumn x:Name="DATA_PRECISION" Header="PRESICION" Binding ="{Binding DATA_PRECISION}"/>
+                <DataGridTextColumn x:Name="DATA_SCALE" Header="ESCALA" Binding ="{Binding DATA_SCALE}"/>
+                <DataGridTextColumn x:Name="NULLABLE" Header="NULLABLE" Binding ="{Binding NULLABLE}"/>
+                <DataGridTextColumn x:Name="COLUMN_ID" Header="ID" Binding ="{Binding COLUMN_ID}"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Label x:Name="clase" Content="Clase" Grid.Row="2" Grid.Column="0" Margin="10,0,0,0" FontSize="14" FontWeight="Bold" ></Label>
+        <RichTextBox x:Name="rtbClaseResult" Grid.Row="3" Grid.Column="0" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  Margin="10,0,10,10" FontSize="16" >
+
+        </RichTextBox>
+
+    </Grid>
+</Window>

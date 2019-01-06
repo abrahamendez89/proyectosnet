@@ -1,0 +1,57 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:InterfazWPF"
+	mc:Ignorable="d"
+	x:Class="InterfazWPF.EspacioGrafico"
+	x:Name="UserControl">
+	<UserControl.Resources>
+		<Storyboard x:Key="EntroDetalle"/>
+		<Storyboard x:Key="SalioDetalle"/>
+		<Storyboard x:Key="EntroEliminar"/>
+		<Storyboard x:Key="SalioEliminar"/>
+		<Storyboard x:Key="EntroControl">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFDEDEDE"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle1">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="DarkGray"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="SalioControl">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFDEDEDE"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFB1B1B1"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle1">
+				<EasingColorKeyFrame KeyTime="0" Value="DarkGray"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF7C7C7C"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="entroCultivo"/>
+        <Storyboard x:Key="salioCultivo"/>
+    </UserControl.Resources>
+	<UserControl.Triggers>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter">
+			<BeginStoryboard x:Name="EntroControl_BeginStoryboard" Storyboard="{StaticResource EntroControl}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave">
+			<BeginStoryboard x:Name="SalioControl_BeginStoryboard" Storyboard="{StaticResource SalioControl}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="img_Cultivo">
+			<BeginStoryboard x:Name="entroCultivo_BeginStoryboard" Storyboard="{StaticResource entroCultivo}"/>
+			<BeginStoryboard x:Name="salioCultivo_BeginStoryboard" Storyboard="{StaticResource salioCultivo}"/>
+		</EventTrigger>
+	</UserControl.Triggers>
+
+	<Grid x:Name="LayoutRoot">
+		<Rectangle x:Name="rectangle" Fill="#FFB1B1B1" Stroke="Black" RadiusY="9.5" RadiusX="9.5" Margin="2.167,3,2.25,2.25"/>
+		<Rectangle x:Name="rectangle1" Fill="#FF7C7C7C" Stroke="Black" RadiusY="5.5" RadiusX="5.5" Margin="2,3,2,0" Height="23" VerticalAlignment="Top"/>
+		<TextBlock x:Name="txt_DetalleEspacio" Margin="8,28.001,8,6" TextWrapping="Wrap" Text="TextBlock" Foreground="Black" FontSize="10.667"/>
+		<TextBlock x:Name="txt_NombreEspacio" Height="14.833" Margin="8,8,47.583,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" FontSize="10.667"/>
+        <local:ImagenConResplandor x:Name="img_detalleDelEspacio" HorizontalAlignment="Right" Margin="0,5.667,5.75,0" Width="17.083" Height="17.166" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment" Imagen="1404427028_tool_preferences.png" ToolTip="Editar las caracteristicas del espacio" ColorResplandor="White"/>
+		<local:ImagenConResplandor x:Name="img_Cultivo" HorizontalAlignment="Right" Margin="0,5.667,25.083,0" Width="18.5" Height="17.166" VerticalAlignment="Top" Imagen="1406676875_tomato.png" d:LayoutOverrides="HorizontalAlignment" ToolTip="Editar las etapas de cultivos." ColorResplandor="White"/>
+	</Grid>
+</UserControl>

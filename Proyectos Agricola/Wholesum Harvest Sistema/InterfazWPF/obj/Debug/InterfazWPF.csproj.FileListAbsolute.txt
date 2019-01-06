@@ -1,0 +1,1014 @@
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\InterfazWPF.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Interop.EMFGENLib.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Interop.VLELib.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\InterfazWPF.csproj.ResolveComReference.cache
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\Login.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\Principal.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\App.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas_MarkupCompile.cache
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas_MarkupCompile.lref
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Vistas.exe.config
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Vistas.exe.manifest
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Vistas.application
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Vistas.exe
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Vistas.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\LogicaNegocios.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\LogicaNegocios.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\Login.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\Principal.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas.g.resources
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\InterfazWPF.Properties.Resources.resources
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\InterfazWPF.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas.exe.manifest
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas.application
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas.exe
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Vistas.pdb
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.g.cs
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\AForge.Video.DirectShow.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\AForge.Video.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.baml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\fastBinaryJSON.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.baml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Data.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.charting.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.charting.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Data.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.ganttview.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.ganttview.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\App.baml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.g.cs
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.DataVisualization.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.g.cs
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\InputSimulator.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\InputSimulator.xml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Accessibility.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\CrystalDecisions.Shared.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\FlashControlV71.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Microsoft.CSharp.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\UIAutomationProvider.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\UIAutomationTypes.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\EmfGen.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.g.cs
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\NCalc.dll
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.g.cs
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.dll
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.pdb
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.xml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.baml
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.g.cs
+D:\WHOLESUM_TF\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.baml
+D:\WHOLESUM_TF\InterfazWPF\bin\Debug\SQLite.NET.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Vistas.exe.config
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Interop.EMFGENLib.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Interop.VLELib.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\InterfazWPF.csproj.ResolveComReference.cache
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas.exe
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Vistas.exe.manifest
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Vistas.application
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Vistas.exe
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Vistas.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Accessibility.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\AForge.Video.DirectShow.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\AForge.Video.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\CrystalDecisions.Shared.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\fastBinaryJSON.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\FlashControlV71.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\InputSimulator.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\LogicaNegocios.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Microsoft.CSharp.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\UIAutomationProvider.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\UIAutomationTypes.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\SQLite.NET.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\NCalc.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\LogicaNegocios.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\InputSimulator.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\telerik.windows.controls.datavisualization.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\telerik.windows.controls.datavisualization.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Data.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Data.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\bin\Debug\EmfGen.dll
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\InterfazWPF.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\App.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\Login.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\Principal.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\App.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas_MarkupCompile.cache
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas_MarkupCompile.lref
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\Login.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\Principal.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.baml
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas.g.resources
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\InterfazWPF.Properties.Resources.resources
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\InterfazWPF.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas.exe.manifest
+D:\WHOLESUM_TF - copia\InterfazWPF\obj\Debug\Vistas.application
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.exe.config
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Interop.EMFGENLib.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Interop.VLELib.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.csproj.ResolveComReference.cache
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.exe
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.exe.manifest
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.application
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.exe
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Accessibility.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\AForge.Video.DirectShow.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\AForge.Video.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.Shared.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Dominio.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\fastBinaryJSON.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\FlashControlV71.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Herramientas.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\InputSimulator.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\LogicaNegocios.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.CSharp.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\UIAutomationProvider.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\UIAutomationTypes.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\SQLite.NET.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\itextsharp.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Ionic.Zip.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\NCalc.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\AccesoDatos.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Herramientas.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Dominio.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\LogicaNegocios.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\InputSimulator.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.datavisualization.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.datavisualization.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Data.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Data.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\AccesoDatos.pdb
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\EmfGen.dll
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.csprojResolveAssemblyReference.cache
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\App.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Login.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Principal.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\App.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas_MarkupCompile.cache
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas_MarkupCompile.lref
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Login.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Principal.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.baml
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.g.resources
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.Properties.Resources.resources
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.csproj.GenerateResource.Cache
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.exe.manifest
+D:\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.application
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.exe.config
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Interop.EMFGENLib.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Interop.VLELib.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.csproj.ResolveComReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.exe
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\App.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\AccesoNoPermitido.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\AccesoRapidoCatalogo.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BarraMarcadores.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Boton.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMarcador.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionMenu.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoOpcionVentanaEmergente.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoSistema.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoToolBox.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ImagenConResplandor.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Notificacion.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\SegmentoAvanceProceso.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Tab.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextBoxBusquedaEnPrincipal.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxPassword.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxNormal.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumeroDecimal.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxSoloNumero.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\VisorConsultas.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\FormularioEmergenteConTools.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Login.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Principal.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ContenedorActividades.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\DiagramaGantt.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\ElementoActividad.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testGantt.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\Croquis.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionado.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioSeleccionadoInicio.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\SelectorAgregarEtapa.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CalendarioPresupuesto.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_GraficoDeProduccion.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoGantt.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Reportes\VisorReporte.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\App.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas_MarkupCompile.cache
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas_MarkupCompile.lref
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.exe.manifest
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.application
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.exe
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Vistas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Accessibility.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\AForge.Video.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Dominio.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\fastBinaryJSON.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\FlashControlV71.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\InputSimulator.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\LogicaNegocios.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.CSharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\UIAutomationProvider.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\UIAutomationTypes.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Herramientas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Dominio.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\LogicaNegocios.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\EQATEC.Analytics.Monitor.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\InputSimulator.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Chart.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Charting.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Data.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.datavisualization.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.datavisualization.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\telerik.windows.controls.gridview.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Data.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Data.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Extensibility.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\es\Microsoft.Windows.Design.Interaction.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\EmfGen.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\BuscadorCatalogo.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\CatalogoAutomatico.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionSistema.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguracionUsuario.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ConfiguraciónEnLogin.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\BuscadorCatalogoVentana.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorOpcionesElementoMenu.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorToolbox.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ContenedorVentanas.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\ElementoMenu.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\Menu.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\ControlesUsuario\TextboxBusquedaCatalogo.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EditarPermisosFormulario.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\EnviarSoporte.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Login.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\Principal.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VentanaDialogo.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\AdministracionSistema\VisorImagenes.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoActividadNomina.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoFormulas.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoMateriales.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoPerfiles.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadesMedida.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTemporadas.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoProveedores.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoUnidadTiempo.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoActividadSiembra.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoContenedores.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCubiertas.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoCultivos.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoDensidades.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoEtapasConfiguracionSiembra.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoSubstratos.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoTecnologias.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_ps_CatalogoVariedades.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ControlesUsuarioGenerales\win_testMaps.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\EspacioGrafico.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\Controles\mod_ps_SeleccionEtapaCatalogo.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionDatosEspacioFisico.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_ConfiguracionEspacioFisicoSelectorEtapa.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_ConfiguracionDeVariedadesYTransplantes.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_CroquisProgramaSiembra.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\mod_ps_NombreEspacio.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoManoObraGrid.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PresupuestoMaterialesGrid.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_PrincipalProgramaSiembra.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_resultadoCalculoActividades.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_VisualizadorPresupuestoCostos.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.g.resources
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.Properties.Resources.resources
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\InterfazWPF.csproj.GenerateResource.Cache
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.exe.manifest
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Vistas.application
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_importarCajasProyectadas.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\ProgramaSiembra\win_ps_importarCajasProyectadas.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoCategoriasUnidadesMedida.g.cs
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\obj\Debug\Modulos\Catalogos\win_gen_CatalogoCategoriasUnidadesMedida.baml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Antlr3.Runtime.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\System.Web.Optimization.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\WebGrease.dll
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Antlr3.Runtime.pdb
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\Wholesum Harvest Sistema\InterfazWPF\bin\Debug\System.Web.Optimization.xml

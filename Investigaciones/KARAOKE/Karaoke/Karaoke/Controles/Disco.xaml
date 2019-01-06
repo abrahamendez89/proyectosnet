@@ -1,0 +1,90 @@
+﻿<UserControl x:Class="Karaoke.Controles.Disco"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+	<UserControl.Resources>
+		<Storyboard x:Key="ModoPistas">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="lb_pistas">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_fondoDisco">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lb_pistas">
+				<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+				<DiscreteObjectKeyFrame KeyTime="0:0:0.4" Value="{x:Static Visibility.Visible}"/>
+			</ObjectAnimationUsingKeyFrames>
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="img_fondoDisco">
+				<DiscreteObjectKeyFrame KeyTime="0:0:0.4" Value="{x:Static Visibility.Visible}"/>
+			</ObjectAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_fondo">
+				<EasingColorKeyFrame KeyTime="0:0:0.4" Value="#FFDC6F00"/>
+			</ColorAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(Rectangle.RadiusX)" Storyboard.TargetName="rtg_fondo">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="10.167"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(Rectangle.RadiusY)" Storyboard.TargetName="rtg_fondo">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="10.167"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="ModoCaratula">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_fondoDisco">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="lb_pistas">
+				<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+				<DiscreteObjectKeyFrame KeyTime="0:0:0.1" Value="{x:Static Visibility.Hidden}"/>
+			</ObjectAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="lb_pistas">
+				<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rtg_fondo">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFDC6F00"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.1" Value="#FF181818"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+    <Grid>
+    	<Rectangle x:Name="rtg_fondo" Stroke="Black" RadiusY="9.5" RadiusX="9.5" Fill="#FF181818"/>
+    	<Image x:Name="img_fondoDisco" Margin="8,8,8,39" Stretch="Fill"/>
+    	<ListBox x:Name="lb_pistas" Margin="8,34.666,8,8" Foreground="White" RenderTransformOrigin="0.5,0.5" Opacity="0" Visibility="Hidden" FontSize="14" BorderBrush="#FF7A7A7A" ScrollViewer.HorizontalScrollBarVisibility="Hidden" ScrollViewer.VerticalScrollBarVisibility="Auto">
+    		<ListBox.Background>
+    			<SolidColorBrush Color="#9A000000"/>
+    		</ListBox.Background>
+    		<ListBox.RenderTransform>
+    			<TransformGroup>
+    				<ScaleTransform/>
+    				<SkewTransform/>
+    				<RotateTransform/>
+    				<TranslateTransform/>
+    			</TransformGroup>
+    		</ListBox.RenderTransform>
+    	</ListBox>
+    	<TextBlock x:Name="txt_codigo" HorizontalAlignment="Left" Height="27" Margin="8,0,0,8" TextWrapping="Wrap" Text="####" VerticalAlignment="Bottom" Width="66" TextAlignment="Center" RenderTransformOrigin="0.5,0.5" Foreground="White" FontWeight="Bold" FontSize="13.333">
+    		<TextBlock.RenderTransform>
+    			<TransformGroup>
+    				<ScaleTransform/>
+    				<SkewTransform/>
+    				<RotateTransform/>
+    				<TranslateTransform/>
+    			</TransformGroup>
+    		</TextBlock.RenderTransform>
+    	</TextBlock>
+    	<TextBlock x:Name="txt_titulo" Height="27" Margin="77,0,19,8" Text="un nombre de artista" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" Foreground="White" FontWeight="Bold" FontSize="13.333">
+    		<TextBlock.RenderTransform>
+    			<TransformGroup>
+    				<ScaleTransform/>
+    				<SkewTransform/>
+    				<RotateTransform/>
+    				<TranslateTransform/>
+    			</TransformGroup>
+    		</TextBlock.RenderTransform>
+    	</TextBlock>
+            
+    </Grid>
+</UserControl>

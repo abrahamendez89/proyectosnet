@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="InterfazWPF.AdministracionSistema.ControlesUsuario.TextboxNormal"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignWidth="100" Height="25">
+	<UserControl.Resources>
+		<Storyboard x:Key="OnMouseEnter1">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="txt_Algo">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="White"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="ellipse">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="White"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="ellipse1">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="White"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="OnMouseLeave1">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="ellipse">
+				<EasingColorKeyFrame KeyTime="0" Value="White"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FFF0F0F0"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="ellipse1">
+				<EasingColorKeyFrame KeyTime="0" Value="White"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FFF0F0F0"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="txt_Algo">
+				<EasingColorKeyFrame KeyTime="0" Value="White"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FFF0F0F0"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+	<UserControl.Triggers>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter">
+			<BeginStoryboard Storyboard="{StaticResource OnMouseEnter1}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave">
+			<BeginStoryboard x:Name="OnMouseLeave1_BeginStoryboard" Storyboard="{StaticResource OnMouseLeave1}"/>
+		</EventTrigger>
+	</UserControl.Triggers>
+    <Grid>
+        <Ellipse x:Name="ellipse" Fill="#FFF0F0F0" HorizontalAlignment="Left" Stroke="Black" Width="14" OpacityMask="Black"/>
+        <Ellipse x:Name="ellipse1" Fill="#FFF0F0F0" Stroke="Black" HorizontalAlignment="Right" Width="14" OpacityMask="Black"/>
+        <TextBox x:Name="txt_Algo" Margin="7,0" KeyDown="txt_Algo_KeyDown" PreviewTextInput="txt_Algo_PreviewTextInput" BorderBrush="White" SelectionBrush="#FF00D1FF" BorderThickness="0" OpacityMask="Black" Background="#FFF0F0F0" VerticalContentAlignment="Center" PreviewKeyDown="txt_Algo_PreviewKeyDown"/>
+        <Path Data="M7,0.33333333" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="1" Margin="7,0.333,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+        <Path Data="M7,0.333 L93,0.333" Fill="#FFF4F4F5" Height="1" Margin="6.062,0,5.602,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top"/>
+        <Path Data="M7,0.333 L93,0.333" Fill="#FFF4F4F5" Margin="6.25,0,5.874,0" Stretch="Fill" Stroke="Black" Height="1" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</UserControl>

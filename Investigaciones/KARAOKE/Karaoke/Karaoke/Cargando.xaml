@@ -1,0 +1,14 @@
+﻿<Window x:Class="Karaoke.Cargando"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cargando" Height="124.303" Width="512.749" Background="#00000000" WindowStyle="None" ShowInTaskbar="False" WindowStartupLocation="CenterScreen" AllowsTransparency="True" Icon="iconoPrograma.ico">
+    <Grid>
+        <Rectangle Fill="Black" Stroke="Black" RadiusY="9.5" RadiusX="9.5"/>
+
+        <Label Content="Cargando contenido multimedia..." HorizontalAlignment="Left" Margin="150,36,0,0" VerticalAlignment="Top" Foreground="#FFD4D4D4" FontSize="13.333" FontWeight="Bold"/>
+        <MediaElement x:Name="mediaElement" Margin="52,28,417,54"/>
+        <TextBlock x:Name="txt_texto" HorizontalAlignment="Left" Margin="24,75,0,0" Text="" VerticalAlignment="Top" Width="468" Foreground="#FFEAE9E9"/>
+        <TextBlock x:Name="txt_textoCreador" HorizontalAlignment="Left" TextAlignment="Right" Margin="35,100,0,0" Text="Desarrollado por: Abraham Méndez - abrahamendez89@hotmail.com" VerticalAlignment="Top" Width="468" Foreground="#FFB0B0B0" FontSize="10.667"/>
+
+    </Grid>
+</Window>

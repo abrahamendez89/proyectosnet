@@ -1,0 +1,19 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" mc:Ignorable="d" x:Class="InterfazWPF.Modulos.Catalogos.win_ps_CatalogoActividadSiembra"
+        Title="win_ps_CatalogoActividadSiembra" Height="203.579" Width="345.789">
+    <Grid>
+
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_Buscador" HorizontalAlignment="Left" Margin="159,11,0,0" VerticalAlignment="Top" Height="24" Width="155"/>
+        <Label Content="Actividad siembra:" HorizontalAlignment="Left" Margin="27,9,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nombre de actividad:" HorizontalAlignment="Left" Margin="27,61,0,0" VerticalAlignment="Top"/>
+
+        <ControlesUsuario:TextboxNormal x:Name="txt_nombreActividad" HorizontalAlignment="Left" Margin="159,61,0,0" VerticalAlignment="Top" Width="155"/>
+        <Label Content="Duración:" HorizontalAlignment="Left" Margin="27,123,0,0" VerticalAlignment="Top"/>
+        <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_duracion" HorizontalAlignment="Left" Margin="159,123,0,0" VerticalAlignment="Top" Width="155"/>
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_buscadorUnidadTiempo" HorizontalAlignment="Left" Margin="159,94,0,0" VerticalAlignment="Top" Height="24" Width="155"/>
+        <Label Content="Unidad de tiempo:" HorizontalAlignment="Left" Margin="27,94,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

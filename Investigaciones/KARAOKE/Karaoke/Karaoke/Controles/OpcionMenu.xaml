@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="Karaoke.Controles.OpcionMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="43.5" Width="331.666">
+	<UserControl.Resources>
+		<Storyboard x:Key="Seleccionar">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.1" Value="#FFDC6F00"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="Deseleccionar">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFDC6F00"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.1" Value="#FF181818"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+    <Grid>
+            
+    	<Rectangle x:Name="rectangle" Fill="#CA181818" Stroke="Black" RadiusY="9.5" RadiusX="9.5" Opacity="0.8"/>
+            
+    	<Image x:Name="img_imagen" Margin="9.5,2,0,2.5" Stretch="Fill" HorizontalAlignment="Left" Width="41"/>
+    	<TextBlock x:Name="txt_titulo" Margin="79.5,3,12.666,0" Text="TextBlock" Foreground="White" FontSize="14.667" Height="30.5" VerticalAlignment="Top"/>
+    	<TextBlock x:Name="txt_informacion" Margin="57,0,12.666,-1.5" Text="TextBlock" Foreground="#FFB1B1B1" Height="18" VerticalAlignment="Bottom" d:LayoutOverrides="VerticalAlignment" FontSize="10.667"/>
+    	<TextBlock x:Name="txt_numeroPista" HorizontalAlignment="Left" Margin="57,3,0,10" Width="18.5" Foreground="White" FontSize="14.667"/>
+        <ProgressBar x:Name="pb_descargado" Margin="57,0,10,4" Height="2" VerticalAlignment="Bottom" Foreground="#FFE60000" Visibility="Hidden"/>
+        <TextBlock x:Name="txt_nombreCategoria" Margin="65,6,12.666,10" TextWrapping="Wrap" Text="TextBlock" Foreground="White" FontSize="18.667"/>
+
+    </Grid>
+</UserControl>

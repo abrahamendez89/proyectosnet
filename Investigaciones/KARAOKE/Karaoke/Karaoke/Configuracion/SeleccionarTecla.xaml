@@ -1,0 +1,11 @@
+﻿<Window x:Class="Karaoke.Configuracion.SeleccionarTecla"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Presiona la tecla a usar" Height="139.279" Width="319.124" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Tecla seleccionada:" HorizontalAlignment="Left" Margin="23,20,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txt_tecla" HorizontalAlignment="Left" Margin="139,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" Height="21"/>
+        <Button x:Name="btn_aceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="121,69,0,0" Width="75" Height="22" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

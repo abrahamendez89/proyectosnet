@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="UserControlsSIZ.Iconos.IconAwesomeSIZ"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UserControlsSIZ.Iconos"
+             xmlns:properties="clr-namespace:UserControlsSIZ.Properties"
+             mc:Ignorable="d" Background="Red" >
+    <UserControl.Resources>
+        <Style x:Key="FontAwesome">
+            <Setter Property="TextElement.FontFamily" Value="/Fonts/Awesome/fontawesome.ttf#FontAwesome" />
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <!--Style="{DynamicResource FontAwesome}"-->
+        <!--FontFamily="./resources/#FontAwesome"-->
+
+        <TextBlock x:Name="txtIcono" 
+                   Text="&#xf004;"
+                   Style="{DynamicResource FontAwesome}" 
+                   Foreground="Yellow"
+                   FontSize="13" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Center" RenderOptions.EdgeMode="Aliased" />
+
+    </Grid>
+</UserControl>

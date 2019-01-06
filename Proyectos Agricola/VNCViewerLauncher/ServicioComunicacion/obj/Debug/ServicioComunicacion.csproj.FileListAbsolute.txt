@@ -1,0 +1,17 @@
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\ServicioComunicacion.exe
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\ServicioComunicacion.pdb
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\obj\Debug\ServicioComunicacion.csprojResolveAssemblyReference.cache
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\obj\Debug\ServicioComunicacion.exe
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\obj\Debug\ServicioComunicacion.pdb
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\Dominio.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\Herramientas.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\SQLite.NET.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\itextsharp.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\NCalc.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\Herramientas.pdb
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\bin\Debug\Dominio.pdb
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\obj\Debug\ServicioComunicacion.ProjectInstaller.resources
+D:\Proyectos\VNCViewerLauncher\ServicioComunicacion\obj\Debug\ServicioComunicacion.csproj.GenerateResource.Cache

@@ -1,0 +1,144 @@
+body{
+	background: gray;
+}
+
+#pagina { 
+	width: 800px; 
+	margin: 0 auto; 
+	background: white;
+}
+#datosFactura{
+	width: 250px;
+	float: right;
+	border: 1px solid;
+	padding: 5px;
+}
+#datosXML{
+	width: 250px;
+	float: right;
+	margin-top: 10px;
+	border: 1px solid;
+	padding: 5px;
+}
+#encabezado {
+    position: relative;
+    overflow: hidden;
+    background: #ecf0f1;
+}
+#datosEmisor{
+	position: relative;
+	width: 400px;
+	float: left;
+	border: 1px solid;
+	padding: 5px;
+}
+#datosReceptor{
+	border: 1px solid;
+	padding: 5px;
+}
+#contenedorPago {
+    position: relative;
+    overflow: hidden;
+    margin-top: 10px;
+}
+#contenedorDatosFiscales {
+    position: relative;
+    overflow: hidden;
+    background: #ecf0f1;
+    margin-top: 10px;
+}
+#totalesConImpuestos{
+	float: right;
+}
+
+#formaPago {
+    float: left;
+}
+#cadenasSAT {
+    float: left;
+}
+#datosSAT {
+    float: right;
+}
+.contenedor{
+	padding: 10px;
+}
+table { 
+	border-collapse: collapse; 
+	width: 100%
+}
+table td, table th {
+	padding: 2px;
+	font-size: 11px;
+}
+
+#concepto td {
+    text-align: center;
+}
+.descripcion{
+	text-align: left !important;
+}
+#mensajeInicio{
+	margin: 10px;
+	text-align: center;
+}
+.emisorDato{
+	width: 120px;
+}
+.facturaDato{
+	width: 80px;
+}
+
+#datosReceptor1 {
+    float: left;
+    width: 400px;
+}
+
+#datosReceptor2 {
+    float: right;
+    width: 250px;
+}
+
+#contenedorReceptor{
+	overflow: hidden;
+	/* border: 1px solid; */
+	padding: 10px;
+	/* margin: 10px; */
+	background: #ecf0f1;
+	margin-top: 10px;
+}
+
+#tablaConceptos tr, #tablaConceptos td, #tablaConceptos th {
+    border: 1px solid;
+}
+
+#pagina {
+    padding: 10px;
+}
+
+#contenedorConceptos {
+    background: #ecf0f1;
+    margin-top: 10px;
+}
+
+#contenedorSecundario {
+    overflow: hidden;
+    border: 1px solid;
+    padding: 5px;
+}
+
+#totalesConImpuestos table td {
+    border: 1px solid;
+}
+
+#totalesConImpuestos td {
+    width: 100px;
+}
+
+#cadenasSAT td {
+    border: 1px solid;
+}
+
+#datosSAT td {
+    border: 1px solid;
+}

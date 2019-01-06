@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://www.foliosdigitalespac.com/ws-folios/WS-TFD.asmx?wsdl" docRef="https://www.foliosdigitalespac.com/ws-folios/WS-TFD.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://www.foliosdigitalespac.com/ws-folios/WS-TFD.asmx" xmlns:q1="https://www.foliosdigitalespac.com/WS-Folios" binding="q1:WS_FD_TFDSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://www.foliosdigitalespac.com/ws-folios/WS-TFD.asmx" xmlns:q2="https://www.foliosdigitalespac.com/WS-Folios" binding="q2:WS_FD_TFDSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

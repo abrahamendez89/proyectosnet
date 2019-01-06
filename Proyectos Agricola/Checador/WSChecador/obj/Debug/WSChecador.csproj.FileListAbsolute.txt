@@ -1,0 +1,15 @@
+D:\Proyectos\Checador\WSChecador\bin\WSChecador.dll
+D:\Proyectos\Checador\WSChecador\bin\WSChecador.pdb
+D:\Proyectos\Checador\WSChecador\obj\Debug\WSChecador.csprojResolveAssemblyReference.cache
+D:\Proyectos\Checador\WSChecador\obj\Debug\WSChecador.dll
+D:\Proyectos\Checador\WSChecador\obj\Debug\WSChecador.pdb
+D:\Proyectos\Checador\WSChecador\bin\DPFPGuiNET.dll
+D:\Proyectos\Checador\WSChecador\bin\DPFPShrNET.dll
+D:\Proyectos\Checador\WSChecador\bin\DPFPVerNET.dll
+D:\Proyectos\Checador\WSChecador\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Checador\WSChecador\bin\Herramientas.dll
+D:\Proyectos\Checador\WSChecador\bin\Herramientas.pdb
+D:\Proyectos\Checador\WSChecador\bin\itextsharp.dll
+D:\Proyectos\Checador\WSChecador\bin\Ionic.Zip.dll
+D:\Proyectos\Checador\WSChecador\bin\NCalc.dll
+D:\Proyectos\Checador\WSChecador\bin\SQLite.NET.dll

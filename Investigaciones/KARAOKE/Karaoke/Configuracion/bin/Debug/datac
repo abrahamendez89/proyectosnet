@@ -1,0 +1,34 @@
+KARAOKE_CARPETAS = 2
+KARAOKE_CARPETAS_0 = K=J:\Contenido\karaoke\Todas (Incluir subcarpetas)
+KARAOKE_CARPETAS_1 = K=J:\YOUTUBE_DESCARGAS\KARAOKE (Incluir subcarpetas)
+KARAOKE_CARPETAS_2 = K=C:\Users\abrahamm\Desktop\Sistema nube (Incluir subcarpetas)
+MUSICA_CARPETAS = 2
+MUSICA_CARPETAS_0 = M=J:\Contenido\Musica (Incluir subcarpetas)
+VIDEOS_CARPETAS = 2
+VIDEOS_CARPETAS_0 = V=J:\Contenido\Videos (Incluir subcarpetas)
+TECLA_1 = NumPad1
+TECLA_2 = NumPad2
+TECLA_3 = NumPad3
+TECLA_4 = NumPad4
+TECLA_5 = NumPad5
+TECLA_6 = NumPad6
+TECLA_7 = NumPad7
+TECLA_8 = NumPad8
+TECLA_9 = NumPad9
+AutoActualizarContenido = si
+MUSICA_CARPETAS_1 = M=J:\YOUTUBE_DESCARGAS\MUSICA (Incluir subcarpetas)
+VIDEOS_CARPETAS_1 = V=J:\YOUTUBE_DESCARGAS\VIDEOS (Incluir subcarpetas)
+IniciarEnPantallaCompleta = 
+UsarPreparacionKaraoke = 
+SegundosFullScreenReproductor = 
+FilasInterfaz = 
+ColumnasInterfaz = 
+SegundosPreparacionKaraoke = 
+TeclaMoneda = 
+UsarModoCreditos = 
+HabilitarAleatorio = 
+MensajeModoCreditoMoneda = 
+PulsacionesMonedas = 
+MensajeNegocio = 
+LogotipoNegocio = 
+PistasAleatorias = 

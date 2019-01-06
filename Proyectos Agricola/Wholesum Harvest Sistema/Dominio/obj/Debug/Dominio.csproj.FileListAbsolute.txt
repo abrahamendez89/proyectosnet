@@ -1,0 +1,28 @@
+D:\WHOLESUM_TF\Dominio\bin\Debug\Dominio.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\Dominio.pdb
+D:\WHOLESUM_TF\Dominio\bin\Debug\AccesoDatos.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\Herramientas.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\AccesoDatos.pdb
+D:\WHOLESUM_TF\Dominio\bin\Debug\Herramientas.pdb
+D:\WHOLESUM_TF\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Dominio\obj\Debug\Dominio.dll
+D:\WHOLESUM_TF\Dominio\obj\Debug\Dominio.pdb
+D:\WHOLESUM_TF\Dominio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\itextsharp.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\Ionic.Zip.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\NCalc.dll
+D:\WHOLESUM_TF\Dominio\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\obj\Debug\Dominio.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\Herramientas.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\itextsharp.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\NCalc.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\Herramientas.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Wholesum Harvest Sistema\Dominio\bin\Debug\InputSimulator.dll

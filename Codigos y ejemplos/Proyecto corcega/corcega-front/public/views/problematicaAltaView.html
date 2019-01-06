@@ -1,0 +1,61 @@
+<md-content layout-padding id="popupContainer" >
+    <form name="Form">
+        <md-card flex="flex" class="carta" >
+            <div>
+                <h3>Descripción</h3>
+            </div>
+            <div layout-gt-xs="row">
+                <md-input-container flex-gt-xs class="md-block">
+                        <label>Titulo del problema (Descripción corta)</label>
+                        <textarea ng-model="problematica.descripcion" required="" md-maxlength="80" rows="1" md-select-on-focus></textarea>
+                </md-input-container>
+            </div>
+            <div layout-gt-xs="row">
+                    <md-input-container flex-gt-xs class="md-block">
+                            <label>Explicación del problema</label>
+                            <textarea ng-model="problematica.descripcion" required="" md-maxlength="200" rows="3" md-select-on-focus></textarea>
+                    </md-input-container>
+                </div>
+            <div layout-gt-xs="row">
+                    <md-input-container flex-gt-xs class="md-block">
+                        <label>¿Cuál es tu propuesta de solución?</label>
+                        <textarea ng-model="problematica.solucion" md-maxlength="200" rows="2" md-select-on-focus></textarea>
+                    </md-input-container>
+                </div>
+            <div layout-gt-xs="row">
+                <md-input-container flex-gt-xs class="md-block">
+                    <label>Lugar de la problemática</label>
+                    <input ng-model="problematica.ubicacion" required="" md-maxlength="50">
+                </md-input-container>
+            </div>  
+        </md-card>
+        <md-card flex="flex" class="carta" >
+            <div>
+                <h3>Adjuntar fotos</h3>
+            </div>
+            <div layout-gt-xs="row">
+                <input on-select-image='updateImageArray' class="ng-hide" id="input-file-id" type="file" accept="image/*" ng-model="imageList2" image="imageList2" resize-max-height="400" resize-max-width="500" resize-quality="0.5" resize-type="image/jpg" ng-image-compress/>
+                <label for="input-file-id" class="md-button md-raised md-primary">Subir foto</label>
+            </div>
+            <div layout-gt-xs="row">
+                <div>
+                    <h5 ng-if="imagenes.length > 0">Fotos cargadas({{imagenes.length}}):</h5>
+                    <span ng-repeat="item in imagenes">
+                                <img class="thumb" ng-src="{{item.compressed.dataURL}}"  />
+                    </span>
+                </div>
+            </div>
+            <!--
+            <div layout-gt-xs="row">
+                
+                    <div ng-repeat="item in imagenes">
+                        Archivo: {{item.file.name}}
+                    </div>
+            </div>-->
+        </md-card>
+        <div class="centrado">
+                <md-button class="md-raised md-primary" ng-click="goto('/login')">Volver</md-button>
+                <md-button ng-disabled="!Form.$valid || (user.contrasena!=undifined && user.contrasena!=contrasena2) || user.contrasena.length < 6 || user.contrasena.length > 10" ng-click="registrarUser($event);" class="md-raised md-primary">&nbsp Crear problemática &nbsp</md-button>
+        </div>
+    </form>
+</md-content>

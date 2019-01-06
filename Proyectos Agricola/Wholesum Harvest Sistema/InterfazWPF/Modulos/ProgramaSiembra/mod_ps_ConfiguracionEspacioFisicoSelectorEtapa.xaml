@@ -1,0 +1,48 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="InterfazWPF.Modulos.ProgramaSiembra.mod_ps_ConfiguracionEspacioFisicoSelectorEtapa"
+        Title="mod_ps_ConfiguracionEspacioFisicoSelectorEtapa" WindowStartupLocation="CenterScreen" Height="120.677" Width="333.835" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}">
+	<Window.Resources>
+		<Storyboard x:Key="OnMouseEnter1"/>
+		<Storyboard x:Key="sobreCerrar">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_cerrarReflejo">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="fueraCerrar">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_cerrarReflejo">
+				<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="img_cerrar">
+			<BeginStoryboard x:Name="sobreCerrar_BeginStoryboard" Storyboard="{StaticResource sobreCerrar}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="img_cerrar">
+			<BeginStoryboard x:Name="fueraCerrar_BeginStoryboard" Storyboard="{StaticResource fueraCerrar}"/>
+		</EventTrigger>
+	</Window.Triggers>
+    <Grid>
+        <Rectangle Stroke="Black" Margin="0,0,0.501,0.677" RadiusY="8.833" RadiusX="8.833" Opacity="0.6">
+        	<Rectangle.Fill>
+        		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+        			<GradientStop Color="Black"/>
+        			<GradientStop Color="Black" Offset="1"/>
+        		</LinearGradientBrush>
+        	</Rectangle.Fill>
+        </Rectangle>
+        
+        <TextBlock x:Name="txt_mensaje" Height="16.667" Margin="8,6,78.667,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"><Run Text="Selecciona una etapa de "/></TextBlock>
+        <ControlesUsuario:AlignableWrapPanel x:Name="pnl_etapas" Margin="10,28.667,8,8"/>
+        <Image x:Name="img_cerrarReflejo" HorizontalAlignment="Right" Margin="0,5,6.668,0" Width="22.667" Height="22.667" VerticalAlignment="Top" Source="/Vistas;component/AdministracionSistema/ControlesUsuario/1403562203_Close_Box_Red.png" Opacity="0">
+        	<Image.Effect>
+        		<DropShadowEffect Color="White" ShadowDepth="0"/>
+        	</Image.Effect>
+        </Image>
+        <Image x:Name="img_cerrar" HorizontalAlignment="Right" Margin="0,5,6.668,0" Width="22.667" Height="22.667" VerticalAlignment="Top" Source="/Vistas;component/AdministracionSistema/ControlesUsuario/1403562203_Close_Box_Red.png"/>
+        <Image x:Name="img_basurero" Height="21.666" Width="24.667" HorizontalAlignment="Right" Margin="0,5.335,37.355,0" VerticalAlignment="Top" Source="1411099016_23-Full Trash.png" AllowDrop="True"/>
+    </Grid>
+</Window>

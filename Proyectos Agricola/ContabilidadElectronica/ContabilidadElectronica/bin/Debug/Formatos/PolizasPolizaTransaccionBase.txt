@@ -1,0 +1,7 @@
+<PLZ:Transaccion NumCta="@NumCta" DesCta="@DesCta" Concepto="@Concepto" Debe="@Debe" Haber="@Haber">
+@ComprobantesNacionales
+@ComprobantesOtrosNacionales
+@ComprobantesExtranjeros
+@Cheques
+@Transferencias
+</PLZ:Transaccion>

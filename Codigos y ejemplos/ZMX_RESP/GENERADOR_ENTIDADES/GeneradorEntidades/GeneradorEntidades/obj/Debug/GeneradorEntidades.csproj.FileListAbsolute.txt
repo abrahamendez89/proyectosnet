@@ -1,0 +1,17 @@
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\bin\Debug\GeneradorEntidades.exe.config
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades.csprojResolveAssemblyReference.cache
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\MainWindow.g.cs
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\App.g.cs
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades_MarkupCompile.cache
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades_MarkupCompile.lref
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\bin\Debug\GeneradorEntidades.exe
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\bin\Debug\GeneradorEntidades.pdb
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\bin\Debug\ACCESO_DATOS.dll
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\bin\Debug\ACCESO_DATOS.pdb
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\MainWindow.baml
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades.g.resources
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades.Properties.Resources.resources
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades.csproj.GenerateResource.Cache
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades.exe
+D:\ERPZMX\GENERADOR_ENTIDADES\GeneradorEntidades\GeneradorEntidades\obj\Debug\GeneradorEntidades.pdb

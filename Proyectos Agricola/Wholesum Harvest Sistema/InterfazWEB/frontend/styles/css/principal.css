@@ -1,0 +1,12 @@
+﻿body {
+    margin:0px;
+}
+
+.fondoNegro {
+    background:black;
+    height: 100%;
+}
+#contenedorVentanas {
+    background: white;
+    height: 100%;
+}

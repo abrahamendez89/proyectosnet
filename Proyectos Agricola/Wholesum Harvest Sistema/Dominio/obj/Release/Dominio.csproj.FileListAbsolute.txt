@@ -1,0 +1,9 @@
+D:\WHOLESUM_TF\Dominio\bin\Release\Dominio.dll
+D:\WHOLESUM_TF\Dominio\bin\Release\Dominio.pdb
+D:\WHOLESUM_TF\Dominio\bin\Release\AccesoDatos.dll
+D:\WHOLESUM_TF\Dominio\bin\Release\Herramientas.dll
+D:\WHOLESUM_TF\Dominio\bin\Release\AccesoDatos.pdb
+D:\WHOLESUM_TF\Dominio\bin\Release\Herramientas.pdb
+D:\WHOLESUM_TF\Dominio\obj\Release\Dominio.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Dominio\obj\Release\Dominio.dll
+D:\WHOLESUM_TF\Dominio\obj\Release\Dominio.pdb

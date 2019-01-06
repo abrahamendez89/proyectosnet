@@ -1,0 +1,323 @@
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe.config
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\BarcodeLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\BouncyCastle.Crypto.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\ControlesUsuario.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\Criptografo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\ThoughtWorks.QRCode.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmEmpresas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmM1502001.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.frmPrincipal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe.licenses
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe.config
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\BarcodeLib.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\ControlesUsuario.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Criptografo.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraBars.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\ImpresionReportes.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\SharpZipLib.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbprojResolveAssemblyReference.cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmEmpresas.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmM1502001.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.frmPrincipal.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.Resources.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbproj.GenerateResource.Cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe.licenses
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe.config
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmEmpresas.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmM1502001.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.frmPrincipal.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.Resources.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbproj.GenerateResource.Cache
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe.licenses
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\AccTextboxAdvanced.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\BarcodeLib.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\ControlesUsuario.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Criptografo.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraBars.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\ImpresionReportes.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\SharpZipLib.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Herramientas.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Ionic.Zip.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\Herramientas.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.ConsultaFaltantesPorTimbrar.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\itextsharp.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.ReporteComprobanteTimbrado.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.CargarXMLDeCarpeta.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.DescargarXMLDeInternet.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\crystaldecisions.reportappserver.commlayer.dll.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Shared.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\NCalc.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\SQLite.NET.dll
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.DescargarAcusesFaltantes.resources
+D:\Projects2\Facturacion\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe.config
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\BarcodeLib.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\ControlesUsuario.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Criptografo.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\crystaldecisions.reportappserver.commlayer.dll.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Herramientas.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\ImpresionReportes.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\SharpZipLib.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\SQLite.NET.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\itextsharp.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Ionic.Zip.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\NCalc.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Herramientas.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Shared.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.DescargarAcusesFaltantes.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.DescargarXMLDeInternet.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.CargarXMLDeCarpeta.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.ConsultaFaltantesPorTimbrar.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmEmpresas.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmM1502001.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.frmPrincipal.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.Resources.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.ReporteComprobanteTimbrado.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbproj.GenerateResource.Cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe.licenses
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.Extensions.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.Extensions.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe.config
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbprojResolveAssemblyReference.cache
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.AdjuntarXMLAPolizas.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.DescargarAcusesFaltantes.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.DescargarXMLDeInternet.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.CargarXMLDeCarpeta.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.ConsultaFaltantesPorTimbrar.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmEmpresas.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.FrmM1502001.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.frmPrincipal.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.Resources.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.ReporteComprobanteTimbrado.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\TimbradoNomina.vbproj.GenerateResource.Cache
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe.licenses
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\AccTextboxAdvanced.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\BarcodeLib.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\ControlesUsuario.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Criptografo.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\crystaldecisions.reportappserver.commlayer.dll.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.Extensions.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Herramientas.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\ImpresionReportes.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\SharpZipLib.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\itextsharp.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\NCalc.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Herramientas.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\AccessForms.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CFD.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\Comunes.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DataAccess.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DriverXtraGrid.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.ReportSource.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Shared.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\CrystalDecisions.Windows.Forms.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\DevExpress.XtraScheduler.v15.1.Reporting.Extensions.xml
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\obj\Debug\Sistema.VerXMLAdjuntosDePoliza.resources
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\InputSimulator.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\MySql.Data.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\AForge.Video.dll
+D:\Proyectos\Timbrado Nomina\TimbradoNomina\bin\Debug\AForge.Video.DirectShow.dll

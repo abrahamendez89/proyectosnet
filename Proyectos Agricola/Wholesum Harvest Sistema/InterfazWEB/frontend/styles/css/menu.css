@@ -1,0 +1,14 @@
+﻿#spanNombre {
+    /* float: right; */
+    margin-right: 20px;
+    margin-top: 7px;
+    display: inline-block;
+}
+
+#divEncabezadoMenu {
+    text-align: right;
+    background: #CCCCCC;
+    width: 100%;
+    position: relative;
+    height: 30px;
+}

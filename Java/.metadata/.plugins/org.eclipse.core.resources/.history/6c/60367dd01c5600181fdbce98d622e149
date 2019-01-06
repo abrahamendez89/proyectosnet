@@ -1,0 +1,401 @@
+import java.awt.Graphics2D;
+import java.awt.GraphicsDevice;
+import java.awt.GraphicsEnvironment;
+import java.awt.Image;
+import java.awt.MouseInfo;
+import java.awt.Rectangle;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.InputEvent;
+import java.awt.event.KeyEvent;
+import java.awt.image.BufferedImage;
+import java.io.File;
+
+import javax.imageio.IIOImage;
+import javax.imageio.ImageIO;
+import javax.imageio.ImageWriteParam;
+import javax.imageio.ImageWriter;
+import javax.imageio.stream.ImageOutputStream;
+import javax.swing.KeyStroke;
+
+import io.socket.client.IO;
+import io.socket.client.Socket;
+import io.socket.emitter.Emitter;
+
+import static java.awt.event.KeyEvent.*;
+
+public class Server {
+	public static Socket socket;
+	public static Robot robot;
+	private static String url = "http://192.168.2.104:8080";
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			// iniciando robot
+			robot = new Robot();
+			
+
+			// creando socket
+			IO.Options opts = new IO.Options();
+			opts.forceNew = true;
+			opts.reconnection = true;
+			socket = IO.socket(url, opts);
+			socket.on(Socket.EVENT_CONNECT, new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+
+					System.out.println("Conectado al ws");
+
+					// socket.emit("foto", "hi");
+					// socket.disconnect();
+				}
+
+			}).on("mueveMouse", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					String coordenadas = (String) args[0];
+					long x = Long.parseLong(coordenadas.split(",")[0]);
+					long y = Long.parseLong(coordenadas.split(",")[1]);
+					MueveMouse((int) x, (int) y);
+				}
+
+			}).on("mousedownleft", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					robot.mousePress(InputEvent.BUTTON1_MASK);
+				}
+
+			}).on("mousedownmid", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					robot.mousePress(InputEvent.BUTTON2_MASK);
+				}
+
+			}).on("mousedownright", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					robot.mousePress(InputEvent.BUTTON3_MASK);
+				}
+
+			}).on("mouseupleft", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					robot.mouseRelease(InputEvent.BUTTON1_MASK);
+				}
+
+			}).on("mouseupmid", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					robot.mouseRelease(InputEvent.BUTTON2_MASK);
+				}
+
+			}).on("mouseupright", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					robot.mouseRelease(InputEvent.BUTTON3_MASK);
+				}
+
+			}).on("keydown", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					int codigo =  Integer.parseInt(args[0].toString());
+					System.out.println(codigo + " "+ (char)codigo);
+					//pressUnicode(codigo);
+					
+					KeyStroke ks = KeyStroke.getKeyStroke((char)codigo, 0);
+					System.out.println(ks.getKeyCode());
+					int convertido = convert((char)codigo);
+					robot.keyPress();
+					
+				}
+
+			}).on("keyup", new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+					int codigo =  Integer.parseInt(args[0].toString());
+					System.out.println(codigo + " "+ (char)codigo);
+					//pressUnicode(codigo);
+					
+					KeyStroke ks = KeyStroke.getKeyStroke((char)codigo, 0);
+					System.out.println(ks.getKeyCode());
+			        robot.keyRelease(codigo);
+					
+				}
+
+			}).on(Socket.EVENT_DISCONNECT, new Emitter.Listener() {
+
+				@Override
+				public void call(Object... args) {
+				}
+
+			});
+			socket.connect();
+
+			// creando hilo de envio de imagenes
+			Runnable r = new MyRunnable((Object) socket);
+			new Thread(r).start();
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	private static void MueveMouse(int x, int y) {
+
+		robot.mouseMove(x, y);
+	}
+	
+	
+	public static int convert(char character) {
+        switch (character) {
+        case 'a': return (VK_A); 
+        case 'b': return (VK_B); 
+        case 'c': return (VK_C); 
+        case 'd': return (VK_D); 
+        case 'e': return (VK_E); 
+        case 'f': return (VK_F); 
+        case 'g': return (VK_G); 
+        case 'h': return (VK_H); 
+        case 'i': return (VK_I); 
+        case 'j': return (VK_J); 
+        case 'k': return (VK_K); 
+        case 'l': return (VK_L); 
+        case 'm': return (VK_M); 
+        case 'n': return (VK_N); 
+        case 'o': return (VK_O); 
+        case 'p': return (VK_P); 
+        case 'q': return (VK_Q); 
+        case 'r': return (VK_R); 
+        case 's': return (VK_S); 
+        case 't': return (VK_T); 
+        case 'u': return (VK_U); 
+        case 'v': return (VK_V); 
+        case 'w': return (VK_W); 
+        case 'x': return (VK_X); 
+        case 'y': return (VK_Y); 
+        case 'z': return (VK_Z); 
+        case 'A': return ( VK_A); 
+        case 'B': return ( VK_B); 
+        case 'C': return ( VK_C); 
+        case 'D': return ( VK_D); 
+        case 'E': return ( VK_E); 
+        case 'F': return ( VK_F); 
+        case 'G': return ( VK_G); 
+        case 'H': return ( VK_H); 
+        case 'I': return ( VK_I); 
+        case 'J': return ( VK_J); 
+        case 'K': return ( VK_K); 
+        case 'L': return ( VK_L); 
+        case 'M': return ( VK_M); 
+        case 'N': return ( VK_N); 
+        case 'O': return ( VK_O); 
+        case 'P': return ( VK_P); 
+        case 'Q': return ( VK_Q); 
+        case 'R': return ( VK_R); 
+        case 'S': return ( VK_S); 
+        case 'T': return ( VK_T); 
+        case 'U': return ( VK_U); 
+        case 'V': return ( VK_V); 
+        case 'W': return ( VK_W); 
+        case 'X': return ( VK_X); 
+        case 'Y': return ( VK_Y); 
+        case 'Z': return ( VK_Z); 
+        case '`': return (VK_BACK_QUOTE); 
+        case '0': return (VK_0); 
+        case '1': return (VK_1); 
+        case '2': return (VK_2); 
+        case '3': return (VK_3); 
+        case '4': return (VK_4); 
+        case '5': return (VK_5); 
+        case '6': return (VK_6); 
+        case '7': return (VK_7); 
+        case '8': return (VK_8); 
+        case '9': return (VK_9); 
+        case '-': return (VK_MINUS); 
+        case '=': return (VK_EQUALS); 
+        case '~': return ( VK_BACK_QUOTE); 
+        case '!': return (VK_EXCLAMATION_MARK); 
+        case '@': return (VK_AT); 
+        case '#': return (VK_NUMBER_SIGN); 
+        case '$': return (VK_DOLLAR); 
+        case '%': return ( VK_5); 
+        case '^': return (VK_CIRCUMFLEX); 
+        case '&': return (VK_AMPERSAND); 
+        case '*': return (VK_ASTERISK); 
+        case '(': return (VK_LEFT_PARENTHESIS); 
+        case ')': return (VK_RIGHT_PARENTHESIS); 
+        case '_': return (VK_UNDERSCORE); 
+        case '+': return (VK_PLUS); 
+        case '\t': return (VK_TAB); 
+        case '\n': return (VK_ENTER); 
+        case '[': return (VK_OPEN_BRACKET); 
+        case ']': return (VK_CLOSE_BRACKET); 
+        case '\\': return (VK_BACK_SLASH); 
+        case '{': return ( VK_OPEN_BRACKET); 
+        case '}': return ( VK_CLOSE_BRACKET); 
+        case '|': return ( VK_BACK_SLASH); 
+        case ';': return (VK_SEMICOLON); 
+        case ':': return (VK_COLON); 
+        case '\'': return (VK_QUOTE); 
+        case '"': return (VK_QUOTEDBL); 
+        case ',': return (VK_COMMA); 
+        case '<': return ( VK_COMMA); 
+        case '.': return (VK_PERIOD); 
+        case '>': return ( VK_PERIOD); 
+        case '/': return (VK_SLASH); 
+        case '?': return ( VK_SLASH); 
+        case ' ': return (VK_SPACE); 
+        default:
+            return -1;
+        }
+    }
+
+	
+	
+	public static void pressUnicode(int key_code)
+	{
+	    //r.keyPress(KeyEvent.VK_ALT);
+
+	        // extracts a single decade of the key-code and adds
+	        // an offset to get the required VK_NUMPAD key-code
+	        int numpad_kc = key_code;// / (int) (Math.pow(10, i)) % 10 + KeyEvent.VK_NUMPAD0;
+	        
+	        robot.keyPress(key_code);
+	        robot.keyRelease(key_code);
+
+	    //r.keyRelease(KeyEvent.VK_ALT);
+	}
+	private static void ProcesaInstruccion(String instruccion) {
+		// TODO Auto-generated method stub
+		try {
+
+			// moving mouse
+
+			robot.mouseMove(500, 300);
+			Thread.sleep(200);
+			robot.mouseMove(550, 250);
+			Thread.sleep(200);
+			robot.mouseMove(460, 200);
+			Thread.sleep(200);
+			robot.mouseMove(300, 400);
+			Thread.sleep(200);
+			robot.mouseMove(470, 280);
+			robot.mousePress(InputEvent.BUTTON1_MASK);
+			Thread.sleep(500);
+			robot.mouseMove(500, 200);
+			robot.mouseRelease(InputEvent.BUTTON1_MASK);
+			Thread.sleep(500);
+			// robot.mousePress(InputEvent.BUTTON1_MASK);
+			// robot.mouseRelease(InputEvent.BUTTON1_MASK);
+
+			// copiar al clipboard
+			String text = "Hello World";
+			StringSelection stringSelection = new StringSelection(text);
+			Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
+			clipboard.setContents(stringSelection, stringSelection);
+
+			// pegar
+			robot.keyPress(KeyEvent.VK_CONTROL);
+			robot.keyPress(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_V);
+			robot.keyRelease(KeyEvent.VK_CONTROL);
+
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}
+
+class MyRunnable implements Runnable {
+	Socket s = null;
+	int width;
+	int height;
+
+	public MyRunnable(Object parameter) {
+		// store parameter for later user
+		s = (Socket) parameter;
+
+		// obteniendo el tama�o de la pantalla para enviarlo y calcular las
+		// coordeandas relativas
+
+		GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice();
+		this.width = gd.getDisplayMode().getWidth();
+		this.height = gd.getDisplayMode().getHeight();
+
+	}
+
+	public void run() {
+		try {
+
+			while (true) {
+				Thread.sleep(100);
+				if (s.connected()) {
+					try {
+						String imgB64 = getFoto();
+
+						s.emit("emitefoto", width + "," + height + "|" + imgB64);
+					} catch (Exception ex) {
+
+					}
+				}
+			}
+
+			// Thread.sleep(1000);
+
+			// System.out.println("Nope, it doesnt...again.");
+		} catch (Exception v) {
+			System.out.println(v.getMessage());
+		}
+	}
+
+	private static BufferedImage ComprimirImagen(BufferedImage img) throws Exception {
+
+		ImageWriter writer = ImageIO.getImageWritersByFormatName("jpg").next();
+		ImageOutputStream ios = ImageIO.createImageOutputStream(img);
+		writer.setOutput(ios);
+
+		ImageWriteParam param = writer.getDefaultWriteParam();
+		if (param.canWriteCompressed()) {
+			param.setCompressionMode(ImageWriteParam.MODE_EXPLICIT);
+			param.setCompressionQuality(0.05f);
+		}
+		BufferedImage comprimida = null;
+		writer.write(null, new IIOImage(comprimida, null, null), param);
+
+		// out.close();
+		ios.close();
+		writer.dispose();
+		return comprimida;
+	}
+
+	private static String getFoto() throws Exception {
+		Rectangle screen = new Rectangle(Toolkit.getDefaultToolkit().getScreenSize());
+		BufferedImage screenCapture = new Robot().createScreenCapture(screen);
+
+		Image cursor = ImageIO.read(new File("cursor.png"));
+		int x = MouseInfo.getPointerInfo().getLocation().x;
+		int y = MouseInfo.getPointerInfo().getLocation().y;
+
+		Graphics2D graphics2D = screenCapture.createGraphics();
+		graphics2D.drawImage(cursor, x, y, 16, 16, null); // cursor.gif
+															// is 16x16
+
+		// tobase64
+		String imgB64 = Base64Image.encodeToString(screenCapture, "jpg");
+		return imgB64;
+	}
+}

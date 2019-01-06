@@ -1,0 +1,3 @@
+<AuxiliarCtas:Cuenta NumCta="@NumCta" SaldoIni="@SaldoIni" SaldoFin="@SaldoFin" DesCta="@DesCta">
+@ListadoDetalle
+</AuxiliarCtas:Cuenta>

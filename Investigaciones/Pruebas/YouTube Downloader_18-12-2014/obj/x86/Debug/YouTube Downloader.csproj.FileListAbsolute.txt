@@ -1,0 +1,10 @@
+D:\Proyectos personales\YouTube Downloader_18-12-2014\bin\Debug\YouTube Downloader.exe
+D:\Proyectos personales\YouTube Downloader_18-12-2014\bin\Debug\YouTube Downloader.pdb
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.aboutDialog.resources
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.frmFileDownloader.resources
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.mainForm.resources
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube_Downloader.Properties.Resources.resources
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.csproj.GenerateResource.Cache
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.exe
+D:\Proyectos personales\YouTube Downloader_18-12-2014\obj\x86\Debug\YouTube Downloader.pdb

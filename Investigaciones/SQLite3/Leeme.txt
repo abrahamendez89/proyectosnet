@@ -1,0 +1,9 @@
+El SQLite.NET.dll se necesita agregar como referencia al
+proyecto donde se usará.
+
+los archivos SQLite.dll y SQLite3.dll se agregan a la carpeta
+de compilacion de proyecto para que pueda compilar, ya que
+los necesita como referencia.
+
+el programa sirve para editar la base de datos que esta en el
+SQLite

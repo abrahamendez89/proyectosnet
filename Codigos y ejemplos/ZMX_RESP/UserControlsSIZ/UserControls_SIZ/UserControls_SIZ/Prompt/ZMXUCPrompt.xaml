@@ -1,0 +1,24 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UserControlsSIZ.Prompt"
+             xmlns:Toolbar="clr-namespace:UserControlsSIZ.Toolbar" x:Class="UserControlsSIZ.Prompt.ZMXUCPrompt"
+             mc:Ignorable="d" 
+             >
+    <Grid x:Name="grdContenedor">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle x:Name="rtgMarcoNegro" Fill="White" Stroke="Gray" StrokeThickness="0.7"/>
+        <Rectangle x:Name="rtgMarcoRojo" Fill="Transparent" Stroke="Red"/>
+        <TextBlock x:Name="txtAsterisco" Text="*" Height="18" Foreground="Red" FontSize="20" Background="Transparent" IsHitTestVisible="False" TextAlignment="Center" HorizontalAlignment="Right" Width="13.167" Margin="0,1,1.5,1" />
+
+        <TextBox x:Name="txtCodigo" Grid.Column="0" BorderThickness="0" Margin="1" Background="Transparent" MinWidth="50"/>
+        <Toolbar:ToolbarBtn x:Name="btnBuscar" Grid.Column="1" DiametroPx="20" Height="20" Margin="5,0,5,0" Icono="fa_search" toolbarBtnClick="ToolbarBtn_toolbarBtnClick"/>
+        <TextBox x:Name="txtDescripcion" Grid.Column="2" MinWidth="100" IsEnabled="False"/>
+    </Grid>
+</UserControl>

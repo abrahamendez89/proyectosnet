@@ -1,0 +1,9 @@
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\bin\Debug\ORMEscential.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\bin\Debug\Herramientas.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\bin\Debug\ORMEscential.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\Dominio\obj\Debug\Dominio.pdb

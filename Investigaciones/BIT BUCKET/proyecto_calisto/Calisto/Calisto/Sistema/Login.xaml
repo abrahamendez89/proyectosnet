@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ControlesUsuario="clr-namespace:Calisto.ControlesUsuario" mc:Ignorable="d" x:Class="Calisto.Sistema.Login"
+        Title="Login" Height="434" Width="381" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <Storyboard x:Key="OnMouseLeave1"/>
+        <ControlTemplate x:Key="btn_azul" TargetType="{x:Type UserControl}">
+            <Grid Margin="0,0,0,14.667">
+                <Rectangle Fill="#FF43ACD9" Stroke="Black" RadiusY="3" RadiusX="3" StrokeThickness="0" Height="Auto" VerticalAlignment="Stretch"/>
+                <Label Content="INICIAR&#x9;" Margin="27.353,0,27.02,8.665" FontFamily="/Calisto;component/Fonts/#Raleway" FontSize="16" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Foreground="White" Height="Auto"/>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Height="134" Stroke="Black" VerticalAlignment="Top" Fill="#FF43ACD9" StrokeThickness="0" HorizontalAlignment="Left" Width="381" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Height="20" Margin="58.293,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" FontFamily="/Calisto;component/Fonts/#Raleway" FontSize="16" Foreground="#FF666666" Grid.Column="1"><Run Language="es-mx" Text="Usuario:"/></TextBlock>
+        <TextBox x:Name="txt_usuario" Margin="140.96,188,60.333,226" TextWrapping="Wrap" BorderThickness="0,0,0,2" BorderBrush="#FFEBEBEB" FontFamily="/Calisto;component/Fonts/#Raleway" FontSize="16" Grid.Column="1" FontWeight="Light" />
+        <TextBlock HorizontalAlignment="Left" Margin="33.293,0,0,186" TextWrapping="Wrap" Width="93" Text="Contraseña:" FontFamily="/Calisto;component/Fonts/#Raleway" FontSize="16" Foreground="#FF666666" Grid.Column="1" Height="20" VerticalAlignment="Bottom"/>
+        <PasswordBox x:Name="txt_contrasena" Margin="140.96,0,60.333,186" BorderThickness="0,0,0,2" BorderBrush="#FFEBEBEB" FontFamily="/Calisto;component/Fonts/#Raleway" FontSize="16" Grid.Column="1" VerticalAlignment="Bottom"/>
+        <TextBlock Height="12" Margin="0,0,8,8" TextWrapping="Wrap" VerticalAlignment="Bottom" Text="V 1.16.01.17" HorizontalAlignment="Right" Width="56" FontSize="9.333" Grid.Column="1"/>
+        <Image Height="126" Margin="26.293,3,27,0" VerticalAlignment="Top" Source="pack://siteoforigin:,,,/Sistema/logotipo-blanco-trasparente.png" Grid.Column="1"/>
+
+        <ControlesUsuario:btn_azul HorizontalAlignment="Right" Margin="0,271,59,0" VerticalAlignment="Top" Grid.Column="1" Width="103" Height="34"/>
+        <Image Grid.Column="1" HorizontalAlignment="Right" Height="20.783" Margin="0,0,33.667,186" Source="/Calisto;component/iconos/lock.png" Stretch="Fill" VerticalAlignment="Bottom" Width="17.333"/>
+        <Image Grid.Column="1" HorizontalAlignment="Right" Margin="0,188,27,0" Source="/Calisto;component/iconos/user.png" Stretch="Fill" Width="24" Height="20" VerticalAlignment="Top"/>
+        <ControlesUsuario:btn_flat Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="103,271,0,0" VerticalAlignment="Top" Height="34" Width="103"/>
+
+    </Grid>
+</Window>

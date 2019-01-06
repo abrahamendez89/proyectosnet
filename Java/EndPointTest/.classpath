@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-http-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-io-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-security-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-servlet-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-util-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-webapp-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/jetty-xml-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/spark-core-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/websocket-api-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/websocket-client-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/websocket-common-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/websocket-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/websocket-servlet-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/abraham/Descargas/spark_dependencies/gson-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

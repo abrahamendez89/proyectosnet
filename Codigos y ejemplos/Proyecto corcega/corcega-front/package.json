@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.5",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.4.1",
+    "nodemailer": "^4.1.0",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "forever start index.js",
+    "stop": "forever stop index.js"
+    
+  },
+  "author": "",
+  "license": "ISC"
+}

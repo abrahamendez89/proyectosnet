@@ -1,0 +1,12 @@
+D:\Proyectos\SendKeys\SendKeys\bin\Debug\SendKeys.exe.config
+D:\Proyectos\SendKeys\SendKeys\bin\Debug\SendKeys.exe
+D:\Proyectos\SendKeys\SendKeys\bin\Debug\SendKeys.pdb
+D:\Proyectos\SendKeys\SendKeys\bin\Debug\Utilerias.dll
+D:\Proyectos\SendKeys\SendKeys\bin\Debug\Utilerias.pdb
+D:\Proyectos\SendKeys\SendKeys\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\SendKeys\SendKeys\obj\Debug\SendKeys.csprojResolveAssemblyReference.cache
+D:\Proyectos\SendKeys\SendKeys\obj\Debug\SendKeys.SendKeysToApps.resources
+D:\Proyectos\SendKeys\SendKeys\obj\Debug\SendKeys.Properties.Resources.resources
+D:\Proyectos\SendKeys\SendKeys\obj\Debug\SendKeys.csproj.GenerateResource.Cache
+D:\Proyectos\SendKeys\SendKeys\obj\Debug\SendKeys.exe
+D:\Proyectos\SendKeys\SendKeys\obj\Debug\SendKeys.pdb

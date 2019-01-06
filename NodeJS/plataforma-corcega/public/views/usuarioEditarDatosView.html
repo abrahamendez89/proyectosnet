@@ -1,0 +1,98 @@
+<md-content layout-padding id="popupContainer">
+    <div>
+        <form name="Form">
+            <md-card flex="flex" class="carta" >
+                <div>
+                    <h3>Foto de perfil</h3>
+                </div>
+                <md-card-title>
+                    <md-card-title-media>
+                        <div class="md-media-sm card-media">
+                                <img class="img-circle" src="{{fotoPerfil}}">
+                        </div>
+                        </md-card-title-media>
+                    <md-card-title-text>
+                        <div layout-gt-xs="row">
+                                <input on-select-image='updateImageArray' class="ng-hide" id="input-file-id" type="file" accept="image/*" ng-model="imageList2" image="imageList2" resize-max-height="150" resize-max-width="150" resize-quality="0.3" resize-type="image/jpg" ng-image-compress/>
+                                <label for="input-file-id" class="md-button md-raised md-primary">Subir foto</label>
+                            </div>
+                    </md-card-title-text>
+                </md-card-title>
+                <div class="centrado">
+                    <md-button ng-click="ActualizarFoto();" class="md-raised md-primary">Guardar</md-button>
+                </div>
+            </md-card>
+            <md-card flex="flex" class="carta" >
+                <div>
+                    <h3>Cambiar contraseña</h3>
+                </div>
+                <div layout-sm="row">
+                    <md-input-container flex-gt-xs class="md-block">
+                        <label>Contraseña anterior</label>
+                        <input type="password" ng-model="user.contrasena" required="" md-maxlength="10">
+                    </md-input-container>
+                    <md-input-container flex-gt-xs class="md-block">
+                        <label>Contraseña nueva</label>
+                        <input type="password" ng-model="user.contrasenaNueva" required="" md-maxlength="10">
+                    </md-input-container>
+                    <md-input-container flex-gt-xs class="md-block">
+                        <label>Confirmar Contraseña nueva</label>
+                        <input type="password" ng-model="contrasenaNueva2" required="" md-maxlength="10">
+                    </md-input-container>
+                    <div class="alinea-derecha " ng-if="user.contrasenaNueva!=undefined && user.contrasenaNueva==contrasenaNueva2">
+                        Contraseñas coinciden <i class="fa fa-check verde"></i>
+                    </div>
+                        <div class="alinea-derecha " ng-if="user.contrasenaNueva!=undefined && user.contrasenaNueva!=contrasenaNueva2">
+                        Contraseñas no coinciden <i class="fa fa-close rojo"></i>
+                    </div>
+                        <div class="alinea-derecha " ng-if="user.contrasenaNueva!=undefined && user.contrasenaNueva.length < 6">
+                        Contraseña debe tener 6 caracteres como mínimo <i class="fa fa-close rojo"></i>
+                    </div>
+                    <div class="alinea-derecha " ng-if="user.contrasenaNueva!=undefined && user.contrasenaNueva.length > 10">
+                        Contraseña debe tener 10 caracteres como máximo <i class="fa fa-close rojo"></i>
+                    </div>
+                    <div class="alinea-derecha " ng-if="user.contrasena != undefined && user.contrasenaNueva != undefined && user.contrasena==user.contrasenaNueva">
+                        La contraseña nueva debe ser distinta a la actual <i class="fa fa-close rojo"></i>
+                    </div>
+                </div>
+                <div class="centrado">
+                    <md-button ng-disabled="user.contrasena == undefined || user.contrasenaNueva == undefined || contrasenaNueva2 == undefined || (user.contrasena != undefined && user.contrasenaNueva != undefined && user.contrasena == user.contrasenaNueva) || (user.contrasena != undefined && (user.contrasena.length > 10 || user.contrasena.length < 6)) || (user.contrasenaNueva != undefined && (user.contrasenaNueva.length > 10 || user.contrasenaNueva.length < 6)) && (contrasenaNueva2 != undefined && (contrasenaNueva2.length > 10 || contrasenaNueva2.length < 6)) || (user.contrasenaNueva != undefined && contrasenaNueva2 != undefined && user.contrasenaNueva != contrasenaNueva2)" ng-click="ActualizarContrasena();" class="md-raised md-primary">Guardar</md-button>
+                </div>
+            </md-card>  
+            <md-card flex="flex" class="carta" >
+                <form name="formDatos">
+                    <div>
+                        <h3>Datos personales</h3>
+                    </div>
+                    <div layout-sm="row">
+                        <md-input-container flex class="md-block">
+                            <label>Correo electrónico</label>
+                            <input ng-model="user.email" type="email" required="">
+                        </md-input-container>
+                    </div>
+                            
+                    <div>
+                        <h3>Datos secretos</h3>
+                    </div>
+                    <div layout-gt-xs="row">
+                        <md-input-container class="md-block" flex-gt-sm>
+                            <label>Pregunta secreta</label>
+                            <md-select ng-model="user.preguntaSecreta" required="">
+                            <md-option ng-repeat="pregunta in preguntasSecretas" value="{{pregunta.descripcion}}" >
+                                {{pregunta.descripcion}}
+                            </md-option>
+                            </md-select>
+                        </md-input-container>
+                            <md-input-container flex-gt-xs class="md-block">
+                        <label>Respuesta secreta</label>
+                        <input ng-model="user.respuestaSecreta" required="">
+                        </md-input-container>
+                    </div>
+                    <div class="centrado">
+                        <md-button ng-disabled="user.email == undefined || user.preguntaSecreta == undefined || user.respuestaSecreta == undefined" ng-click="ActualizarDatos();" class="md-raised md-primary">Guardar</md-button>
+                    </div>
+                </form> 
+            </md-card>
+        </form>
+    </div>
+</md-content>

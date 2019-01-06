@@ -1,0 +1,2 @@
+BAT D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\Debug\test\archivo.bat
+go

@@ -1,0 +1,9 @@
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\bin\Debug\ARDUINO.exe.config
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\bin\Debug\ARDUINO.exe
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\bin\Debug\ARDUINO.pdb
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\obj\Debug\ARDUINO.csprojResolveAssemblyReference.cache
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\obj\Debug\ARDUINO.Form1.resources
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\obj\Debug\ARDUINO.Properties.Resources.resources
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\obj\Debug\ARDUINO.csproj.GenerateResource.Cache
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\obj\Debug\ARDUINO.exe
+D:\Proyectos\Arduino\ARDUINO\ARDUINO\obj\Debug\ARDUINO.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Karaoke.PreparacionKaraoke"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PreparacionKaraoke" Height="674.632" Width="817.91" Background="Black" WindowState="Maximized">
+    <Grid>
+        <TextBlock x:Name="txt_nombreKaraoke" Margin="10,90,10,0" TextWrapping="Wrap" Text="una pista de karaoke" VerticalAlignment="Top" Height="124" Foreground="White" FontWeight="Bold" TextAlignment="Center" FontSize="48"/>
+        <TextBlock Margin="10,6,10,0" TextWrapping="Wrap" Text="Y TODOS A CANTAR CON..." VerticalAlignment="Top" Height="84" Foreground="#FF0074FF" FontWeight="Bold" TextAlignment="Center" FontSize="36"/>
+        <Image x:Name="img_micro" HorizontalAlignment="Left" Margin="25,0,0,27" Width="190" Height="177" VerticalAlignment="Bottom" Stretch="UniformToFill"/>
+        <TextBlock x:Name="txt_conteoAtras" Margin="10,314,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="126" Foreground="White" FontWeight="Bold" TextAlignment="Center" FontSize="90"/>
+        <Rectangle x:Name="img_logo" HorizontalAlignment="Right" Height="177" Margin="0,0,25,27" RadiusY="6.5" RadiusX="6.5" Stroke="Black" VerticalAlignment="Bottom" Width="190"/>
+
+    </Grid>
+</Window>

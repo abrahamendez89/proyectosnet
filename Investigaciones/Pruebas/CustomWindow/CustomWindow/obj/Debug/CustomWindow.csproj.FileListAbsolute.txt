@@ -1,0 +1,30 @@
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\bin\Debug\CustomWindow.exe
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\bin\Debug\CustomWindow.pdb
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\Window1.baml
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\App.baml
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\Window1.g.cs
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\App.g.cs
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomWindow_MarkupCompile.cache
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomWindow.g.resources
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomWindow.exe
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomWindow.pdb
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomMessageBox.baml
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomMessageBox.g.cs
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Expression\Expression Blend Projects\CustomWindow\CustomWindow\obj\Debug\CustomWindow_MarkupCompile.lref
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomWindow.exe
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomWindow.pdb
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\bin\Debug\CustomWindow.exe
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\bin\Debug\CustomWindow.pdb
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomWindow.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\Window1.baml
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\App.baml
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomMessageBox.g.cs
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\Window1.g.cs
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\App.g.cs
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomWindow_MarkupCompile.cache
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomWindow_MarkupCompile.lref
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomMessageBox.baml
+D:\Proyectos personales\Pruebas\CustomWindow\CustomWindow\obj\Debug\CustomWindow.g.resources

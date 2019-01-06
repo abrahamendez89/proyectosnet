@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" xmlns:InterfazWPF="clr-namespace:InterfazWPF" x:Class="InterfazWPF.Modulos.Catalogos.win_gen_CatalogoUnidadesMedida"
+        Title="win_gen_CatalogoUnidadesMedida" Height="166.135" Width="376.494">
+    <Grid>
+
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="50,56,0,0" VerticalAlignment="Top"/>
+        <ControlesUsuario:TextboxNormal x:Name="txt_nombre" HorizontalAlignment="Left" Margin="180,57,0,0" VerticalAlignment="Top" Height="25" Width="158"/>
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_Buscador" HorizontalAlignment="Left" Margin="180,23,0,0" VerticalAlignment="Top" Height="24" Width="158"/>
+        <Label Content="Unidad medida:" HorizontalAlignment="Left" Margin="50,23,0,0" VerticalAlignment="Top"/>
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_BuscadorCategoria" HorizontalAlignment="Left" Margin="180,89,0,0" VerticalAlignment="Top" Height="24" Width="158"/>
+        <Label Content="Categoría:" HorizontalAlignment="Left" Margin="50,89,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

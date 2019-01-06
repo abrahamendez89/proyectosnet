@@ -1,0 +1,435 @@
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\Comunes.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\Comunes.xml
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccessForms.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\IniFileController.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\SharpZipLib.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.pdb
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.xml
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.xml
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.pdb
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\Comunes.pdb
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\AccessForms.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\ImpresionReportes.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\IniFileController.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\MetaCatalogo.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\SharpZipLib.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\ResolveAssemblyReference.cache
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsFecha.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.RangoFechas.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.Resources.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.pdb
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Excel.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Win.Spread.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Core.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Data.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Deployment.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Drawing.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Windows.Forms.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Xml.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Xml.Linq.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Win.Spread.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Excel.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect CFDI\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\Comunes\obj\Debug\Comunes.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\AccessForms.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DataAccess.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\IniFileController.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\SharpZipLib.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Data.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Deployment.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Drawing.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Xml.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\ControlesUsuario.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.XtraBars.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Data.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\IniFileController.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Utils.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Data.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbprojResolveAssemblyReference.cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\Comunes.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\Comunes.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\AccessForms.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsFecha.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.RangoFechas.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Sistema.Resources.resources
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.xml
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\obj\Debug\Comunes.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\Comunes.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\Comunes.xml
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\AccessForms.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\AccTextboxAdvanced.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\ImpresionReportes.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\MetaCatalogo.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\SharpZipLib.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Data.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Deployment.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Drawing.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Windows.Forms.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Xml.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\System.Xml.Linq.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\ControlesUsuario.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.XtraBars.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Utils.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Data.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\AccessForms.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.xml
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Utils.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\DevExpress.Data.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+D:\Projects2\Facturacion\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\Comunes.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\Comunes.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\AccessForms.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\DataAccess.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\SharpZipLib.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Data.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Deployment.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Drawing.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Xml.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\ControlesUsuario.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\AccessForms.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\DataAccess.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\IniFileController.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Comunes.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Comunes.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\obj\Debug\Comunes.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll.config
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll.config
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\Comunes.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\Comunes.pdb
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\Comunes.xml
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\AccessForms.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\AccTextboxAdvanced.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\DataAccess.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\FarPoint.Excel.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\ImpresionReportes.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\MetaCatalogo.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\SharpZipLib.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Data.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Deployment.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Drawing.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Windows.Forms.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Xml.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\System.Xml.Linq.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\ControlesUsuario.dll
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\AccessForms.pdb
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\DataAccess.pdb
+D:\Proyectos\Timbrado Nomina\Comunes\bin\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbprojResolveAssemblyReference.cache
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsFecha.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.RangoFechas.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Sistema.Resources.resources
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Comunes.dll
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Comunes.xml
+D:\Proyectos\Timbrado Nomina\Comunes\obj\Debug\Comunes.pdb

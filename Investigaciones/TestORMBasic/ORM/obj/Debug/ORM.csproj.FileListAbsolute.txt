@@ -1,0 +1,7 @@
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\bin\Debug\ORMEscential.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\bin\Debug\ORMEscential.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\bin\Debug\Herramientas.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\obj\Debug\ORMEscential.dll
+D:\Proyectos personales\Pruebas\TestORMBasic\ORM\obj\Debug\ORMEscential.pdb

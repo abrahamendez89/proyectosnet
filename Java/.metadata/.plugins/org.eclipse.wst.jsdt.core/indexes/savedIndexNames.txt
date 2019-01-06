@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/media/abraham/F05E97425E970110/Proyectos/Java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+812344276.index
+1008729258.index
+1854822271.index
+3698486806.index
+4287230979.index
+4019894074.index

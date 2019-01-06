@@ -1,0 +1,17 @@
+Iniciado el proceso 'TEST .BAT' con fecha: 16/06/2015 03:54:49 p. m.
+2015-06-16 15:54:50: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 15:54:50: Limpiando código de comentarios...
+2015-06-16 15:54:50: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 15:54:50: Ejecutando: 
+2015-06-16 15:54:50: CMD archivo.bat...
+2015-06-16 15:56:56: Duración(Minutos): 2.1154
+2015-06-16 15:56:56: Error: "archivo.bat" no se reconoce como un comando interno o externo, programa o archivo por lotes ejecutable. 
+----------------------------------------------------------------------------
+
+Proceso terminado con 1 errores.
+Inicio: 2015-06-16 15:54:49
+Fin:    2015-06-16 15:56:56
+Duración(Minutos): 2.1162

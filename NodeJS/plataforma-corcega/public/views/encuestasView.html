@@ -1,0 +1,59 @@
+<!--<md-content layout-padding id="popupContainer" scroll-to-bottom="data">-->
+<md-content class="md-padding" layout-xs="column" layout="row">
+    
+    <div flex-xs flex-gt-xs="100" layout="column" layout-align="start center">
+            <div ng-if="mostrarLoad" layout="row" layout-sm="column" layout-align="space-around">
+              <md-progress-circular md-mode="indeterminate"></md-progress-circular>
+            </div>
+            <div ng-repeat="item in data">
+                <md-card >
+                    <md-card-title>
+                      <md-card-title-text>
+                        <span class="md-headline">{{item.titulo}}</span>
+                      </md-card-title-text>
+                    </md-card-title>
+                    <md-card-content>
+                        <p>
+                            <h5>Fecha publicación: {{formatDate(item.fecha_creacion)}}</h5>
+                        </p>
+                        <b><div ng-if="item.esAnonima" >(Esta votación es anónima)</div></b>
+                      <p>
+                        {{item.descripcion}}
+                      </p>
+                     
+                      
+                      
+                    </md-card-content>
+                    
+                    <md-card-content ng-if="item.yaVoto==1 || item.estaFinalizada==1">
+                        <b><div ng-if="item.estaFinalizada" >Esta votación ya finalizó</div></b>
+                        <i><div ng-if="!item.esAnonima" >Último voto por: {{item.ultimo_voto}}, el {{formatDateTime(item.fecha_ultimo_voto)}}</div></i>
+                        <i><div ng-if="item.esAnonima" >Último voto el {{formatDateTime(item.fecha_ultimo_voto)}}</div></i>
+                        
+                      Votos:
+                          <md-list >
+                            <md-list-item ng-repeat="opcion in item.opciones">
+                              <div class="md-list-item-text">
+                                <div><h4>-{{opcion.titulo}}</h4></div>
+                                <div><h5>Votos: {{opcion.votos}}</h5></div>
+                              </div>
+                            </md-list-item>
+                          </md-list>
+                          <div ng-if="!item.esAnonima" >{{item.mensaje}}</div>
+                      <md-card-actions layout="row" layout-align="center" ng-if="!item.esAnonima">
+                          <md-button class="md-raised md-info" ng-click="goto('/encuestasDetalles/'+ item.id)"> Ver detalles</md-button>
+                      </md-card-actions>
+                     </md-card-content>
+                    <md-card-content ng-if="item.yaVoto==0 && !item.estaFinalizada">
+                      Dejar mi voto:
+                      <div ng-repeat="opcion in item.opciones">
+                        <md-card-actions layout="row" layout-align="center">
+                            <md-button  class="md-raised md-primary" ng-click="votar(item.id, opcion.id)"> {{opcion.titulo}}</md-button>
+                        </md-card-actions>
+                      </div>
+                    </md-card-content>
+                  </md-card>
+            </div>
+    </div>
+    
+</md-content>

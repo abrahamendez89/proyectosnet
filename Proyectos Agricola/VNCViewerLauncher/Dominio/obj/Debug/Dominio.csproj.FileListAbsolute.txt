@@ -1,0 +1,14 @@
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos\VNCViewerLauncher\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Proyectos\VNCViewerLauncher\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\obj\Debug\Dominio.pdb
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\Herramientas.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\SQLite.NET.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\itextsharp.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\NCalc.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\Herramientas.pdb
+D:\Proyectos\VNCViewerLauncher\Dominio\bin\Debug\InputSimulator.dll

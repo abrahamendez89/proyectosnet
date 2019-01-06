@@ -1,0 +1,16 @@
+D:\WHOLESUM_TF\Encriptador\bin\Debug\Encriptador.exe
+D:\WHOLESUM_TF\Encriptador\bin\Debug\Encriptador.pdb
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.Encriptador.resources
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.Properties.Resources.resources
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.exe
+D:\WHOLESUM_TF\Encriptador\obj\Debug\Encriptador.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\bin\Debug\Encriptador.exe
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\bin\Debug\Encriptador.pdb
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\obj\Debug\Encriptador.csprojResolveAssemblyReference.cache
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\obj\Debug\Encriptador.Encriptador.resources
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\obj\Debug\Encriptador.Properties.Resources.resources
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\obj\Debug\Encriptador.csproj.GenerateResource.Cache
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\obj\Debug\Encriptador.exe
+D:\Proyectos\Wholesum Harvest Sistema\Encriptador\obj\Debug\Encriptador.pdb

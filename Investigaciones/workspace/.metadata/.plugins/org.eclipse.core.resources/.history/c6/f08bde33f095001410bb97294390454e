@@ -1,0 +1,137 @@
+package com.example.karaokeapp;
+
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
+import java.net.InetAddress;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+import android.view.View;
+import android.widget.EditText;
+
+public class Test extends Activity {
+	private Socket socket;
+	    private static final int SERVERPORT = 8888;
+	    private static final String SERVER_IP = "192.168.1.52";
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_test);
+        
+        new Thread(new ClientThread()).start();
+
+    }
+    private Boolean encontrado = false;
+    private void IntentarConectar(object ipt)
+    {
+        String ip = (String)ipt;
+        try
+        {
+        	InetAddress serverAddr = InetAddress.getByName(SERVER_IP);
+            Socket socket = new Socket(serverAddr, SERVERPORT);
+            encontrado = true;
+        }
+        catch(Exception ex) { }
+    }
+    private void BuscarServer()
+    {
+        for (int i = 0; i < 255; i++)
+        {
+            String ip = "192.168.1." + i;
+            Thread intento = new Thread(IntentarConectar);
+            intento.Start(ip);
+            Thread.Sleep(300);
+            if (encontrado)
+            {
+                if(intento.ThreadState != ThreadState.Stopped)
+                    intento.Abort();
+                clientSocket.Connect(ip, 8888);
+                lb_delServer.Items.Add("Client Socket Program - Server Connected ip: " + ip + " ...");
+
+                break;
+            }
+                
+        }
+    }
+    public void onClick(View view) {
+    	        try {
+    	        	String valor = "";
+    	        	switch (view.getId()) {
+    	            case  R.id.b1: {
+    	            	valor = "1";
+    	                break;
+    	            	}
+    	            case  R.id.b2: {
+    	            	valor = "2";
+    	                break;
+    	            	}
+    	            case  R.id.b3: {
+    	            	valor = "3";
+    	                break;
+    	            	}
+    	            case  R.id.b4: {
+    	            	valor = "4";
+    	                break;
+    	            	}
+    	            case  R.id.b5: {
+    	            	valor = "5";
+    	                break;
+    	            	}
+    	            case  R.id.b6: {
+    	            	valor = "6";
+    	                break;
+    	            	}
+    	            case  R.id.b7: {
+    	            	valor = "7";
+    	                break;
+    	            	}
+    	            case  R.id.b8: {
+    	            	valor = "8";
+    	                break;
+    	            	}
+    	            case  R.id.b9: {
+    	            	valor = "9";
+    	                break;
+    	            	}
+    	        	}
+    	            PrintWriter out = new PrintWriter(new BufferedWriter(
+    	                    new OutputStreamWriter(socket.getOutputStream())),
+    	                    true);
+    	            out.println(valor);
+    	        } catch (UnknownHostException e) {
+    	            e.printStackTrace();
+    	        } catch (IOException e) {
+    	            e.printStackTrace();
+    	        } catch (Exception e) {
+    	            e.printStackTrace();
+    	        }
+    	    }
+    class ClientThread implements Runnable {
+    	        @Override
+    	        public void run() {
+    	            try {
+    	                InetAddress serverAddr = InetAddress.getByName(SERVER_IP);
+    	                socket = new Socket(serverAddr, SERVERPORT);
+    	                socket.setReceiveBufferSize(10025);
+    	                socket.setSendBufferSize(10025);
+    	            } catch (UnknownHostException e1) {
+    	                e1.printStackTrace();
+    	            } catch (IOException e1) {
+    	                e1.printStackTrace();
+    	            }
+    	        }
+    	    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.test, menu);
+        return true;
+    }
+    
+}

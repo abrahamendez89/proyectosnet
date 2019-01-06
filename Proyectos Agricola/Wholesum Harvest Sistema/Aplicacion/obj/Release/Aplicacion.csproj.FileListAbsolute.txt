@@ -1,0 +1,13 @@
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Actualizacion.baml
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Actualizacion.g.cs
+D:\WHOLESUM_TF\Aplicacion\obj\Release\App.g.cs
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion_MarkupCompile.cache
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion.g.resources
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion.Properties.Resources.resources
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\Aplicacion\bin\Release\Aplicacion.exe
+D:\WHOLESUM_TF\Aplicacion\bin\Release\Aplicacion.pdb
+D:\WHOLESUM_TF\Aplicacion\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion.exe
+D:\WHOLESUM_TF\Aplicacion\obj\Release\Aplicacion.pdb

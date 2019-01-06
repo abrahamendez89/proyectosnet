@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codaxy.WkHtmlToPdf.Tests", "Tests\Codaxy.WkHtmlToPdf.Tests\Codaxy.WkHtmlToPdf.Tests.csproj", "{B4A95187-8886-45CE-8978-0BB8CF4D6822}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{8C643516-2362-4669-B73A-53AEC8298E0E}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet\Codaxy.WkHtmlToPdf\Codaxy.WkHtmlToPdf.nuspec = NuGet\Codaxy.WkHtmlToPdf\Codaxy.WkHtmlToPdf.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A95187-8886-45CE-8978-0BB8CF4D6822}.Debug|x86.ActiveCfg = Debug|x86
+		{B4A95187-8886-45CE-8978-0BB8CF4D6822}.Debug|x86.Build.0 = Debug|x86
+		{B4A95187-8886-45CE-8978-0BB8CF4D6822}.Release|x86.ActiveCfg = Release|x86
+		{B4A95187-8886-45CE-8978-0BB8CF4D6822}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

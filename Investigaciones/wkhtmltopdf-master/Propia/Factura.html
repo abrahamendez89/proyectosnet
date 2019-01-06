@@ -1,0 +1,358 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Editable Invoice</title>
+	<link rel="stylesheet" type="text/css" href="Factura.css">
+	<style>
+		body{
+			background: gray;
+		}
+
+		#pagina { 
+			width: 800px; 
+			margin: 0 auto; 
+			background: white;
+		}
+		#datosFactura{
+			width: 250px;
+			float: right;
+			border: 1px solid;
+			padding: 5px;
+		}
+		#datosXML{
+			width: 250px;
+			float: right;
+			margin-top: 10px;
+			border: 1px solid;
+			padding: 5px;
+		}
+		#encabezado {
+		    position: relative;
+		    overflow: hidden;
+		    background: #ecf0f1;
+		}
+		#datosEmisor{
+			position: relative;
+			width: 400px;
+			float: left;
+			border: 1px solid;
+			padding: 5px;
+		}
+		#datosReceptor{
+			border: 1px solid;
+			padding: 5px;
+		}
+		#contenedorPago {
+		    position: relative;
+		    overflow: hidden;
+		    margin-top: 10px;
+		}
+		#contenedorDatosFiscales {
+		    position: relative;
+		    overflow: hidden;
+		    background: #ecf0f1;
+		    margin-top: 10px;
+		}
+		#totalesConImpuestos{
+			float: right;
+		}
+
+		#formaPago {
+		    float: left;
+		}
+		#cadenasSAT {
+		    float: left;
+		}
+		#datosSAT {
+		    float: right;
+		}
+		.contenedor{
+			padding: 10px;
+		}
+		table { 
+			border-collapse: collapse; 
+			width: 100%
+		}
+		table td, table th {
+			padding: 2px;
+			font-size: 11px;
+		}
+
+		#concepto td {
+		    text-align: center;
+		}
+		.descripcion{
+			text-align: left !important;
+		}
+		#mensajeInicio{
+			margin: 10px;
+			text-align: center;
+		}
+		.emisorDato{
+			width: 120px;
+		}
+		.facturaDato{
+			width: 80px;
+		}
+
+		#datosReceptor1 {
+		    float: left;
+		    width: 400px;
+		}
+
+		#datosReceptor2 {
+		    float: right;
+		    width: 250px;
+		}
+
+		#contenedorReceptor{
+			overflow: hidden;
+			/* border: 1px solid; */
+			padding: 10px;
+			/* margin: 10px; */
+			background: #ecf0f1;
+			margin-top: 10px;
+		}
+
+		#tablaConceptos tr, #tablaConceptos td, #tablaConceptos th {
+		    border: 1px solid;
+		}
+
+		#pagina {
+		    padding: 10px;
+		}
+
+		#contenedorConceptos {
+		    background: #ecf0f1;
+		    margin-top: 10px;
+		}
+
+		#contenedorSecundario {
+		    overflow: hidden;
+		    border: 1px solid;
+		    padding: 5px;
+		}
+
+		#totalesConImpuestos table td {
+		    border: 1px solid;
+		}
+
+		#totalesConImpuestos td {
+		    width: 100px;
+		}
+
+		#cadenasSAT td {
+		    border: 1px solid;
+		}
+
+		#datosSAT td {
+		    border: 1px solid;
+		}
+	</style>
+</head>
+<body>
+	<div id='pagina'>
+		<div id='mensajeInicio'>
+			Esta es una representación gráfica de un CFDI.
+		</div>
+		<div class='contenedor' id='encabezado'>
+			<div id='datosEmisor'>
+				<div>Datos del Emisor:</div>
+				<table>
+					<tr>
+						<td class='emisorDato'><b>Nombre:</b></td>
+						<td>@EmisorNombre</td>
+					</tr>
+					<tr>
+						<td class='emisorDato'><b>RFC:</b></td>
+						<td>@EmisorRFC</td>
+					</tr>
+					<tr>
+						<td class='emisorDato'><b>Expedido en:</b></td>
+						<td>@EmisorExpedidoEn</td>
+					</tr>
+					<tr>
+						<td class='emisorDato'><b>Regimen:</b></td>
+						<td>@EmisorRegimen</td>
+					</tr>
+					<tr>
+						<td class='emisorDato'><b>Domicilio fiscal:</b></td>
+						<td>@EmisorDomicilioFiscal</td>
+					</tr>
+				</table>
+			</div>
+			<div id='datosFactura'>
+				<div>Datos de la factura:</div>
+				<table>
+					<tr>
+						<td class='facturaDato'><b>Serie:</b></td>
+						<td>@FacturaSerie</td>
+					</tr>
+					<tr>
+						<td><b>Folio:</b></td>
+						<td>@FacturaFolio</td>
+					</tr>
+					<tr>
+						<td><b>Fecha:</b></td>
+						<td>@FacturaFecha</td>
+					</tr>
+					<tr>
+						<td><b>No. Certificado:</b></td>
+						<td>@FacturaCertificado</td>
+					</tr>
+				</table>
+			</div>
+			<div id='datosXML'>
+				<table>
+					<tr>
+						<td class='facturaDato'><b>Estatus en el SAT:</b></td>
+						<td>@SATEstatus</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class='contenedor' id='contenedorReceptor'>
+			<div id='contenedorSecundario'>
+				<div>
+					Datos del Receptor:
+				</div>
+				<div id='datosReceptor1'>
+					<table>
+						<tr>
+							<td class='emisorDato'><b>Nombre:</b></td>
+							<td>@ReceptorNombre</td>
+						</tr>
+						<tr>
+							<td class='emisorDato'><b>RFC:</b></td>
+							<td>@ReceptorRFC</td>
+						</tr>
+						<tr>
+							<td class='emisorDato'><b>Domicilio:</b></td>
+							<td>@ReceptorDomicilio</td>
+						</tr>
+						<tr>
+							<td class='emisorDato'><b>Código Postal:</b></td>
+							<td>@ReceptorCodigoPostal</td>
+						</tr>
+					</table>
+				</div>
+				<div id='datosReceptor2'>
+					<table>
+						<tr>
+							<td class='emisorDato'><b>Colonia:</b></td>
+							<td>@ReceptorColonia</td>
+						</tr>
+						<tr>
+							<td class='emisorDato'><b>Municipio:</b></td>
+							<td>@ReceptorMunicipio</td>
+						</tr>
+						<tr>
+							<td class='emisorDato'><b>Estado:</b></td>
+							<td>@ReceptorEstado</td>
+						</tr>
+						<tr>
+							<td class='emisorDato'><b>Pais:</b></td>
+							<td>@ReceptorPais</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div class='contenedor' id='contenedorConceptos'>
+			<div  id='conceptos'>
+				<div>
+					Conceptos:
+				</div>
+				<table id='tablaConceptos'>
+					<tr id='encabezadoConceptos'>
+						<th>Cantidad</th>
+						<th>Unidad</th>
+						<th>Concepto/descripción</th>
+						<th>Valor unitario</th>
+						<th>Importe</th>
+					</tr>	
+					<tr id='concepto'>
+						<td>@ConceptoCantidad</td>
+						<td>@ConceptoUnidad</td>
+						<td class='descripcion'>@ConceptoDescripcion</td>
+						<td>@ConceptoValorUnitario</td>
+						<td>@ConceptoImporte</td>
+					</tr>	
+				</table>	
+			</div >	
+			<div id='contenedorPago'>
+				<div id='totalesConImpuestos'>
+					<table>
+						<tr>
+							<td><b>Subtotal:</b></td>
+							<td>@Subtotal</td>
+						</tr>
+						<tr>
+							<td><b>IMPUESTOS:</b></td>
+							<td>@Impuesto</td>
+						</tr>
+						<tr>
+							<td><b>Total:</b></td>
+							<td>@Total</td>
+						</tr>
+						
+					</table>	
+				</div>
+				<div id='formaPago'>
+					<table>
+						<tr>
+							<td><b>Forma de pago:</b></td>
+							<td>@FormaPago</td>
+						</tr>
+						<tr>
+							<td><b>Condiciones de pago:</b></td>
+							<td>@FormaPagoCondiciones</td>
+						</tr>
+						<tr>
+							<td><b>Método de pago:</b></td>
+							<td>@FormaPagoCondiciones</td>
+						</tr>
+						<tr>
+							<td><b>Tipo de comprobante:</b></td>
+							<td>@FormaPagoCondiciones</td>
+						</tr>
+					</table>	
+				</div>
+			</div>
+		</div>
+		
+		<div class='contenedor' id='contenedorDatosFiscales'>
+			<div id='cadenasSAT'>
+				<div>Cadenas SAT:</div>
+				<table>
+						<tr>
+							<td><b>Sello digital:</b></td>
+							<td>@vzKAKC0LbnTKrmQqBvjw1PjBnwP4ARYGQ2OEmC+Ts87V52z6r1V6p5kskHeXZvjYP86+4alwPKdWisocYisGSVEcjcvtuNxQnSlKYHU4zXkwMR4d60kpg7c7jYyTG93BHN47GSOZyfeGcsDG5tel54UR8+sVFO+4TorlbSKo9Iw=</td>
+						</tr>
+						<tr>
+							<td><b>Sello SAT:</b></td>
+							<td class='test'>@vzKAKC0LbnTKrmQqBvjw1PjBnwP4ARYGQ2OEmC+Ts87V52z6r1V6p5kskHeXZvjYP86+4alwPKdWisocYisGSVEcjcvtuNxQnSlKYHU4zXkwMR4d60kpg7c7jYyTG93BHN47GSOZyfeGcsDG5tel54UR8+sVFO+4TorlbSKo9Iw=</td>
+						</tr>
+					</table>	
+			</div>
+			<div id='datosSAT'>
+				<div>Datos timbrado:</div>
+				<table>
+						<tr>
+							<td><b>Certificado SAT:</b></td>
+							<td>@CertificadoSAT</td>
+						</tr>
+						<tr>
+							<td><b>Folio fiscal (UUID):</b></td>
+							<td>@UUID</td>
+						</tr>
+						<tr>
+							<td><b>Fecha de Timbrado:</b></td>
+							<td>@FechaTimbrado</td>
+						</tr>
+					</table>	
+			</div>
+		</div>
+	</div>
+</body>
+</html>

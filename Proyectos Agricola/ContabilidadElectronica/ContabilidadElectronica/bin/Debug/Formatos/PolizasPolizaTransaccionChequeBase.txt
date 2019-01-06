@@ -1,0 +1,1 @@
+<PLZ:Cheque Num="@Num" BanEmisNal="@BanEmisNal" BanEmisExt="@BanEmisExt" CtaOri="@CtaOri" Fecha="@Fecha" Benef="@Benef" RFC="@RFC" Monto="@Monto" TipCamb="@TipCamb" Moneda="@Moneda"/>

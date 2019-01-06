@@ -1,0 +1,29 @@
+<!--<md-content layout-padding id="popupContainer" scroll-to-bottom="data">-->
+<md-content class="md-padding" layout-xs="column" layout="row">
+    <div flex-xs flex-gt-xs="100" layout="column" layout-align="start center">
+            
+        <md-card flex="flex" class="carta" >
+          <md-list >
+              <md-list-item class="md-3-line" ng-repeat="item in data">
+                  <img ng-if="item.fotoPerfil!=null" ng-src="{{item.fotoPerfil}}" class="md-avatar" alt="{{item.nombres}}">
+                  <img ng-if="item.fotoPerfil==null" ng-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjzeMLlmGX21FTbIVH-kgAJQT0TLp80Cvjf2PIYWSSX8Er7pfC" class="md-avatar" alt="{{item.nombres}}">
+                  <div class="md-list-item-text">
+                    <h4>{{item.nombres}} {{item.apellidoPaterno}} {{item.apellidoMaterno}}</h4>
+                    <p>
+                        Voto: {{item.titulo}}
+                    </p>
+                    <p>
+                        <h5>{{formatDate(item.fecha_voto)}}</h5>
+                    </p>
+                    
+                  </div>
+              </md-list-item>
+            </md-list>
+          </md-card>
+          <div class="centrado">
+            <md-button class="md-raised md-primary" ng-click="goto('/encuestas')">Volver</md-button>
+        </div>
+    </div>
+           
+    
+</md-content>

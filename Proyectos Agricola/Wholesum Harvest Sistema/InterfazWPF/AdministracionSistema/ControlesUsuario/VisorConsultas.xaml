@@ -1,0 +1,9 @@
+﻿<Window x:Class="InterfazWPF.AdministracionSistema.ControlesUsuario.VisorConsultas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VisorConsultas" Height="333.466" WindowStartupLocation="CenterScreen" Width="665.737">
+    <Grid>
+        <DataGrid x:Name="dgv_data" Margin="10,10,10,10" AlternationCount="2" AlternatingRowBackground="#FFB6DCE4"/>
+
+    </Grid>
+</Window>

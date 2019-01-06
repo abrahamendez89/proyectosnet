@@ -1,0 +1,16 @@
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\bin\Debug\HTTPRequester.exe
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\bin\Debug\HTTPRequester.pdb
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\MainWindow.baml
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\MainWindow.g.cs
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\App.g.cs
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester_MarkupCompile.cache
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.g.resources
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.Properties.Resources.resources
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.csproj.GenerateResource.Cache
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.exe
+c:\users\abraham.mendez\documents\visual studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.pdb
+C:\Users\abraham.mendez\Documents\Visual Studio 2010\Projects\HTTPRequester\HTTPRequester\bin\Debug\System.Data.SQLite.dll
+C:\Users\abraham.mendez\Documents\Visual Studio 2010\Projects\HTTPRequester\HTTPRequester\bin\Debug\System.Data.SQLite.pdb
+C:\Users\abraham.mendez\Documents\Visual Studio 2010\Projects\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.csprojResolveAssemblyReference.cache
+D:\Proyecto corcega\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.exe
+D:\Proyecto corcega\HTTPRequester\HTTPRequester\obj\x86\Debug\HTTPRequester.pdb

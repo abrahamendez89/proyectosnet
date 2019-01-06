@@ -1,0 +1,4 @@
+D:\Proyectos personales\TallerWeb\Dominio\bin\Debug\Dominio.dll
+D:\Proyectos personales\TallerWeb\Dominio\bin\Debug\Dominio.pdb
+D:\Proyectos personales\TallerWeb\Dominio\obj\Debug\Dominio.dll
+D:\Proyectos personales\TallerWeb\Dominio\obj\Debug\Dominio.pdb

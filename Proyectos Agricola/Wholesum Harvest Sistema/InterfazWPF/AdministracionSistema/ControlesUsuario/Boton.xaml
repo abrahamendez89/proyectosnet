@@ -1,0 +1,78 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="InterfazWPF.Boton"
+	x:Name="UserControl" d:DesignHeight="20" Width="69.792">
+	<UserControl.Resources>
+		<Storyboard x:Key="OnMouseEnter1">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FFBCBCBC"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FF585858"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="OnMouseLeave1">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFBCBCBC"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FF555353"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF585858"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FF060606"/>
+			</ColorAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Offset)" Storyboard.TargetName="rectangle">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0.992"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="DeshabilitarAnimacion">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF8D8D8D"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(TextElement.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="txt_nombre">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFAEAEAE"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF939393"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[0].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FFA8A7A7"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="HabilitarAnimacion">
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[1].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF8D8D8D"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF060606"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[2].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FF939393"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="#FF7E7E7E"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(GradientBrush.GradientStops)[0].(GradientStop.Color)" Storyboard.TargetName="rectangle">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFA8A7A7"/>
+				<EasingColorKeyFrame KeyTime="0:0:0.2" Value="White"/>
+			</ColorAnimationUsingKeyFrames>
+			<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(TextElement.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="txt_nombre">
+				<EasingColorKeyFrame KeyTime="0" Value="#FFAEAEAE"/>
+			</ColorAnimationUsingKeyFrames>
+		</Storyboard>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot">
+		<Rectangle x:Name="rectangle" RadiusY="4.833" RadiusX="4.833" Stroke="Black" Margin="0">
+			<Rectangle.Fill>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FF4B4B4B" Offset="0"/>
+					<GradientStop Color="#FF060606" Offset="1"/>
+					<GradientStop Color="#FF555353" Offset="0.111"/>
+				</LinearGradientBrush>
+			</Rectangle.Fill>
+		</Rectangle>
+		<TextBlock x:Name="txt_nombre" Margin="22.501,3,2.958,5" TextWrapping="Wrap" Text="boton" Foreground="White" FontSize="10.667"/>
+		<Image x:Name="img_icono" Margin="4.501,1.336,0,0" Stretch="Fill" Height="18" VerticalAlignment="Top" HorizontalAlignment="Left" Width="18"/>
+	</Grid>
+</UserControl>

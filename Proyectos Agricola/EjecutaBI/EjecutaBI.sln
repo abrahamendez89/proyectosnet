@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjecutaBIConsola", "EjecutaBIConsola\EjecutaBIConsola.csproj", "{C6955617-07A1-45DB-8D81-F0C8F6080AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herramientas", "..\Herramientas\Herramientas.csproj", "{5D7B5D2F-1E0F-470E-A0A0-A683DAEF7FFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjecutaBI", "EjecutaBI\EjecutaBI.csproj", "{6939C3F7-C9B7-4D11-A667-971A54AE723B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuracion", "Configuracion\Configuracion.csproj", "{DBBAC774-159D-412B-89D4-41B4FAFC11BB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://wholesumharvest.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = ..\\Herramientas\\Herramientas.csproj
+		SccProjectName0 = $/WholesumHarvest/Proyectos/Herramientas
+		SccAuxPath0 = https://wholesumharvest.visualstudio.com/defaultcollection
+		SccLocalPath0 = ..\\Herramientas
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6955617-07A1-45DB-8D81-F0C8F6080AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6955617-07A1-45DB-8D81-F0C8F6080AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6955617-07A1-45DB-8D81-F0C8F6080AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6955617-07A1-45DB-8D81-F0C8F6080AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7B5D2F-1E0F-470E-A0A0-A683DAEF7FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7B5D2F-1E0F-470E-A0A0-A683DAEF7FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7B5D2F-1E0F-470E-A0A0-A683DAEF7FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7B5D2F-1E0F-470E-A0A0-A683DAEF7FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6939C3F7-C9B7-4D11-A667-971A54AE723B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6939C3F7-C9B7-4D11-A667-971A54AE723B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6939C3F7-C9B7-4D11-A667-971A54AE723B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6939C3F7-C9B7-4D11-A667-971A54AE723B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBAC774-159D-412B-89D4-41B4FAFC11BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBAC774-159D-412B-89D4-41B4FAFC11BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBAC774-159D-412B-89D4-41B4FAFC11BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBAC774-159D-412B-89D4-41B4FAFC11BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:windowsForms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:activeXControl="clr-namespace:AxWMPLib;assembly=AxInterop.WMPLib"
+        xmlns:Controles="clr-namespace:Karaoke.Controles" x:Class="Karaoke.Calificador"
+        Title="Calificador" Height="768" Width="1024" Background="Black">
+    <Grid>
+
+        <Controles:Reproductor x:Name="reproductor" Visibility="Visible" Height="309" Width="510" Margin="246,101,260,0" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <TextBlock Margin="10,10,10,0" TextWrapping="Wrap" Text="TU CALIFICACION ES..." VerticalAlignment="Top" Foreground="White" FontSize="36" FontWeight="Bold" TextAlignment="Center"/>
+        <TextBlock x:Name="txt_calificacion" Margin="308,410,320,0" TextWrapping="Wrap" Text="100" Foreground="White" FontSize="150" FontWeight="Bold" TextAlignment="Center" Height="200" VerticalAlignment="Top" HorizontalAlignment="Center" Width="388"/>
+        <TextBlock x:Name="txt_mensaje" Margin="10,0,10,10" TextWrapping="Wrap" Text="TextBlock" Foreground="White" FontSize="36" Height="48" VerticalAlignment="Bottom" FontWeight="Bold" TextAlignment="Center"/>
+
+    </Grid>
+</Window>

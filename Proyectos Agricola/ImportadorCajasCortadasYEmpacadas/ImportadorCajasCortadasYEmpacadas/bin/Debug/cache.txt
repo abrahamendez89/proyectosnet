@@ -1,0 +1,3 @@
+ArchivoAccess = \\192.168.140.210\f\Autom\Theojary Crisantes\Programa Siembra Anual\Prog Siembra Anual BD.accdb
+Query = select * from [_CCort y CEmp Proyectadas x Sem qry]
+FROM ((Cat_Campos INNER JOIN Cat_Tablas ON Cat_Campos.IdCP = Cat_Tablas.IdCP) INNER JOIN (Cat_Cultivos INNER JOIN Mov_ProgSiembra ON Cat_Cultivos.IdCU = Mov_ProgSiembra.IdCU) ON (Cat_Tablas.IdTab = Mov_ProgSiembra.IdTab) AND (Cat_Tablas.IdCP = Mov_ProgSiembra.IdCP) AND (Cat_Tablas.Temp = Mov_ProgSiembra.Temp)) INNER JOIN Mov_ProgSiembra_CCyCExSem ON (Mov_ProgSiembra.IdSiem = Mov_ProgSiembra_CCyCExSem.IdSiem) AND (Mov_ProgSiembra.Temp = Mov_ProgSiembra_CCyCExSem.Temp)

@@ -1,0 +1,6 @@
+D:\Proyectos\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.exe
+D:\Proyectos\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.pdb
+D:\Proyectos\GeneradorQR\GeneradorQR\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Proyectos\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csprojResolveAssemblyReference.cache
+D:\Proyectos\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.exe
+D:\Proyectos\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.pdb

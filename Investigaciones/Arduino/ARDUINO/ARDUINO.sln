@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARDUINO", "ARDUINO\ARDUINO.csproj", "{3CAA4078-CA50-4F67-BD0F-4DFD5BA84B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAA4078-CA50-4F67-BD0F-4DFD5BA84B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAA4078-CA50-4F67-BD0F-4DFD5BA84B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAA4078-CA50-4F67-BD0F-4DFD5BA84B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAA4078-CA50-4F67-BD0F-4DFD5BA84B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

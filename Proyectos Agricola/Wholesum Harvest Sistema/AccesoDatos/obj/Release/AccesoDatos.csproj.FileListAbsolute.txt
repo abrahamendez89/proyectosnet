@@ -1,0 +1,7 @@
+D:\WHOLESUM_TF\AccesoDatos\bin\Release\AccesoDatos.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Release\AccesoDatos.pdb
+D:\WHOLESUM_TF\AccesoDatos\bin\Release\Herramientas.dll
+D:\WHOLESUM_TF\AccesoDatos\bin\Release\Herramientas.pdb
+D:\WHOLESUM_TF\AccesoDatos\obj\Release\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\AccesoDatos\obj\Release\AccesoDatos.dll
+D:\WHOLESUM_TF\AccesoDatos\obj\Release\AccesoDatos.pdb

@@ -1,0 +1,31 @@
+package com.example.karaokeapp;
+
+import java.net.Socket;
+
+import android.os.Bundle;
+import android.app.Activity;
+import android.view.Menu;
+
+public class Test extends Activity {
+	private Socket socket;
+	    private static final int SERVERPORT = 5000;
+	    private static final String SERVER_IP = "10.0.2.2";
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_test);
+        
+        new Thread(new ClientThread()).start();
+
+    }
+
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.test, menu);
+        return true;
+    }
+    
+}

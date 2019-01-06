@@ -1,0 +1,9 @@
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\bin\Debug\EnviarMailCorcega.exe.config
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\bin\Debug\EnviarMailCorcega.exe
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\bin\Debug\EnviarMailCorcega.pdb
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\obj\Debug\EnviarMailCorcega.csprojResolveAssemblyReference.cache
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\obj\Debug\EnviarMailCorcega.Form1.resources
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\obj\Debug\EnviarMailCorcega.Properties.Resources.resources
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\obj\Debug\EnviarMailCorcega.csproj.GenerateResource.Cache
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\obj\Debug\EnviarMailCorcega.exe
+D:\Proyecto corcega\EnviarMailCorcega\EnviarMailCorcega\obj\Debug\EnviarMailCorcega.pdb

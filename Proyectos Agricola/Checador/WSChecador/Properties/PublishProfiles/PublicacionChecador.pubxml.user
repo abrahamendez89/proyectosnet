@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Abrahamm.WHOLESUM\Documents\PUBLICACION CHECADOR</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DPFPGuiNET.dll">
+      <publishTime>08/17/2010 17:44:18</publishTime>
+    </File>
+    <File Include="bin/DPFPShrNET.dll">
+      <publishTime>08/17/2010 17:44:20</publishTime>
+    </File>
+    <File Include="bin/DPFPVerNET.dll">
+      <publishTime>08/17/2010 17:44:20</publishTime>
+    </File>
+    <File Include="bin/FirebirdSql.Data.FirebirdClient.dll">
+      <publishTime>09/09/2014 09:26:10</publishTime>
+    </File>
+    <File Include="bin/Herramientas.dll">
+      <publishTime>08/11/2015 12:20:12</publishTime>
+    </File>
+    <File Include="bin/Herramientas.pdb">
+      <publishTime>08/11/2015 12:20:12</publishTime>
+    </File>
+    <File Include="bin/Ionic.Zip.dll">
+      <publishTime>06/08/2011 20:01:40</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>05/24/2014 04:16:59</publishTime>
+    </File>
+    <File Include="bin/NCalc.dll">
+      <publishTime>09/20/2011 10:54:36</publishTime>
+    </File>
+    <File Include="bin/SQLite.NET.dll">
+      <publishTime>02/12/2005 01:06:30</publishTime>
+    </File>
+    <File Include="bin/WSChecador.dll">
+      <publishTime>08/12/2015 13:14:50</publishTime>
+    </File>
+    <File Include="bin/WSChecador.pdb">
+      <publishTime>08/12/2015 13:14:50</publishTime>
+    </File>
+    <File Include="Checador.asmx">
+      <publishTime>12/16/2014 12:17:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/12/2015 08:43:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

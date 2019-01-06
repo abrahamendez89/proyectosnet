@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UTILERIASERP</name>
+    </assembly>
+    <members>
+        <member name="T:UTILERIASERP.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.btnCancel">
+            <summary>
+              Looks up a localized string similar to Cancelar.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.btnNo">
+            <summary>
+              Looks up a localized string similar to No.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.btnOk">
+            <summary>
+              Looks up a localized string similar to Ok.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.btnYes">
+            <summary>
+              Looks up a localized string similar to Si.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.dtpFechaFormato">
+            <summary>
+              Looks up a localized string similar to dd/MM/yyyy.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.msgLongitudMaxima">
+            <summary>
+              Looks up a localized string similar to Longitud máxima.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.msgLongitudMinima">
+            <summary>
+              Looks up a localized string similar to Longitud minima.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Properties.Resources.msgValorRequerido">
+            <summary>
+              Looks up a localized string similar to Valor Requerido.
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Utilerias.ConfiguracionDominio.Ruta">
+            <summary>
+            Opcional. Si no se llena, la ruta será RootDSE
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.Extensiones.LlamarFuncionalidad``1(UTILERIASERP.Utilerias.MG_UserControl,System.Int32,System.Int32,System.Action{``0})">
+            <summary>
+            
+            </summary>
+            <typeparam name="T">
+            T es el tipo de user control a levantar
+            Ejemplo.- apcuCasoUso
+            </typeparam>
+            <param name="uc"></param>
+            <param name="anchoVentana"></param>
+            <param name="altoVentana"></param>
+            <param name="metodo">
+            La acción a realizar sobre la instancia del user control definido en T.
+            Ejemplo.- x => x.ACTA_ID = 5
+            (Se asigna a la variable publica ACTA_ID el valor 5)
+            </param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.Extensiones.ConvertToUCase(MODELO_DATOS_ORACLE.Modelo.ICCase,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="objeto"></param>
+            <param name="nivel"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UTILERIASERP.Utilerias.Reportes.iniVisorReporteWPF">
+            <summary>
+            Interaction logic for iniVisorReporteWPF.xaml
+            </summary>
+            <summary>
+            iniVisorReporteWPF
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.Reportes.iniVisorReporteWPF.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UTILERIASERP.Utilerias.MessageBoxERP">
+            <summary>
+            Interaction logic for MessageBoxERP.xaml
+            This is the MessageBoxERP dialog class itself
+            </summary>
+            <remarks>
+            This code was implemented by MasterSoft Software Solutions Ltd.
+            Visit the <see href="http://www.mastersoft.at">MasterSoft website</see> for further information.
+            <para>Dev: BGH -- Mag. (FH) Christian Kleinheinz</para>
+            </remarks>
+            <summary>
+            MessageBoxERP
+            </summary>
+        </member>
+        <member name="F:UTILERIASERP.Utilerias.MessageBoxERP.ButtonsProperty">
+            <summary>
+            This is the static buttons dependency property
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Utilerias.MessageBoxERP.Buttons">
+            <summary>
+            Set or get the button mode of the message box to show.
+            The MessageBoxButton enumartion of microsoft is used.
+            </summary>
+        </member>
+        <member name="F:UTILERIASERP.Utilerias.MessageBoxERP.DialogImageProperty">
+            <summary>
+            This is the static buttons dependency property
+            </summary>
+        </member>
+        <member name="P:UTILERIASERP.Utilerias.MessageBoxERP.DialogImage">
+            <summary>
+            Set or get the button mode of the message box to show.
+            The MessageBoxButton enumartion of microsoft is used.
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.OnButtonsChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            Event handler on changing the button mode of the message box
+            </summary>
+            <param name="obj"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.OnDialogImageChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            Event handler on changing the image dependency property
+            </summary>
+            <param name="obj"></param>
+            <param name="e"></param>
+        </member>
+        <member name="P:UTILERIASERP.Utilerias.MessageBoxERP.Result">
+            <summary>
+            The result of this message box
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.#ctor">
+            <summary>
+            Default constructor
+            The data context of the dialog is set to itself
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.btnOk_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Button ok click
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.btnYes_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Button yes click
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.btnNo_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Button no click
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.btnCancel_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Button cancel click
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="E:UTILERIASERP.Utilerias.MessageBoxERP.PropertyChanged">
+            <summary>     
+            Occurs when a property value changes.     
+            </summary>    
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.OnPropertyChanged(System.String)">
+            <summary>
+            Property changed event handler
+            </summary>
+            <param name="propertyName">The name of the changed property</param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.Show(System.Windows.Controls.ContentControl,System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage)">
+            <summary>
+            Show a modal rad alert box
+            This static method was implemented following the Microsoft pattern for the standard WPF MessageBox
+            but is using the telerik RadWindow internally
+            </summary>
+            <param name="ctrlOwner">The owner window if needed otherwise null</param>
+            <param name="strMessage">The message to display</param>
+            <param name="strCaption">The title of the message box window. (Parameter is optional)</param>
+            <param name="button">The buttons the dialog should have - Default is ok</param>
+            <param name="image">The image the dialog should hold - Default is Warning</param>
+            <returns>A message box result enum with the result of the dialog</returns>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.Show(System.String,System.String)">
+            <summary>
+            Show a modal MessageBoxERP with a message and the window title as option
+            </summary>
+            <param name="strMessage">The message string to show</param>
+            <param name="strCaption">The title of the message box window.(Parameter is optional)</param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.Show(System.String,System.String,System.Windows.MessageBoxButton)">
+            <summary>
+            Show a modal MessageBoxERP with a message a window title and configure the buttons to display
+            </summary>
+            <param name="strMessage">The message string to show</param>
+            <param name="strCaption">The title of the message box window.(Parameter is optional)</param>
+            <param name="button">The buttons the dialog should have - Default is ok</param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.Show(System.String,System.String,System.Windows.MessageBoxButton,System.Windows.MessageBoxImage)">
+            <summary>
+            Show a modal MessageBoxERP with a message a window title, configure the buttons to display and set the dialogs image
+            </summary>
+            <param name="strMessage">The message string to show</param>
+            <param name="strCaption">The title of the message box window.(Parameter is optional)</param>
+            <param name="button">The buttons the dialog should have - Default is ok</param>
+            <param name="image">The image the dialog should hold - Default is Warning</param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MessageBoxERP.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MG_UserControl.CrearSecuenciaControlesInputDeGrid(System.Windows.Controls.Grid)">
+            <summary>
+            Llamando este metodo al iniciar una nueva captura se genera la secuencia de controles y se bloquean de forma automática para no permitir
+            el avance si no se captura el valor requerido.
+            </summary>
+            <param name="gridPadre">Grid padre que contiene los controles del tipo Input de Telerik para secuenciar.</param>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MG_UserControl.LimpiarControlesEventos">
+            <summary>
+            Con este metodo se limpian los eventos agregados para controlar la secuencia y validación de controles.
+            </summary>
+        </member>
+        <member name="M:UTILERIASERP.Utilerias.MG_UserControl.ReestablecerControles">
+            <summary>
+            Con este metodo se reestablecen los readonly originales, esto con el fin de conservar el estatus original del readonly incluso despues de que
+            el proceso en la forma los haya cambiado.
+            </summary>
+        </member>
+    </members>
+</doc>

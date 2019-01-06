@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E948654-6A33-4B7D-B373-AB33EB1C9449}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VNCViewerLauncher</RootNamespace>
+    <AssemblyName>VNCViewerLauncher</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1446013897_17_google_play.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>VNCViewerLauncher.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InputSimulator">
+      <HintPath>..\..\InputSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarEquipoAntes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarEquipoAntes.Designer.cs">
+      <DependentUpon>AgregarEquipoAntes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarGrupo.Designer.cs">
+      <DependentUpon>AgregarGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCAgregarGrupo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCAgregarGrupo.Designer.cs">
+      <DependentUpon>UCAgregarGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCAgregarEquipoComputo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCAgregarEquipoComputo.Designer.cs">
+      <DependentUpon>UCAgregarEquipoComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCEquipoComputo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCEquipoComputo.Designer.cs">
+      <DependentUpon>UCEquipoComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCGrupo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlesUsuario\UCGrupo.Designer.cs">
+      <DependentUpon>UCGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarEquipo.Designer.cs">
+      <DependentUpon>AgregarEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceso.Designer.cs">
+      <DependentUpon>Acceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogo.Designer.cs">
+      <DependentUpon>Dialogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Launcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Launcher.Designer.cs">
+      <DependentUpon>Launcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VerEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerEquipo.Designer.cs">
+      <DependentUpon>VerEquipo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarEquipoAntes.resx">
+      <DependentUpon>AgregarEquipoAntes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarGrupo.resx">
+      <DependentUpon>AgregarGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesUsuario\UCAgregarGrupo.resx">
+      <DependentUpon>UCAgregarGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesUsuario\UCAgregarEquipoComputo.resx">
+      <DependentUpon>UCAgregarEquipoComputo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesUsuario\UCEquipoComputo.resx">
+      <DependentUpon>UCEquipoComputo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlesUsuario\UCGrupo.resx">
+      <DependentUpon>UCGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarEquipo.resx">
+      <DependentUpon>AgregarEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acceso.resx">
+      <DependentUpon>Acceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogo.resx">
+      <DependentUpon>Dialogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Launcher.resx">
+      <DependentUpon>Launcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VerEquipo.resx">
+      <DependentUpon>VerEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1419318443_6725.ico" />
+    <Content Include="1446013897_17_google_play.ico" />
+    <None Include="Resources\1447400794_Image.png" />
+    <None Include="Resources\1447400419_view-content-window.png" />
+    <None Include="Resources\1447400391_Notification_Area_Icons.png" />
+    <None Include="Resources\1447392053_Desktop.png" />
+    <None Include="Resources\1446623607_reload.png" />
+    <None Include="Resources\ultravnc1.jpg" />
+    <None Include="Resources\realvnc1.jpg" />
+    <None Include="Resources\ultravnc.jpg" />
+    <None Include="Resources\realvnc.jpg" />
+    <None Include="Resources\1446064182_magnifier.png" />
+    <None Include="Resources\1445996309_tick_green.png" />
+    <None Include="Resources\verde.png" />
+    <None Include="Resources\rojo.png" />
+    <None Include="Resources\naranja.png" />
+    <None Include="Resources\blanco.png" />
+    <None Include="Resources\amarillo.png" />
+    <None Include="Resources\1445996319_add_blue.png" />
+    <None Include="Resources\1445997115_Enter.png" />
+    <None Include="Resources\1445996814_icon-136-document-edit.png" />
+    <None Include="Resources\1445996357_close_red.png" />
+    <None Include="Resources\1445996563_desktop-monitor_screen.png" />
+    <None Include="Resources\1445993988_circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Herramientas\Herramientas.csproj">
+      <Project>{5d7b5d2f-1e0f-470e-a0a0-a683daef7ffa}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{71f57954-00d3-4b30-801d-43df2083ebe8}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

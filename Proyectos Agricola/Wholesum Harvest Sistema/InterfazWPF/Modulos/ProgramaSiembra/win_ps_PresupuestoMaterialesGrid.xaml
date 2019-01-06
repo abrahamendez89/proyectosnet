@@ -1,0 +1,14 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" x:Class="InterfazWPF.Modulos.ProgramaSiembra.win_ps_PresupuestoMaterialesGrid"
+        Title="win_ps_PresupuestoMaterialesGrid" WindowState="Maximized" Height="315.538" Width="527.092">
+    <Grid>
+        <DataGrid x:Name="dgv_datos" Margin="0,29,0,0" AlternationCount="2" AlternatingRowBackground="#FFB3CFFF"/>
+        <InterfazWPF:Boton x:Name="btn_verImportes" Text="Ver importes" HorizontalAlignment="Left" Margin="115,5,0,0" VerticalAlignment="Top" Width="108" MouseUp="btn_verImportes_MouseUp"/>
+        <InterfazWPF:Boton x:Name="btn_enviarExcel" Text="Enviar a excel" HorizontalAlignment="Right" Margin="0,5,0,0" VerticalAlignment="Top" Width="94" MouseUp="btn_exportarExcel_MouseUp"/>
+        <InterfazWPF:Boton x:Name="btn_verCantidades" Text="Ver cantidades" HorizontalAlignment="Left" Margin="228,5,0,0" VerticalAlignment="Top" Width="108" MouseUp="btn_verCantidades_MouseUp"/>
+        <InterfazWPF:Boton x:Name="btn_CargarDatos" Text="Calcular" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" Width="71" MouseUp="btn_CargarDatos_MouseUp"/>
+
+    </Grid>
+</Window>

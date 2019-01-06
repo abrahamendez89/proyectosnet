@@ -1,0 +1,111 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Aplicacion.Actualizacion"
+        Title="" Height="96.316" Width="440.684" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="{x:Null}" AllowsTransparency="True" ShowInTaskbar="False" Cursor="Wait" Icon="actualizacion.png">
+	<Window.Resources>
+		<Storyboard x:Key="Girar"/>
+		<Storyboard x:Key="esferas">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse1">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="26"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="-0.5"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse2">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="26"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="67.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:3.7" Value="26"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="-0.5"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse3">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="26"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="67.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="127"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="67"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:3.7" Value="25.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="-1"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ellipse">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="26"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="67.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="127"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2" Value="225"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="127"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="67"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:3.7" Value="25.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="-1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="entroCerrado">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_cerrar_reflejo">
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+		<Storyboard x:Key="salioCerrado">
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="img_cerrar_reflejo">
+				<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+		</Storyboard>
+	</Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="Mouse.MouseEnter" SourceName="img_cerrar">
+			<BeginStoryboard x:Name="entroCerrado_BeginStoryboard" Storyboard="{StaticResource entroCerrado}"/>
+		</EventTrigger>
+		<EventTrigger RoutedEvent="Mouse.MouseLeave" SourceName="img_cerrar">
+			<BeginStoryboard x:Name="salioCerrado_BeginStoryboard" Storyboard="{StaticResource salioCerrado}"/>
+		</EventTrigger>
+	</Window.Triggers>
+	<Grid>
+		<Rectangle x:Name="rectangle" Stroke="Black" RadiusY="13.5" RadiusX="13.5" Margin="0,0,-0.316,0.316" Opacity="0.58" Fill="Black"/>
+		<Rectangle HorizontalAlignment="Left" Height="52" Margin="70.333,24,0,0" RadiusY="6.5" RadiusX="6.5" Stroke="Black" VerticalAlignment="Top" Width="308.667" Fill="Black" Opacity="0.29"/>
+		<Label x:Name="txt_mensaje" Content="Buscando actualizaciones..." HorizontalAlignment="Left" Height="30" Margin="70.333,33,0,0" VerticalAlignment="Top" Width="308.667" FontSize="14" Foreground="White"/>
+		<Ellipse HorizontalAlignment="Left" Height="10.316" Margin="105,80,0,0" Stroke="Black" VerticalAlignment="Top" Width="10.5" Fill="#FF444444" StrokeThickness="0"/>
+		<Ellipse x:Name="ellipse1" HorizontalAlignment="Left" Height="10.316" Margin="105,80,0,0" Stroke="Black" VerticalAlignment="Top" Width="10.5" Fill="#FF444444" StrokeThickness="0" RenderTransformOrigin="0.5,0.5">
+			<Ellipse.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</Ellipse.RenderTransform>
+		</Ellipse>
+		<Ellipse x:Name="ellipse2" HorizontalAlignment="Left" Height="10.316" Margin="105,80,0,0" Stroke="Black" VerticalAlignment="Top" Width="10.5" Fill="#FF444444" StrokeThickness="0" RenderTransformOrigin="0.5,0.5">
+			<Ellipse.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</Ellipse.RenderTransform>
+		</Ellipse>
+		<Ellipse x:Name="ellipse3" HorizontalAlignment="Left" Height="10.316" Margin="105,80,0,0" Stroke="Black" VerticalAlignment="Top" Width="10.5" Fill="#FF444444" StrokeThickness="0" RenderTransformOrigin="0.5,0.5">
+			<Ellipse.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</Ellipse.RenderTransform>
+		</Ellipse>
+		<Ellipse x:Name="ellipse" HorizontalAlignment="Left" Height="10.316" Margin="105,80,0,0" Stroke="Black" VerticalAlignment="Top" Width="10.5" Fill="#FF444444" StrokeThickness="0" RenderTransformOrigin="0.5,0.5">
+			<Ellipse.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</Ellipse.RenderTransform>
+		</Ellipse>
+		<Image x:Name="img_cerrar_reflejo" HorizontalAlignment="Left" Height="19.333" Margin="406.667,10,0,0" VerticalAlignment="Top" Width="18.666" Stretch="Fill" Opacity="0" Source="CerrarTab.png">
+			<Image.Effect>
+				<DropShadowEffect Color="White" Direction="0" ShadowDepth="0"/>
+			</Image.Effect>
+		</Image>
+		<Image x:Name="img_cerrar" HorizontalAlignment="Left" Height="19.333" Margin="406.667,10,0,0" VerticalAlignment="Top" Width="18.666" Stretch="Fill" Source="CerrarTab.png"/>
+
+	</Grid>
+</Window>

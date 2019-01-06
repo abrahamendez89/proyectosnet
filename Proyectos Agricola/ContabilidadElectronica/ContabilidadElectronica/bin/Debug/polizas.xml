@@ -1,0 +1,11 @@
+<Polizas Version="1.0" RFC="mena1231234312134" Mes="09" Anio="2015" TipoSolicitud="AF" NumOrden="123" >
+	<Poliza NumUnIdenPol="PZ1234123" Fecha="2015-09-07" Concepto="un concepto de ejemplo">
+		<Transaccion NumCta="123456" DesCta="una descripcion de cuenta" Concepto="un concepto" Debe="50" Haber="100">
+			<CompNal UUID_CFDI="6E96C83C-367E-4AA0-9E00-6D09B973CB6C" RFC="MENA2999999" MontoTotal="500" Moneda="MXN" TipCamb="1.00000"/>
+
+
+
+			<Transferencia CtaOri="45465465465465465" BancoOri="011" Monto="200" CtaDest="3131321131231" BancoDest="010" Fecha="010" Benef="una persona x o la agricola" RFC="MENA2999999"/>
+</Transaccion>
+</Poliza>
+</Polizas>

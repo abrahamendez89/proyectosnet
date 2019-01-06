@@ -1,0 +1,9 @@
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Proyectos\Arduino\MonitoreoSeñalCanal3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

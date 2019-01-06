@@ -1,0 +1,48 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:InterfazWPF="clr-namespace:InterfazWPF" xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" x:Class="InterfazWPF.Modulos.Catalogos.win_gen_CatalogoActividadNomina"
+        Title="win_gen_CatalogoActividadNomina" Height="390.024" Width="678.303">
+    <Grid>
+        <TabControl Margin="10,37,10,10">
+            <TabItem Header="Datos de la actividad">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Código CROP:" HorizontalAlignment="Left" Margin="30,41,0,0" VerticalAlignment="Top"/>
+
+                    <ControlesUsuario:TextboxSoloNumero x:Name="txt_idCrop" HorizontalAlignment="Left" Margin="182,41,0,0" VerticalAlignment="Top" Width="210"/>
+                    <Label Content="Nombre:" HorizontalAlignment="Left" Margin="30,72,0,0" VerticalAlignment="Top"/>
+                    <ControlesUsuario:TextboxNormal x:Name="txt_nombre" HorizontalAlignment="Left" Margin="182,72,0,0" VerticalAlignment="Top" Width="320"/>
+                    <Label Content="Tiempo:" HorizontalAlignment="Left" Margin="30,102,0,0" VerticalAlignment="Top"/>
+                    <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_TiempoDuracion" HorizontalAlignment="Left" Margin="182,104,0,0" VerticalAlignment="Top" Width="58" Height="24"/>
+                    <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_BuscadorUnidadDuracionDiaria" HorizontalAlignment="Left" Margin="245,104,0,0" VerticalAlignment="Top" Height="24" Width="170"/>
+                    <Label Content="Formula costo:" HorizontalAlignment="Left" Margin="30,228,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Salario Diario:" HorizontalAlignment="Left" Margin="30,11,0,0" VerticalAlignment="Top"/>
+                    <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_SalarioDiario" HorizontalAlignment="Left" Margin="182,11,0,0" VerticalAlignment="Top" Width="210" Height="24"/>
+                    <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_BuscadorFormula" HorizontalAlignment="Left" Margin="182,228,0,0" VerticalAlignment="Top" Height="24" Width="320"/>
+                    <Label Content="Unidad medida:" HorizontalAlignment="Left" Margin="30,133,0,0" VerticalAlignment="Top"/>
+                    <ControlesUsuario:TextboxSoloNumeroDecimal x:Name="txt_CantidadUnidadMedida" HorizontalAlignment="Left" Margin="182,133,0,0" VerticalAlignment="Top" Width="58" Height="24"/>
+                    <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_BuscadorUnidadMedida" HorizontalAlignment="Left" Margin="245,133,0,0" VerticalAlignment="Top" Height="24" Width="170"/>
+                    <Label Content="Jornales necesarios:" HorizontalAlignment="Left" Margin="30,162,0,0" VerticalAlignment="Top"/>
+                    <ControlesUsuario:TextboxSoloNumero x:Name="txt_jornalesNecesarios" HorizontalAlignment="Left" Margin="182,162,0,0" VerticalAlignment="Top" Width="58" Height="24"/>
+                    <Label Content="Costo por unidad:" HorizontalAlignment="Left" Margin="30,193,0,0" VerticalAlignment="Top"/>
+                    <ControlesUsuario:TextboxSoloNumeroDecimal SoloLectura="True" x:Name="txt_costoPorUnidad" HorizontalAlignment="Left" Margin="182,195,0,0" VerticalAlignment="Top" Width="122" Height="24"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Materiales asociados a la actividad">
+                <Grid Background="#FFE5E5E5">
+                    <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_buscadorMaterialAsociado" Margin="319,12,84,0" VerticalAlignment="Top" Height="24" Width="Auto"/>
+                    <InterfazWPF:Boton x:Name="btn_guardar" MouseUp="btn_guardar_MouseUp" Text="Guardar" HorizontalAlignment="Right" Margin="0,14,10,0" VerticalAlignment="Top" Width="69"/>
+                    <DataGrid x:Name="dgv_materiales" SelectionChanged="dgv_materiales_SelectionChanged" Margin="10,51,10,35"/>
+                    <InterfazWPF:Boton x:Name="btn_quitar" MouseUp="btn_quitar_MouseUp" Text="Quitar" HorizontalAlignment="Right" Margin="0,0,10,11" VerticalAlignment="Bottom" Width="69"/>
+                    <Label Content="Formula:" HorizontalAlignment="Left" Margin="9,10,0,0" VerticalAlignment="Top"/>
+                    <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_buscadorFormulaMaterial" HorizontalAlignment="Left" Margin="70,12,0,0" VerticalAlignment="Top" Height="23" Width="232"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Label Content="Actividad:" HorizontalAlignment="Left" Margin="42,6,0,0" VerticalAlignment="Top"/>
+        <InterfazWPF:TextboxBusquedaCatalogo x:Name="txt_Buscador" HorizontalAlignment="Left" Margin="194,6,0,0" VerticalAlignment="Top" Height="24" Width="210"/>
+
+    </Grid>
+</Window>

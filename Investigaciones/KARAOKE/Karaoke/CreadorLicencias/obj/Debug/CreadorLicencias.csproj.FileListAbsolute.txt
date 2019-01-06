@@ -1,0 +1,50 @@
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\CreadorLicencias.exe
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\CreadorLicencias.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Herramientas.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\KaraTube.exe
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\MySql.Data.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\SQLite.NET.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\AForge.Video.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\itextsharp.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Ionic.Zip.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\NCalc.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\InputSimulator.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\YoutubeExtractor.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Interop.WMPLib.dll
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\KaraTube.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\YoutubeExtractor.pdb
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.Creador.resources
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.Properties.Resources.resources
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.csproj.GenerateResource.Cache
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.exe
+D:\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\CreadorLicencias.exe
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\CreadorLicencias.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Herramientas.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\KaraTube.exe
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\MySql.Data.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\SQLite.NET.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\AForge.Video.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\itextsharp.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Ionic.Zip.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\NCalc.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\AForge.Video.DirectShow.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Newtonsoft.Json.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\InputSimulator.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\AxInterop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Interop.WMPLib.dll
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\Herramientas.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\bin\Debug\KaraTube.pdb
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.csprojResolveAssemblyReference.cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.Creador.resources
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.Properties.Resources.resources
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.csproj.GenerateResource.Cache
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.exe
+H:\PROYECTOS RESPALDO\Proyectos personales\KARAOKE\Karaoke\CreadorLicencias\obj\Debug\CreadorLicencias.pdb

@@ -1,0 +1,42 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:InterfazWPF"
+	mc:Ignorable="d"
+	x:Class="InterfazWPF.ContenedorToolbox"
+	x:Name="UserControl"
+	d:DesignWidth="100" d:DesignHeight="400">
+
+	<Grid x:Name="LayoutRoot">
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+		<Rectangle x:Name="rtg_contenedor" Fill="Black" Stroke="Black" RadiusY="5.833" RadiusX="5.833" Opacity="0.495"/>
+		<ScrollViewer  VerticalScrollBarVisibility="Auto">
+			<WrapPanel x:Name="pnl_elementos" Margin="0,0,0,0" Orientation="Vertical"/>
+		</ScrollViewer>
+		<Rectangle Fill="Black" HorizontalAlignment="Left" Margin="-19.167,5,0,0" Stroke="Black" Width="19.167" StrokeThickness="0" RadiusY="1" RadiusX="1" Opacity="0.495" Height="66.266" VerticalAlignment="Top"/>
+		<TextBlock HorizontalAlignment="Left" Margin="-45.835,22.778,0,0" TextWrapping="Wrap" Width="68.664" RenderTransformOrigin="0.5,0.5" Foreground="White" FontSize="16" Height="20.029" VerticalAlignment="Top">
+			<TextBlock.RenderTransform>
+				<TransformGroup>
+					<ScaleTransform/>
+					<SkewTransform/>
+					<RotateTransform Angle="-89.737"/>
+					<TranslateTransform/>
+				</TransformGroup>
+			</TextBlock.RenderTransform><Run Language="es-mx" Text="Sistema"/></TextBlock>
+			<Rectangle Fill="Black" HorizontalAlignment="Right" Margin="0,5,-17.667,0" Stroke="Black" Width="17.667" StrokeThickness="0" RadiusY="1.167" RadiusX="1.167" Opacity="0.5" Height="72.766" VerticalAlignment="Top"/>
+			<TextBlock HorizontalAlignment="Right" Margin="0,30.445,-46.66,0" TextWrapping="Wrap" Width="68.664" RenderTransformOrigin="0.5,0.5" Foreground="White" FontSize="16" VerticalAlignment="Top"><TextBlock.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="89.796"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</TextBlock.RenderTransform><Run Language="es-mx" Text="Opciones"/></TextBlock>
+			<TextBlock x:Name="txt_seleccionadoSistema" HorizontalAlignment="Left" Margin="-137.164,0.667,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" Foreground="White" Background="#C0000000" Width="112.613" FontSize="16" d:LayoutOverrides="VerticalAlignment" Visibility="Hidden"/>
+			<TextBlock x:Name="txt_seleccionadoOpciones" Margin="121.333,0.667,-133.946,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" Background="#BD000000" FontSize="16" Foreground="White" d:LayoutOverrides="VerticalAlignment" Visibility="Hidden"><Run Background="Black" Text=""/></TextBlock>
+	</Grid>
+</UserControl>

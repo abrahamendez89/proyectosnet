@@ -1,0 +1,6 @@
+D:\Proyectos\ContabilidadElectronica\SAT_CFDI\bin\Debug\SAT_CFDI.dll.config
+D:\Proyectos\ContabilidadElectronica\SAT_CFDI\bin\Debug\SAT_CFDI.dll
+D:\Proyectos\ContabilidadElectronica\SAT_CFDI\bin\Debug\SAT_CFDI.pdb
+D:\Proyectos\ContabilidadElectronica\SAT_CFDI\obj\Debug\SAT_CFDI.dll
+D:\Proyectos\ContabilidadElectronica\SAT_CFDI\obj\Debug\SAT_CFDI.pdb
+D:\Proyectos\ContabilidadElectronica\SAT_CFDI\obj\Debug\SAT_CFDI.csprojResolveAssemblyReference.cache

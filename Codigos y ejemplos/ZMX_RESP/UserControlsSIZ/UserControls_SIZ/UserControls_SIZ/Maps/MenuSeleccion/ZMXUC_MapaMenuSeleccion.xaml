@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="UserControlsSIZ.Maps.MenuSeleccion.ZMXUC_MapaMenuSeleccion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UserControlsSIZ.Maps.MenuSeleccion"
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" 
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="300">
+    <Grid x:Name="grdGeneral" Background="White">
+        <Grid x:Name="grdContorno" Margin="5" Background="#FFEAEAEA">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Elegir:" Grid.Row="0" FontSize="20" Background="White" Margin="1"/>
+            <ScrollViewer Grid.Row="1" telerik:StyleManager.Theme="Windows8">
+                <StackPanel x:Name="stpElementos" Orientation="Vertical" >
+                       
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>  
+    </Grid>
+</UserControl>

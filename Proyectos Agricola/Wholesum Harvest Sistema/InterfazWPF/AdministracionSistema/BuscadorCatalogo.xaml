@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ControlesUsuario="clr-namespace:InterfazWPF.AdministracionSistema.ControlesUsuario" xmlns:InterfazWPF="clr-namespace:InterfazWPF" x:Class="InterfazWPF.AdministracionSistema.BuscadorCatalogo"
+        Title="Buscador Catálogo" Height="295.489" Width="735.339">
+    <Grid>
+        <Label Content="Termino de busqueda: " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+
+        <ControlesUsuario:TextboxNormal x:Name="txt_busqueda" HorizontalAlignment="Left" Margin="142,11,0,0" VerticalAlignment="Top" Width="177" KeyDown="TextboxNormal_KeyDown_1"/>
+        <Label Content="Buscar por:" HorizontalAlignment="Left" Margin="324,10,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmb_atributos" HorizontalAlignment="Left" Margin="398,14,0,0" VerticalAlignment="Top" Width="181"/>
+        <DataGrid x:Name="dgr_InformacionObjetos" Margin="10,66,10,34" AlternatingRowBackground="#FFCDCDCD" SelectionMode="Single" CanUserAddRows="False"/>
+
+        <InterfazWPF:Boton x:Name="btn_seleccionar" Text="Seleccionar" HorizontalAlignment="Right" Margin="0,0,6,7" VerticalAlignment="Bottom" Width="101" MouseDown="btn_seleccionar_MouseDown"/>
+        <InterfazWPF:Boton x:Name="btn_Cancelar" Text="Cancelar" HorizontalAlignment="Left" Margin="10,0,0,7" VerticalAlignment="Bottom" Width="101" MouseDown="btn_Cancelar_MouseDown"/>
+        <CheckBox x:Name="chb_MasDeUno" Content="Seleccionar más de uno" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Checked="chb_MasDeUno_Checked" Unchecked="chb_MasDeUno_Unchecked"/>
+        <CheckBox x:Name="chb_mostrarDeshabilitados" Content="Mostrar objetos deshabilitados" HorizontalAlignment="Right" Margin="0,41,10,0" VerticalAlignment="Top" Width="190"/>
+        <InterfazWPF:Boton x:Name="btn_Buscar" HorizontalAlignment="Left" Margin="591,14,0,0" VerticalAlignment="Top" Width="101" Text="Buscar(Enter)" MouseDown="btn_Buscar_MouseDown"/>
+
+    </Grid>
+</Window>

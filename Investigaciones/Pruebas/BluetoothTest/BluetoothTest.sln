@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothTest", "BluetoothTest\BluetoothTest.csproj", "{B013330A-3086-4D11-B939-9FB122538172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteSocket", "ClienteSocket\ClienteSocket.csproj", "{BAFFE33B-B9BC-4150-BB1C-B676094AADED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B013330A-3086-4D11-B939-9FB122538172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B013330A-3086-4D11-B939-9FB122538172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B013330A-3086-4D11-B939-9FB122538172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B013330A-3086-4D11-B939-9FB122538172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFFE33B-B9BC-4150-BB1C-B676094AADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFFE33B-B9BC-4150-BB1C-B676094AADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFFE33B-B9BC-4150-BB1C-B676094AADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFFE33B-B9BC-4150-BB1C-B676094AADED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

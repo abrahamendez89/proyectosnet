@@ -1,0 +1,122 @@
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Data.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraBars.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraScheduler.v6.3.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DriverXtraGrid.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\IniFileController.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\IniFileController.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Data.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Utils.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraEditors.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraGrid.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraScheduler.v6.3.xml
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmAccesoDeUsuario.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmAutorizacionLocalDeOperacionSupervisada.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmAutorizacionRemotaDeOperacionSupervisada.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmCambioDePassword.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmSeleccionadorMultiple.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmVisorCrystalReport.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmVisorDeListas.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmVisorDeListasAvanzado.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\abrahamm\Documents\Visual Studio 2012\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Data.v6.3.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Utils.v6.3.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraBars.v6.3.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraScheduler.v6.3.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DriverXtraGrid.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\FarPoint.Win.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Data.v6.3.xml
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.Utils.v6.3.xml
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraEditors.v6.3.xml
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraGrid.v6.3.xml
+D:\Projects2\Facturacion\DataAccess\DataAccess\bin\Debug\DevExpress.XtraScheduler.v6.3.xml
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmAccesoDeUsuario.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmAutorizacionLocalDeOperacionSupervisada.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmAutorizacionRemotaDeOperacionSupervisada.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmCambioDePassword.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmSeleccionadorMultiple.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmVisorCrystalReport.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmVisorDeListas.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.FrmVisorDeListasAvanzado.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\Sistema.Properties.Resources.resources
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects2\Facturacion\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAccesoDeUsuario.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAutorizacionLocalDeOperacionSupervisada.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAutorizacionRemotaDeOperacionSupervisada.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmCambioDePassword.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmSeleccionadorMultiple.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorCrystalReport.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorDeListas.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorDeListasAvanzado.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\Sistema.Properties.Resources.resources
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DataAccess.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DataAccess.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.Data.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.Utils.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraBars.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraScheduler.v6.3.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DriverXtraGrid.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\IniFileController.dll
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\IniFileController.pdb
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.Data.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.Utils.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraEditors.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraGrid.v6.3.xml
+D:\Projects2\Facturacion\Timbrado Nomina\DataAccess\bin\Debug\DevExpress.XtraScheduler.v6.3.xml
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\bin\Debug\IniFileController.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\bin\Debug\IniFileController.pdb
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAccesoDeUsuario.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAutorizacionLocalDeOperacionSupervisada.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAutorizacionRemotaDeOperacionSupervisada.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmCambioDePassword.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmSeleccionadorMultiple.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorCrystalReport.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorDeListas.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorDeListasAvanzado.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\alfredor.WHOLESUM\Desktop\proyectos vs.net\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.pdb
+D:\Proyectos\Timbrado Nomina\DataAccess\bin\Debug\DataAccess.dll
+D:\Proyectos\Timbrado Nomina\DataAccess\bin\Debug\DataAccess.pdb
+D:\Proyectos\Timbrado Nomina\DataAccess\bin\Debug\IniFileController.dll
+D:\Proyectos\Timbrado Nomina\DataAccess\bin\Debug\IniFileController.pdb
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAccesoDeUsuario.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAutorizacionLocalDeOperacionSupervisada.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmAutorizacionRemotaDeOperacionSupervisada.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmCambioDePassword.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmSeleccionadorMultiple.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorCrystalReport.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorDeListas.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.FrmVisorDeListasAvanzado.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\Sistema.Properties.Resources.resources
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.dll
+D:\Proyectos\Timbrado Nomina\DataAccess\obj\Debug\DataAccess.pdb

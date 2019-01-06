@@ -1,0 +1,16 @@
+D:\WHOLESUM_TF\Prototipos\bin\Release\Prototipos.exe.config
+D:\WHOLESUM_TF\Prototipos\bin\Release\Prototipos.exe
+D:\WHOLESUM_TF\Prototipos\bin\Release\Prototipos.pdb
+D:\WHOLESUM_TF\Prototipos\bin\Release\Dominio.dll
+D:\WHOLESUM_TF\Prototipos\bin\Release\Herramientas.dll
+D:\WHOLESUM_TF\Prototipos\bin\Release\AccesoDatos.dll
+D:\WHOLESUM_TF\Prototipos\bin\Release\Dominio.pdb
+D:\WHOLESUM_TF\Prototipos\bin\Release\Herramientas.pdb
+D:\WHOLESUM_TF\Prototipos\bin\Release\AccesoDatos.pdb
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.prot_DetalleDeTabla.resources
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.prot_croquis.resources
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.Properties.Resources.resources
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.csproj.GenerateResource.Cache
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.exe
+D:\WHOLESUM_TF\Prototipos\obj\Release\Prototipos.pdb

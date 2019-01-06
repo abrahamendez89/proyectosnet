@@ -1,0 +1,7 @@
+D:\Proyectos\ReportesTest\ReportesTest\bin\Debug\ReportesTest.exe.config
+D:\Proyectos\ReportesTest\ReportesTest\obj\Debug\ReportesTest.csprojResolveAssemblyReference.cache
+D:\Proyectos\ReportesTest\ReportesTest\obj\Debug\ReportesTest.Form1.resources
+D:\Proyectos\ReportesTest\ReportesTest\obj\Debug\ReportesTest.Properties.Resources.resources
+D:\Proyectos\ReportesTest\ReportesTest\obj\Debug\ReportesTest.csproj.GenerateResource.Cache
+D:\Proyectos\ReportesTest\ReportesTest\obj\Debug\RdlCompile.cache
+D:\Proyectos\ReportesTest\ReportesTest\obj\Debug\RdlCompile.compiled

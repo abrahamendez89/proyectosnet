@@ -1,0 +1,58 @@
+<!--<md-content layout-padding id="popupContainer" scroll-to-bottom="data">-->
+<md-content class="md-padding" layout-xs="column" layout="row">
+    
+    <div flex-xs flex-gt-xs="100" layout="column" layout-align="start center">
+            <div ng-repeat="item in data">
+                <md-card >
+                    <md-card-header>
+                      <md-card-avatar>
+                        <img class="md-user-avatar" src="{{foto}}"/>
+                      </md-card-avatar>
+                      <md-card-header-text>
+                        <span class="md-title">Abraham Méndez</span>
+                        <span class="md-subhead">Costa Latina, 522</span>
+                      </md-card-header-text>
+                    </md-card-header>
+                    <img ng-src="{{foto}}" class="md-card-image" alt="Washed Out">
+                    <md-card-title>
+                      <md-card-title-text>
+                        <span class="md-headline">Problemas de altas velocidades en corcega</span>
+                        <span class="md-subhead">
+                                <div>
+                                    <i class="fa fa-map-o"> Avenida Corcega</i>
+                                </div>
+                                <div>
+                                    <i class="fa fa-calendar-o"> 2017-10-04</i>
+                                </div>
+                        </span>
+                      </md-card-title-text>
+                    </md-card-title>
+                    <md-card-actions layout="row" layout-align="start center">
+                          <div class="foroIconosMargin">
+                              <i class="fa fa-thumbs-o-up"> 100</i>
+                            </div>
+                            <div class="foroIconosMargin">
+                                    <i class="fa fa-thumbs-o-down"> 20</i>
+                                  </div>
+                            <div class="foroIconosMargin">
+                                    <i class="fa fa-comments"> 4</i>
+                                </div>
+                      </md-card-actions>
+                    <md-card-content>
+                      <p>
+                        Existen problemas de altas velocidades en corcega, son un peligro para los niños y personas que ahi caminamos.
+                      </p>
+                    </md-card-content>
+                    <md-card-actions layout="row" layout-align="start center">
+                        <md-button class="md-raised md-info" ng-click="goto('/problematicaForoDetalles')">Ver detalles</md-button>
+                        <md-card-icon-actions>
+                        </md-card-icon-actions>
+                      </md-card-actions>
+                  </md-card>
+            </div>
+            <div class="centrado">
+                <md-button class="md-raised md-primary" ng-click="VerMas()">Ver más</md-button>
+        </div>
+    </div>
+    
+</md-content>

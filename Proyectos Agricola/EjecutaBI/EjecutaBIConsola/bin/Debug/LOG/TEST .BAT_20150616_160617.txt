@@ -1,0 +1,17 @@
+Iniciado el proceso 'TEST .BAT' con fecha: 16/06/2015 04:04:44 p. m.
+2015-06-16 16:04:44: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 16:04:44: Limpiando código de comentarios...
+2015-06-16 16:04:44: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 16:04:44: Ejecutando: 
+2015-06-16 16:04:44: BAT archivo.bat...
+2015-06-16 16:06:17: Duración(Minutos): 1.4595
+2015-06-16 16:06:17: Error: El sistema no puede encontrar el archivo especificado
+----------------------------------------------------------------------------
+
+Proceso terminado con 1 errores.
+Inicio: 2015-06-16 16:04:44
+Fin:    2015-06-16 16:06:17
+Duración(Minutos): 1.5521

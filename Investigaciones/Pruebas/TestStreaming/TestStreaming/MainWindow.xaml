@@ -1,0 +1,12 @@
+﻿<Window x:Class="TestStreaming.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <MediaElement x:Name="mediaElement" HorizontalAlignment="Left" Height="186" Margin="46,56,0,0" VerticalAlignment="Top" Width="352"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="169,278,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="pause" HorizontalAlignment="Left" Margin="323,278,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="continuar" HorizontalAlignment="Left" Margin="403,278,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

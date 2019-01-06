@@ -1,0 +1,4 @@
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\bin\Debug\FactAutomatica.exe.config
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Timbrado Nomina\TimbradoNomina\obj\Debug\FactAutomatica.pdb

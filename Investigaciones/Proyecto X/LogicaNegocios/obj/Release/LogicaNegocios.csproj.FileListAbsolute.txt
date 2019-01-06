@@ -1,0 +1,11 @@
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\LogicaNegocios.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\Dominio.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\Herramientas.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\AccesoDatos.dll
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\Dominio.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\Herramientas.pdb
+D:\WHOLESUM_TF\LogicaNegocios\bin\Release\AccesoDatos.pdb
+D:\WHOLESUM_TF\LogicaNegocios\obj\Release\LogicaNegocios.csprojResolveAssemblyReference.cache
+D:\WHOLESUM_TF\LogicaNegocios\obj\Release\LogicaNegocios.dll
+D:\WHOLESUM_TF\LogicaNegocios\obj\Release\LogicaNegocios.pdb

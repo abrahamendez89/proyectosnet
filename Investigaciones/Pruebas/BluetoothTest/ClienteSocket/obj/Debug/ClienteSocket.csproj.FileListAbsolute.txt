@@ -1,0 +1,16 @@
+D:\Proyectos\BluetoothTest\ClienteSocket\bin\Debug\ClienteSocket.exe
+D:\Proyectos\BluetoothTest\ClienteSocket\bin\Debug\ClienteSocket.pdb
+D:\Proyectos\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.csprojResolveAssemblyReference.cache
+D:\Proyectos\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.Form1.resources
+D:\Proyectos\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.Properties.Resources.resources
+D:\Proyectos\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.csproj.GenerateResource.Cache
+D:\Proyectos\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.exe
+D:\Proyectos\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.pdb
+I:\KARAOKE\BluetoothTest\ClienteSocket\bin\Debug\ClienteSocket.exe
+I:\KARAOKE\BluetoothTest\ClienteSocket\bin\Debug\ClienteSocket.pdb
+I:\KARAOKE\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.csprojResolveAssemblyReference.cache
+I:\KARAOKE\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.Form1.resources
+I:\KARAOKE\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.Properties.Resources.resources
+I:\KARAOKE\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.csproj.GenerateResource.Cache
+I:\KARAOKE\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.exe
+I:\KARAOKE\BluetoothTest\ClienteSocket\obj\Debug\ClienteSocket.pdb

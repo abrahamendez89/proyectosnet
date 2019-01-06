@@ -1,0 +1,2 @@
+Iniciado el proceso 'Proceso 2' con fecha: 16/06/2015 12:26:37 p. m.
+2015-06-16 12:26:37: An invalid connection string argument has been supplied or a required connection string argument has not been supplied.

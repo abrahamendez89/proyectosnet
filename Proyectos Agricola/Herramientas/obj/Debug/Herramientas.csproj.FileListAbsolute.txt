@@ -1,0 +1,57 @@
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\Herramientas.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\Herramientas.pdb
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\AForge.Video.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\InputSimulator.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\Ionic.Zip.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\itextsharp.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\MySql.Data.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\NCalc.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\bin\Debug\SQLite.NET.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.Forms.VisorXML.resources
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.ORM.Controles.BuscadorCatalogo.resources
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.ORM.Controles.txt_buscador.resources
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.csproj.GenerateResource.Cache
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.dll
+D:\Proyectos personales\BIT BUCKET\proyecto_calisto\Calisto\Herramientas\obj\Debug\Herramientas.pdb
+D:\Proyectos\Herramientas\bin\Debug\Herramientas.dll
+D:\Proyectos\Herramientas\bin\Debug\Herramientas.pdb
+D:\Proyectos\Herramientas\bin\Debug\AForge.Video.DirectShow.dll
+D:\Proyectos\Herramientas\bin\Debug\AForge.Video.dll
+D:\Proyectos\Herramientas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Proyectos\Herramientas\bin\Debug\InputSimulator.dll
+D:\Proyectos\Herramientas\bin\Debug\Ionic.Zip.dll
+D:\Proyectos\Herramientas\bin\Debug\itextsharp.dll
+D:\Proyectos\Herramientas\bin\Debug\MySql.Data.dll
+D:\Proyectos\Herramientas\bin\Debug\NCalc.dll
+D:\Proyectos\Herramientas\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\Herramientas\bin\Debug\SQLite.NET.dll
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.Forms.VisorXML.resources
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.ORM.Controles.BuscadorCatalogo.resources
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.ORM.Controles.txt_buscador.resources
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.csproj.GenerateResource.Cache
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.dll
+D:\Proyectos\Herramientas\obj\Debug\Herramientas.pdb
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\Herramientas.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\Herramientas.pdb
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\AForge.Video.DirectShow.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\AForge.Video.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\InputSimulator.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\Ionic.Zip.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\itextsharp.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\MySql.Data.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\NCalc.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\Newtonsoft.Json.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\bin\Debug\SQLite.NET.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.csprojResolveAssemblyReference.cache
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.Forms.VisorXML.resources
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.ORM.Controles.BuscadorCatalogo.resources
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.ORM.Controles.txt_buscador.resources
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.csproj.GenerateResource.Cache
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.dll
+D:\PROYECTOS RESPALDO\Proyectos\Herramientas\obj\Debug\Herramientas.pdb

@@ -1,0 +1,6 @@
+D:\Proyectos personales\YoutubeExtractor\YoutubeExtractor\obj\Debug\Full\YoutubeExtractor.csprojResolveAssemblyReference.cache
+D:\Proyectos personales\YoutubeExtractor\YoutubeExtractor\bin\Debug\Full\YoutubeExtractor.dll
+D:\Proyectos personales\YoutubeExtractor\YoutubeExtractor\bin\Debug\Full\YoutubeExtractor.pdb
+D:\Proyectos personales\YoutubeExtractor\YoutubeExtractor\bin\Debug\Full\Newtonsoft.Json.dll
+D:\Proyectos personales\YoutubeExtractor\YoutubeExtractor\obj\Debug\Full\YoutubeExtractor.dll
+D:\Proyectos personales\YoutubeExtractor\YoutubeExtractor\obj\Debug\Full\YoutubeExtractor.pdb

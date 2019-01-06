@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="UserControlsSIZ.Maps.ZMXUC_MapaPin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UserControlsSIZ.Maps"
+             xmlns:iconos="clr-namespace:UserControlsSIZ.Iconos"
+             mc:Ignorable="d" >
+    <Grid>
+        <iconos:IconAwesomeSIZ x:Name="icono" Margin="-10,-31,1,0" IconoBackground="Transparent" Height="35" IconoColor="Blue" Icono="fa_map_marker" />
+    </Grid>
+</UserControl>

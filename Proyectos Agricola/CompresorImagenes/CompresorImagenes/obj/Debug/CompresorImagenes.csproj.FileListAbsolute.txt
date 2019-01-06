@@ -1,0 +1,10 @@
+D:\Proyectos\CompresorImagenes\CompresorImagenes\bin\Debug\CompresorImagenes.exe
+D:\Proyectos\CompresorImagenes\CompresorImagenes\bin\Debug\CompresorImagenes.pdb
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.ConvertidorTablas.resources
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.ConvertidorArchivos.resources
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.Properties.Resources.resources
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.VisorImagenes.resources
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.csproj.GenerateResource.Cache
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.exe
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.pdb
+D:\Proyectos\CompresorImagenes\CompresorImagenes\obj\Debug\CompresorImagenes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+Iniciado el proceso 'Proceso 2' con fecha: 16/06/2015 06:01:19 p. m.
+2015-06-16 18:01:19: Error al configurar el servidor de base de datos, verificar datos.
+
+----------------------------------------------------------------------------
+2015-06-16 18:01:19: Limpiando código de comentarios...
+2015-06-16 18:01:19: Abriendo conexión a base de datos...
+----------------------------------------------------------------------------
+2015-06-16 18:01:19: Ejecutando: 
+2015-06-16 18:01:19: BAT D:\Proyectos\EjecutaBI\EjecutaBIConsola\bin\De...
+2015-06-16 18:01:22: Duración(Minutos): 0.0553
+2015-06-16 18:01:22: Error: No se ha redirigido StandardError.
+----------------------------------------------------------------------------
+
+Proceso terminado con 1 errores.
+Inicio: 2015-06-16 18:01:19
+Fin:    2015-06-16 18:01:22
+Duración(Minutos): 0.0558

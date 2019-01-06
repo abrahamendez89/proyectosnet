@@ -1,0 +1,30 @@
+<div class="container">
+    <h1>Persona controller</h1>
+
+    input: <input type="text" ng-model="compartida" >
+
+    <button ng-click="cambiar()">click</button>
+
+    <table id="mytable" class="table table-striped">
+        <thead>
+            <tr class="table-head">
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Edad</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="person in personas">
+                <th>
+                    <div>{{person.Nombre}}</div>
+                </th>
+                <th>
+                    <div>{{person.Apellido}}</div>
+                </th>
+                <th>
+                    <div>{{person.Edad}}</div>
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</div>
